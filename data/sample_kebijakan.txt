@@ -1,0 +1,24 @@
+    KEBIJAKAN PRIVASI - APLIKASI DOMPET DIGITAL "BAYARKU"
+    Terakhir diperbarui: 1 Januari 2026
+
+    1. DATA YANG KAMI KUMPULKAN
+    Kami mengumpulkan nama lengkap, nomor telepon, alamat email, nomor KTP, riwayat transaksi,
+    dan lokasi perangkat Anda saat aplikasi digunakan.
+
+    2. TUJUAN PENGGUNAAN DATA
+    Data digunakan untuk memproses transaksi, mencegah penipuan, verifikasi identitas sesuai
+    ketentuan Bank Indonesia, dan mengirimkan promosi produk mitra kami.
+
+    3. PEMBAGIAN DATA
+    Kami dapat membagikan data transaksi Anda kepada bank mitra, penyedia layanan pembayaran,
+    dan otoritas berwenang jika diminta oleh hukum. Kami juga bekerja sama dengan mitra iklan
+    pihak ketiga untuk menampilkan iklan yang relevan.
+
+    4. KEAMANAN DATA
+    Kami menerapkan enkripsi standar industri untuk melindungi data Anda selama transmisi.
+
+    5. HAK ANDA
+    Anda dapat menghubungi layanan pelanggan kami untuk memperbarui data pribadi Anda.
+
+    6. KONTAK
+    Untuk pertanyaan terkait privasi, hubungi privacy@bayarku.example.com
