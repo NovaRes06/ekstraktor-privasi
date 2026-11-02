@@ -34,10 +34,10 @@ Prasyarat: Python 3.12, satu API key Gemini di `.env`.
 
 ```bash
 pip install -r requirements.txt
-echo "GEMINI_API_KEY=..." > .env      # jangan pernah commit berkas ini
+echo "GEMINI_API_KEY=..." > .env      
 
 python build_index.py                  # indeks 8 dokumen rujukan -> chroma_db/
-uvicorn api:app --reload               # API di http://localhost:8000/docs
+uvicorn api:app --reload               
 streamlit run app.py                   # antarmuka
 ```
 
