@@ -1,1 +1,7 @@
 .env
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+chroma_db/
+tmp_uts/
