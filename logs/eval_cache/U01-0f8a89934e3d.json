@@ -1,0 +1,49 @@
+{
+  "id": "U01",
+  "jenis": "umum",
+  "target": "ekstraksi",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": false,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": false,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "tidak disebutkan",
+      "bukti_jenis_data_dikumpulkan": "tidak disebutkan",
+      "tujuan_pemrosesan": "Pemrosesan dilakukan untuk keperluan autentikasi layanan, pengiriman materi pemasaran atau promosi, serta penyampaian komunikasi non-promosi seperti tanda terima dan informasi akun.",
+      "bukti_tujuan_pemrosesan": "Kami dan mitra Kami (termasuk vendor, pemasok, pedagang dan/atau pihak ketiga lainnya yang berhubungan dengan Kami untuk kepentingan kegiatan komersial dan/atau non-komersial) dapat mengirimkan Anda pemasaran langsung, iklan, dan komunikasi promosi melalui aplikasi push-notification, pesan melalui Layanan, pos, platform obrolan (chat), media sosial, dan email (“Materi Pemasaran”) jika Anda telah setuju untuk berlangganan daftar email (mailing list) Kami, dan/atau setuju untuk menerima materi pemasaran dan promosi dari Kami.",
+      "dasar_pemrosesan": "Pemrosesan data didasarkan pada persetujuan pengguna, termasuk persetujuan untuk menerima materi pemasaran serta persetujuan dari orang tua atau wali bagi pengguna yang berusia di bawah 18 tahun.",
+      "bukti_dasar_pemrosesan": "Kami dan mitra Kami (termasuk vendor, pemasok, pedagang dan/atau pihak ketiga lainnya yang berhubungan dengan Kami untuk kepentingan kegiatan komersial dan/atau non-komersial) dapat mengirimkan Anda pemasaran langsung, iklan, dan komunikasi promosi melalui aplikasi push-notification, pesan melalui Layanan, pos, platform obrolan (chat), media sosial, dan email (“Materi Pemasaran”) jika Anda telah setuju untuk berlangganan daftar email (mailing list) Kami, dan/atau setuju untuk menerima materi pemasaran dan promosi dari Kami.",
+      "pihak_ketiga_penerima": "Data dapat dibagikan kepada institusi pemerintah yang berwenang, pihak pengiklan, serta mitra bisnis seperti vendor, pemasok, dan pedagang.",
+      "bukti_pihak_ketiga_penerima": "Dalam hal Kami membagikan Data Pribadi Anda kepada institusi pemerintah yang berwenang dan/atau institusi lainnya yang dapat ditunjuk oleh otoritas pemerintah yang berwenang atau memiliki kerja sama dengan Kami, Anda menyetujui dan mengakui bahwa penyimpanan Data Pribadi Anda oleh institusi terkait akan mengikuti kebijakan penyimpanan data masing-masing institusi tersebut.",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "Data pribadi disimpan selama diperlukan untuk memenuhi tujuan pengumpulan, selama masa retensi, atau sesuai ketentuan hukum, dan akan dihapus atau dianonimkan apabila tidak lagi dibutuhkan.",
+      "bukti_masa_retensi_data": "Data Pribadi Anda hanya akan disimpan selama diperlukan untuk memenuhi tujuan dari pengumpulannya, selama masa retensi atau selama penyimpanan tersebut diwajibkan atau diizinkan oleh Peraturan Perundang-undangan yang Berlaku.",
+      "hak_subjek_data": "Pengguna memiliki hak untuk meminta akses, koreksi, dan penghapusan data pribadi, serta berhak berhenti berlangganan dari komunikasi pemasaran.",
+      "bukti_hak_subjek_data": "Anda mungkin memiliki hak tertentu berdasarkan Peraturan Perundang-undangan yang Berlaku untuk meminta kepada Kami terhadap akses kepada, koreksi dari dan/atau penghapusan terhadap Data Pribadi Anda yang berada dalam penguasaan dan kendali Kami.",
+      "mekanisme_keamanan": "tidak disebutkan",
+      "bukti_mekanisme_keamanan": "tidak disebutkan",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 3086,
+      "output_tokens": 824
+    }
+  },
+  "durasi_detik": 40.0,
+  "waktu": "2026-11-02T13:44:40",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": false,
+    "3": null,
+    "4": true,
+    "5": null
+  }
+}

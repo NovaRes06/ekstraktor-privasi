@@ -1,0 +1,80 @@
+{
+  "model": "gemini-3.6-flash",
+  "waktu": "2026-11-02T13:44:28",
+  "ringkasan": {
+    "per_kriteria": {
+      "1": {
+        "lulus": 2,
+        "dinilai": 2
+      },
+      "2": {
+        "lulus": 2,
+        "dinilai": 2
+      },
+      "3": {
+        "lulus": 2,
+        "dinilai": 2
+      },
+      "4": {
+        "lulus": 2,
+        "dinilai": 2
+      },
+      "5": {
+        "lulus": 2,
+        "dinilai": 2
+      }
+    },
+    "per_jenis": {
+      "tolak": {
+        "lulus": 2,
+        "total": 2
+      }
+    },
+    "total_kasus": 2,
+    "lulus_semua": 2
+  },
+  "kasus": [
+    {
+      "id": "T02",
+      "jenis": "tolak",
+      "target": "rag",
+      "model": "gemini-3.6-flash",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "answer": "Tidak ada di dokumen.",
+        "sources": [],
+        "catatan": "Tidak ada chunk yang cukup relevan ditemukan (di atas ambang batas jarak) -- model tidak dipanggil."
+      },
+      "durasi_detik": 1.8,
+      "waktu": "2026-11-02T13:44:26"
+    },
+    {
+      "id": "T03",
+      "jenis": "tolak",
+      "target": "rag",
+      "model": "gemini-3.6-flash",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "answer": "Tidak ada di dokumen.",
+        "sources": [],
+        "catatan": "Tidak ada chunk yang cukup relevan ditemukan (di atas ambang batas jarak) -- model tidak dipanggil."
+      },
+      "durasi_detik": 0.5,
+      "waktu": "2026-11-02T13:44:28"
+    }
+  ]
+}

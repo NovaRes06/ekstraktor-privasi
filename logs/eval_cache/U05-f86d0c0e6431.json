@@ -1,0 +1,42 @@
+{
+  "id": "U05",
+  "jenis": "umum",
+  "target": "ekstraksi",
+  "model": "gemini-3.5-flash-lite",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Nama lengkap, alamat email, nomor telepon, dan riwayat transaksi pengguna dikumpulkan.",
+      "bukti_jenis_data_dikumpulkan": "Kami mengumpulkan nama lengkap, alamat email, nomor telepon, dan riwayat transaksi untuk keperluan verifikasi akun serta pencegahan penipuan.",
+      "tujuan_pemrosesan": "Data diproses untuk keperluan verifikasi akun dan pencegahan penipuan.",
+      "bukti_tujuan_pemrosesan": "Kami mengumpulkan nama lengkap, alamat email, nomor telepon, dan riwayat transaksi untuk keperluan verifikasi akun serta pencegahan penipuan.",
+      "dasar_pemrosesan": "tidak disebutkan",
+      "bukti_dasar_pemrosesan": "tidak disebutkan",
+      "pihak_ketiga_penerima": "Data pengguna dinyatakan tidak dijual kepada pihak mana pun.",
+      "bukti_pihak_ketiga_penerima": "Data pengguna tidak dijual kepada pihak mana pun.",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "tidak disebutkan",
+      "bukti_masa_retensi_data": "tidak disebutkan",
+      "hak_subjek_data": "tidak disebutkan",
+      "bukti_hak_subjek_data": "tidak disebutkan",
+      "mekanisme_keamanan": "Keamanan data dilindungi menggunakan enkripsi AES-256 saat penyimpanan dan TLS 1.3 saat pengiriman.",
+      "bukti_mekanisme_keamanan": "Kami menerapkan enkripsi AES-256 saat data disimpan dan TLS 1.3 saat data dikirim.",
+      "kontak_penanggung_jawab": "Tim privasi dapat dihubungi melalui alamat email privasi@bayarku.example.",
+      "bukti_kontak_penanggung_jawab": "Pengguna dapat menghubungi tim privasi di privasi@bayarku.example untuk mengajukan pertanyaan."
+    },
+    "usage": {
+      "input_tokens": 1699,
+      "output_tokens": 446
+    }
+  },
+  "durasi_detik": 1.8,
+  "waktu": "2026-11-02T14:05:10"
+}

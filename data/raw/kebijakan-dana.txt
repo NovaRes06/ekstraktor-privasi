@@ -1,0 +1,401 @@
+Sumber: https://www.dana.id/policy
+Diunduh: 2026-10-10
+
+Kebijakan DANA | Perlindungan Data dan Privasi Pengguna
+Personal
+Personal
+Dompet Digital
+Layanan Keuangan
+Gaya Hidup
+Bisnis
+Eksplor DANA untuk Bisnis
+Payment Gateway
+About Gapura
+Fee Calculator
+Solusi Pembayaran
+Integrated Payment
+Point of Sales
+DANA Business
+Disbursement
+DANA Disbursement
+Promosi
+DANA Deals
+Loyalty
+Lainnya
+Pricing Information
+Merchant Documents
+Contact Us
+API Docs
+Perusahaan
+Tentang Kami
+Karier
+Newsroom
+Sustainability
+Blog
+Hubungan Investor
+EN
+ID
+Download DANA
+Personal
+Bisnis
+Perusahaan
+Personal
+Dompet Digital
+Layanan Keuangan
+Gaya Hidup
+Eksplor DANA untuk Bisnis
+Payment Gateway
+Tentang Gapura
+Kalkulator Harga
+Solusi Pembayaran
+Integrated Payment
+Point of Sales
+DANA Bisnis
+Disbursement
+DANA Disbursement
+Promosi
+DANA Deals
+Loyalty
+Lainnya
+Informasi Harga
+Dokumen Merchant
+Hubungi Kami
+Dokumen API
+Tentang Kami
+Karier
+Newsroom
+Sustainability
+Blog
+Hubungan Investor
+EN
+ID
+Download DANA
+home.title
+PEMBERITAHUAN PRIVASI AKUN PENGGUNA DANA
+Pembaruan berlaku sejak tanggal 03 September 2026
+Pemberitahuan Privasi ini menjelaskan bagaimana PT Espay Debit Indonesia Koe (
+"PT EDIK"
+) dan Grup Perusahaannya (bersama-sama disebut
+"DANA"
+atau
+"Kami"
+) memperoleh, mengumpulkan, mengolah dan menganalisis, menyimpan, memperbaiki dan memperbarui, menampilkan, mentransfer, menghapus dan/atau memusnahkan, serta melindungi data pribadi (
+"Memproses Data Pribadi"
+atau
+"Pemrosesan Data Pribadi"
+) milik Anda (
+"Anda"
+atau
+"Subjek Data Pribadi"
+), termasuk pada saat Anda memberikan atau melakukan pengkinian/pemutakhiran data pribadi kepada Kami dari waktu ke waktu.
+Pemberitahuan Privasi ini berlaku bagi seluruh Subjek Data Pribadi DANA, termasuk Pengguna yang mendaftarkan diri (
+"Akun"
+) dan menggunakan layanan, fitur, dan/atau produk pada aplikasi resmi Kami maupun situs web Kami (
+www.dana.id
+) (bersama-sama disebut
+"Aplikasi"
+), kecuali diatur secara terpisah dalam pemberitahuan privasi lain.
+Pemberitahuan Privasi ini disusun agar Anda memahami bagaimana Kami Memproses Data Pribadi Anda, baik pada saat ini maupun di masa mendatang, sebagai bagian dari upaya Kami menghormati hak privasi Anda dan memenuhi komitmen kepatuhan terhadap peraturan perundang-undangan pelindungan data pribadi yang berlaku di Republik Indonesia (
+"Peraturan Pelindungan Data Pribadi yang Berlaku"
+) serta ketentuan peraturan perundang-undangan lain yang dikeluarkan oleh Pihak yang Berwenang di Republik Indonesia (
+"Hukum yang Berlaku"
+). Anda memiliki tanggung jawab untuk membaca, memahami, dan menaati Pemberitahuan Privasi ini beserta syarat dan ketentuan lain yang berlaku terkait Pemrosesan Data Pribadi Anda.
+Sehubungan dengan Pemrosesan Data Pribadi sebagaimana diatur dalam Pemberitahuan Privasi ini, DANA akan bertindak sebagai Pengendali Data Pribadi, sepanjang peran lain tidak ditentukan berdasarkan dasar hukum pemrosesan data pribadi terkait yang berlaku dan/atau Hukum Yang Berlaku
+1. PERSETUJUAN ANDA
+1.1    Kami melakukan segala aktivitas yang berhubungan dengan Pemrosesan Data Pribadi berdasarkan persetujuan Anda dan/atau dasar pemrosesan data pribadi lainnya yang diakui berdasarkan Hukum Yang Berlaku, baik dalam bentuk elektronik maupun non-elektronik sesuai dengan Hukum Yang Berlaku di Negara Kesatuan Republik Indonesia.
+1.2    Dalam hal Pemrosesan Data Pribadi membutuhkan persetujuan, Anda akan diminta untuk memberikan persetujuan dalam bentuk yakni antara lain tetapi tidak terbatas pada pernyataan tertulis, pengisian kotak centang, atau dalam bentuk lainnya yang menunjukkan bahwa Anda setuju dengan pemrosesan tersebut.
+1.3    Anda dapat menarik persetujuan untuk setiap Pemrosesan Data Pribadi yang Kami lakukan dengan melakukan pemberitahuan kepada Kami sesuai dengan Pemberitahuan Privasi ini dan/atau persetujuan atas Pemrosesan Data Pribadi lainnya yang berlaku.
+1.4    Anda juga dapat menarik persetujuan pengiriman komunikasi dan informasi tertentu dari Kami melalui pemberitahuan yang ditujukan sesuai Informasi Lebih Lanjut pada Pemberitahuan Privasi ini, atau untuk pengguna Aplikasi dapat melalui Help Center atau live chat yang tersedia pada Aplikasi.
+1.5    Penarikan persetujuan Anda dapat mengakibatkan penghentian layanan Kami atau hubungan kontraktual Anda dengan Kami, dengan semua hak dan kewajiban yang muncul sepenuhnya harus dipenuhi. Setelah menerima pemberitahuan untuk menarik persetujuan untuk Memproses Data Pribadi Anda, Kami akan menginformasikan kepada Anda tentang konsekuensi yang mungkin terjadi dari penarikan tersebut sehingga Anda dapat memutuskan apakah Anda tetap ingin menarik persetujuan. Mohon diperhatikan untuk pengguna Aplikasi, jika Anda memilih untuk menarik persetujuan, Kami masih dapat mengirim pesan-pesan non-promosi, seperti tanda terima atau informasi tentang Akun Anda.
+1.6    Apabila Anda mengungkapkan data pribadi yang berkaitan dengan individu lain (seperti data pribadi yang berkaitan dengan pasangan Anda, anggota keluarga, teman, atau pihak lain) kepada Kami, maka Anda wajib menyatakan dan menjamin bahwa Anda telah memperoleh persetujuan dari individu tersebut agar Kami dapat Memproses Data Pribadi individu tersebut. Di kemudian hari, Kami dapat meminta bukti persetujuan tersebut kepada Anda setiap saat.
+2. PENGUMPULAN DATA PRIBADI
+2.1 Jenis Data Pribadi yang Kami Kumpulkan
+"Data Pribadi"
+berarti data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung melalui sistem elektronik atau non-elektronik. Data Pribadi meliputi nama, alamat, tanggal lahir, pekerjaan, nomor telepon, agama, status perkawinan, alamat email, rekening bank dan rincian kartu kredit, jenis kelamin, identifikasi (termasuk paspor atau dokumen identitas nasional) dan/atau tanda pengenal lainnya yang dikeluarkan pemerintah, informasi kendaraan, foto, kewarganegaraan, nomor telepon Pengguna dan non-Pengguna di daftar kontak telepon seluler Anda, data kesehatan, informasi terkait keuangan, dan informasi biometrik. Selain itu, informasi lain, termasuk profil pribadi, dan/atau pengenal unik yang dikaitkan atau digabungkan dengan Data Pribadi, maka informasi tersebut juga merupakan Data Pribadi.
+Secara umum, DANA dapat mengumpulkan Data Pribadi di bawah ini pada saat Anda mengakses, menggunakan layanan dan fitur, atau melakukan transaksi menggunakan Aplikasi:
+1.    Data Identitas, termasuk:
+nama Akun (user ID);
+nama Pengguna;
+jenis kelamin;
+tempat lahir, tanggal, bulan dan tahun lahir;
+Kartu Tanda Penduduk (KTP);
+jenis pendidikan terakhir;
+jabatan;
+nama lengkap ibu kandung;
+alamat sesuai dengan KTP; dan
+foto dan/atau data biometrik.
+2.    Data Kontak, termasuk:
+alamat, email; dan
+nomor telepon dan/atau daftar kontak.
+3.    Data Transaksi, mencakup seluruh data riwayat transaksi non-tunai yang dilakukan oleh Pengguna pada dan/atau melalui Aplikasi; dan
+4.    Data lokasi, mencakup informasi lokasi geografis waktu-nyata (
+real-time
+) Anda.
+Kami dapat membuat, menggunakan, menganalisis, melisensikan, dan/atau mengungkapkan data gabungan seperti data statistik atau demografi untuk kepentingan pengaturan dan pengelolaan layanan yang meliputi, tetapi tidak terbatas pada pembaruan Aplikasi, kerja sama dengan pihak ketiga, keperluan promosi, analisis tren, dan sebagainya.
+Data gabungan dapat berasal dari Data Pribadi Anda sebagaimana di atas, tetapi tidak akan secara langsung mengungkapkan identitas Anda. Untuk memastikan hal tersebut, Kami akan: (i) menghapus semua pengenal sedemikian rupa sehingga data, sendiri atau bersama-sama dengan data lain yang tersedia, tidak dapat dikaitkan atau mengidentifikasi siapa pun, dan (ii) data tersebut akan digabungkan dengan data serupa sehingga data asli akan membentuk bagian dari kumpulan data yang lebih besar.
+2.2 Bagaimana DANA Mengumpulkan Data Pribadi Anda
+Data Pribadi yang Kami kumpulkan dapat diberikan oleh Anda secara langsung atau oleh pihak ketiga (misalnya: ketika Anda mendaftar atau menggunakan Aplikasi, ketika Anda menghubungi layanan pelanggan Kami, atau ketika terdapat kontrak kerjasama dengan Kami), atau dengan cara lain yang diizinkan oleh Peraturan Pelindungan Data Pribadi Yang Berlaku. Kami akan menerapkan sistem pengamanan informasi yang memadai dan sesuai dengan standar Peraturan Pelindungan Data Pribadi Yang Berlaku. Dengan tanpa mengesampingkan bahwa setiap transmisi informasi oleh Subjek Data Pribadi kepada Kami memiliki risiko, sehingga Anda juga bertanggung jawab dalam menjaga keamanan Data Pribadi.
+Kami dapat mengumpulkan Data Pribadi Anda secara langsung atau melalui perangkat seluler Anda, pada beberapa aktivitas di antaranya tetapi tidak terbatas pada:
+saat Anda mendaftar atau saat Anda menggunakan Aplikasi;
+2) saat Anda menggunakan, mengakses, dan berinteraksi setiap layanan yang tersedia dalam Aplikasi;
+saat Anda memberikan izin pada perangkat Anda untuk membagikan informasi dengan Aplikasi Kami;
+4) saat Anda menggunakan fitur chat pada Aplikasi;
+saat Anda membuat persetujuan dengan bentuk apapun dengan Kami;
+6) saat Anda menghubungi Kami, seperti melalui sambungan telepon, pertemuan tatap muka, platform media sosial dan email, atau aplikasi chat (seperti Whatsapp);
+saat Anda menautkan Akun Anda dengan media sosial Anda atau Akun eksternal lainnya; dan/atau
+1)
+Informasi yang dikumpulkan setiap kali Anda menggunakan Aplikasi:
+Pada saat Anda mengizinkan Aplikasi Kami untuk mengumpulkan dan mengakses Data Pribadi, perangkat Anda dapat mengirimkan informasi yang dapat mencakup Data Pribadi dan informasi teknis tertentu, termasuk:
+Data Lokasi, termasuk lokasi geografis ataupun
+Global Positioning System (GPS)
+setiap kali Anda menggunakan dan/atau mengunjungi Aplikasi secara waktu nyata (
+real-time
+);
+2) Informasi Koneksi, termasuk:
+alamat protokol internet (
+Internet Protocol
+atau
+IP Address
+) yang digunakan untuk menghubungkan perangkat Anda ke internet;
+jenis dan versi browser;
+sistem operasi; dan
+platform perangkat.
+Informasi penggunaan Aplikasi, termasuk:
+informasi log masuk;
+layanan yang Anda gunakan;
+pencarian yang Anda lakukan dalam Aplikasi Kami, dan
+aktivitas Anda dalam aplikasi.
+Informasi penggunaan Fitur Aplikasi, termasuk:
+identifikasi yang dihasilkan oleh Aplikasi (
+user ID
+); dan
+live chat
+yang tersedia dalam Aplikasi.
+Informasi Perangkat dan Data Teknis Lainnya, termasuk:
+identitas perangkat;
+cookies
+; dan
+informasi teknis lainnya yang diperlukan untuk penyediaan layanan.
+Data tersebut kami kumpulkan dengan tujuan agar Kami dapat menyediakan, mengelola, mengembangkan, dan meningkatkan layanan bagi Anda dalam menggunakan Aplikasi. Data yang bersifat teknis tersebut juga dapat disertakan dalam statistik anonim untuk memungkinkan Kami memahami cara Anda menggunakan Aplikasi Kami. Kami dapat menggunakan data-data tersebut untuk melacak aktivitas Anda, memahami cara Anda menggunakan situs Kami, menganalisis tren, dan tujuan lain yang diizinkan oleh Peraturan Pelindungan Data Pribadi Yang Berlaku.
+Apabila Anda tidak setuju dengan aktivitas pengumpulan Data Pribadi, Anda dapat memilih untuk menarik persetujuan,  menyesuaikan pengaturan pada perangkat seluler atau browser internet Anda, atau menonaktifkan pengaksesan yang dilakukan oleh Aplikasi Kami pada perangkat seluler Anda. Namun, hal itu dapat membatasi Kami dalam memberikan layanan optimal bagi Anda dan dapat mempengaruhi fungsi yang tersedia pada Aplikasi..
+Informasi yang dikumpulkan dari pihak ketiga
+Kami dapat menerima informasi tentang Anda termasuk Data Pribadi Anda dari pihak ketiga (termasuk mitra, vendor, dan pihak ketiga lainnya yang menyediakan layanan kepada Kami atau bekerja sama dengan Kami).
+Kami juga dapat memperoleh Data Pribadi Anda misalnya, pada saat Anda menghubungkan Akun Aplikasi Anda dengan sistem atau media lainnya dengan tunduk pada syarat dan ketentuan penggunaan layanan tersebut. Pada saat Anda menghubungkan Akun Aplikasi Anda dengan sistem atau media pihak ketiga lainnya, pihak ketiga tersebut juga bertanggung jawab atas Data Pribadi Anda dan tunduk sepenuhnya kepada Peraturan Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku.
+Informasi tentang Anak
+Untuk individu di bawah usia 17 tahun (
+"Anak"
+), Kami tidak akan secara sengaja mengumpulkan atau menyimpan Data Pribadi atau informasi apapun dari Anak tanpa persetujuan dari orang tua atau wali hukum Anak yang sah. Kami akan menutup setiap Akun yang digunakan secara eksklusif oleh Anak tersebut dan akan mengeluarkan dan/atau menghapus setiap Data Pribadi Anak yang dikirimkan tanpa persetujuan orang tua atau wali hukum Anak yang sah.
+Dalam hal Anda membuka dan menyerahkan Data Pribadi Anak tersebut kepada Kami, Anda menyetujui pemrosesan Data Pribadi Anak tersebut dan menerima serta menyetujui untuk terikat pada syarat dan ketentuan DANA atas nama anak tersebut.
+3. PENGGUNAAN DATA PRIBADI
+3.1 Dasar Pemrosesan Data Pribadi
+Kami memproses Data Pribadi Anda berdasarkan dasar hukum yang sah sesuai dengan Peraturan Pelindungan Data Pribadi yang Berlaku, yaitu:
+a.
+Persetujuan eksplisit
+— Kami dapat memproses Data Pribadi Anda untuk tujuan tertentu berdasarkan persetujuan Anda atau pihak yang berwenang untuk mewakili Anda.
+b.
+Kewajiban kontraktual
+— Kami dapat memproses Data Pribadi Anda untuk memenuhi kewajibannya dalam perjanjian antara Anda dan Kami atau sebelum melakukan perjanjian dengan Anda.
+c.
+Kewajiban hukum
+— Kami dapat memproses Data Pribadi Anda untuk memenuhi kewajiban hukum-nya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+d.
+Kepentingan sah
+— Kami dapat memproses Data Pribadi Anda untuk memenuhi kepentingan-nya yang sah dengan tidak mengesampingkan hak Subjek Data Pribadi serta tetap memperhatikan keseimbangan antara kepentingan Kami dengan hak-hak Anda, khususnya dalam upaya peningkatan Layanan.
+e.
+Kepentingan publik
+— Kami dapat memproses Data Pribadi Anda untuk melaksanakan tanggung jawab-nya dalam rangka menjaga kepentingan umum, memberikan pelayanan publik dan memenuhi kewenangan Kami berdasarkan peraturan perundang-undangan.
+f.
+Kepentingan vital
+— Kami dapat memproses Data Pribadi untuk memenuhi pelindungan kepentingan vital Subjek Data Pribadi sesuai dengan Hukum Yang Berlaku di Negara Kesatuan Republik Indonesia dan peraturan peraturan lainnya yang dikeluarkan oleh Pihak yang Berwenang di Negara Kesatuan Republik Indonesia (
+"Hukum Yang Berlaku"
+).
+3.2 Tujuan Pemrosesan Data Pribadi
+Kami dapat melakukan Pemrosesan Data Pribadi Anda dengan tujuan sebagai berikut maupun tujuan lain sesuai dengan Peraturan Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku, yakni antara lain tetapi tidak terbatas pada:
+Personalisasi layanan
+meningkatkan pengalaman dan layanan bagi Anda serta personalisasi yang Anda lakukan terhadap Aplikasi; dan
+melakukan pengelolaan atas Akun Aplikasi Anda yang termasuk mendaftarkan, mengidentifikasi Anda sebagai Pengguna dan untuk mengadministrasikan, memverifikasi, mengelola, atau menonaktifkan Akun Anda;
+memantau dan menganalisis aktivitas, perilaku, dan data demografis Pengguna termasuk kebiasaan dan penggunaan berbagai layanan yang tersedia di Aplikasi;
+melakukan analisis tren, penggunaan dan perilaku-perilaku lainnya (baik secara individual atau secara keseluruhan) termasuk melalui sistem, model analitik, algoritma, teknologi otomatis, atau metode pemrosesan lainnya yang membantu Kami untuk lebih memahami bagaimana Pengguna dan kumpulan Pengguna Kami mengakses serta menggunakan Aplikasi dan kegiatan komersial yang dilakukan melalui Aplikasi, termasuk untuk tujuan personalisasi, peningkatan layanan, pencegahan penyalahgunaan layanan, pengelolaan risiko, pemberian tanggapan terhadap pertanyaan, serta penyesuaian layanan berdasarkan kebutuhan dan preferensi Anda;
+Verifikasi identitas
+memverifikasi kelayakan dan/atau kesesuaian data Pengguna untuk menggunakan fitur-fitur dan fungsi-fungsi dalam Aplikasi maupun verifikasi apapun yang menurut pertimbangan DANA diperlukan sebelum memberikan layanan kepada Anda atau sebelum DANA mendaftarkan Anda yang termasuk pada proses prinsip mengenal pelanggan (
+know your customer
+);
+mengidentifikasi dan memproses pendaftaran Akun Anda, serta memelihara dan mengelola pendaftaran Anda sebagai Pengguna;
+Memproses pembayaran dan transaksi
+menyediakan layanan untuk Anda dan layanan pelanggan yang berkaitan dengan penggunaan Aplikasi termasuk berkolaborasi dengan DANA untuk memfasilitasi pembayaran atas pembelian barang dan/atau jasa, pengiriman dan layanan terkait lainnya untuk pembelian, pengenaan pembayaran kembali (charge-back), mengirimkan pemberitahuan tentang transaksi-transaksi dan tagihan-tagihan Anda dan menjawab pertanyaan, masukan, keluhan, tuntutan atau perselisihan dari Anda;
+menyediakan layanan untuk Anda yang berkaitan dengan penggunaan Aplikasi Kami, yaitu untuk mempermudah Anda dalam mengidentifikasi pengguna Aplikasi lainnya pada saat Anda melihat buku alamat telepon selular melalui Aplikasi;
+Pengembangan produk dan peningkatan kualitas layanan
+meningkatkan dan mengembangkan penawaran-penawaran Kami melalui penelitian dan pengembangan fungsi-fungsi baru dari Aplikasi atau produk dan layanan-layanan baru lainnya yang dapat Kami tawarkan dari waktu ke waktu;
+mengembangkan dan meningkatkan kualitas aplikasi untuk memenuhi kebutuhan dan preferensi Anda terhadap layanan yang dimiliki atau akan dikembangkan ke depannya oleh DANA;
+melakukan penelitian, analisis statistik atau survei, dan/atau analisis berbasis sistem, model analitik, algoritma, teknologi otomatis, atau metode pemrosesan lainnya baik secara lisan maupun tulisan, untuk mengelola dan melindungi bisnis Kami termasuk infrastruktur teknologi informasi, untuk mengukur kinerja Aplikasi dan layanan-layanan lain yang Kami tawarkan, meningkatkan kualitas, keamanan, dan keandalan layanan, serta untuk memastikan kepuasan Anda atas layanan Kami;
+memberitahu Anda mengenai segala pembaruan pada Aplikasi atau perubahan pada layanan DANA;
+Kerjasama dan pengalihan pemrosesan ke pihak ketiga
+melaksanakan kerja sama dengan pihak ketiga dengan maksud agar mereka dapat:
+i.    membantu Kami dalam menyediakan layanan-layanan Kami;
+ii.    mengoperasikan bisnis Kami;
+iii.    untuk tujuan pemrosesan data atas nama Kami;
+iv.    untuk tujuan audit internal;
+v.    memungkinkan pembelian dan/atau mengakses barang dan/atau layanan pihak ketiga yang ditawarkan dalam Aplikasi;
+vi.    memproses semua bentuk aktivitas Anda pada Aplikasi atau platform yang terhubung dengan Aplikasi; maupun
+vii.    tujuan lainnya sepanjang tidak bertentangan dengan Hukum Yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku. Seluruh Pihak Ketiga yang bekerja sama dengan Kami berkomitmen untuk melakukan Pemrosesan Data Pribadi yang mereka terima dari Kami sesuai dengan standar dan ketentuan Hukum Yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku.
+Pemasaran secara langsung (
+*
+direct marketing
+*
+)
+memberikan informasi pemasaran langsung kepada Anda sehubungan dengan layanan yang Kami tawarkan dan afiliasi Kami dan pihak ketiga yang telah dipilih menggunakan Data Pribadi Anda untuk menghubungi Anda, yakni antara lain tetapi tidak terbatas melalui telepon, pesan singkat (SMS), surel (e-mail), whatsapp maupun notifikasi push dalam Aplikasi (in app push up notification);
+menawarkan atau menyediakan layanan dari mitra-mitra maupun afiliasi yang bekerja sama dengan DANA kepada Pengguna;
+mengirimkan informasi, iklan, survei, promo, kupon, dan informasi-informasi lainnya yang dinilai relevan oleh DANA kepada Anda;
+Kami dapat memberikan Data Pribadi Anda kepada pihak ketiga tertentu untuk digunakan dalam memasarkan barang dan/jasa dan/atau layanan mereka, termasuk (i) afiliasi Kami; (ii) anak perusahaan Kami; (iii) sebagian atau seluruh perusahaan dalam grup PT EDIK; dan/atau (iv) rekanan bisnis Kami atau pihak ketiga yang bekerja sama dengan Kami.
+Pencegahan tindakan yang melawan hukum
+mengelola risiko, melakukan pengecekan atas kelayakan kredit dan kemampuan membayar (solvensi), atau menilai, mendeteksi, menyelidiki, mencegah terjadinya tindak pidana penipuan, pencucian uang, pendanaan terorisme dan/atau kegiatan-kegiatan yang berpotensi melanggar atau yang melanggar Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku serta kepentingan DANA, maupun untuk melindungi integritas platform teknologi informasi Kami;
+mendeteksi, menyelidiki, mencegah atau memperbaiki pelanggaran-pelanggaran atas syarat dan ketentuan layanan, pemberitahuan privasi, semua kebijakan internal DANA yang berlaku dari waktu ke waktu, standar industri, pedoman, Peraturan Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku;
+melakukan suatu pengungkapan untuk mencegah terjadinya suatu bahaya atau kerugian keuangan untuk melaporkan setiap dugaan kegiatan yang bertentangan dengan Hukum Yang Berlaku dan/atau untuk menghadapi setiap gugatan atau potensi gugatan yang diajukan terhadap Kami atau afiliasi Kami;
+Kepatuhan terhadap Hukum yang Berlaku
+melakukan pengungkapan yang disyaratkan oleh Hukum Yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku atau peraturan dari suatu negara manapun yang berlaku terhadap Kami atau afiliasi Kami, pejabat pemerintah atau pihak ketiga lainnya, termasuk asosiasi dimana Kami merupakan anggota, kartu atau jaringan pembayaran lainnya serta asosiasi industri lain yang relevan. Pengungkapan juga dapat dilakukan sehubungan dengan panggilan pengadilan, putusan dan/atau perintah pengadilan, perintah aparat penegak hukum yang berwenang dalam rangka penyidikan, penyelidikan, atau proses hukum lainnya atau suatu persyaratan di suatu negara manapun yang berlaku kepada Kami atau afiliasi Kami (termasuk persyaratan pelaporan anti-pencucian uang dan anti pendanaan terorisme);
+Transaksi korporasi
+melakukan uji kelayakan dan penilaian lainnya atau evaluasi terhadap penggabungan, pengambilalihan, pembiayaan transaksi atau usaha patungan yang aktual maupun yang diusulkan;
+memfasilitasi transaksi aset bisnis (yang dapat berupa penggabungan, akuisisi, spin-off/pemisahan atau penjualan aset) yang melibatkan DANA dan/atau afiliasi DANA;
+Dukungan dan layanan pelanggan
+memberikan bantuan teknis atau dalam rangka menyelesaikan hambatan teknis dan masalah operasional yang terjadi pada Aplikasi;
+Pelindungan kepentingan yang sah lainnya
+untuk tujuan bisnis lain yang sah seperti melindungi Anda dan pengguna Aplikasi lainnya dari kerugian, melindungi nyawa, menjaga keamanan produk dan sistem Kami dan melindungi kepentingan, hak, dan/atau properti Kami lainnya.
+Kami juga dapat menggunakan informasi dan/atau Data Pribadi Anda dengan cara lain, yang akan Kami sertai dengan pemberitahuan khusus pada saat pengumpulan dan/atau pemrosesan data tersebut untuk disetujui oleh Anda.
+4. PENGUNGKAPAN DATA PRIBADI
+4.1    Kami berkomitmen menjaga kerahasiaan setiap Data Pribadi yang Kami simpan dan mencegah dari segala bentuk penyalahgunaan atas Data Pribadi Pengguna termasuk dalam mengungkapkan Data Pribadi Pengguna kepada pihak mana pun. Namun, dalam kondisi tertentu, Kami dapat memberikan, mengumumkan, mengirimkan atau mentransfer, mengungkapkan dan/atau menampilkan Data Pribadi Anda kepada pihak ketiga (baik di dalam maupun di luar negara tempat tinggal Anda) untuk tujuan-tujuan sebagaimana diatur dalam ketentuan Bagian 3 di atas, sebagai berikut:
+a.    anak perusahaan Kami dan perusahaan yang memiliki hubungan afiliasi dengan Kami;
+b.    agen, kontraktor, dan penyedia layanan pihak ketiga yang bekerja sama dengan DANA dalam menyediakan layanan Kami;
+c.    entitas-entitas dengan siapa Kami memiliki hubungan referensi bisnis atau perjanjian-perjanjian komersial lainnya termasuk pihak ketiga dan entitas-entitas yang sepenuhnya atau sebagian dimiliki oleh Kami;
+d.    organisasi lain, seperti asosiasi dimana Kami merupakan anggota, kartu, jaringan pembayaran atau institusi keuangan, kepada atau melalui siapa pembayaran-pembayaran tersebut dilakukan dengan menggunakan DANA, atau entitas-entitas lainnya yang memungkinkan penggunaan Aplikasi oleh pengguna;
+e.    institusi keuangan, bank, agen penerimaan, lembaga pembiayaan, dan agen kredit;
+f.    penasihat profesional, lembaga penegak hukum, perusahaan asuransi, pemerintah dan pihak berwenang atau instansi lainnya dimana DANA berkewajiban untuk melakukan pengungkapan sesuai dengan Hukum Yang Berlaku atau peraturan organisasi di mana Kami terdaftar;
+g.    entitas-entitas yang terlibat dalam penggabungan, pengambilalihan, transaksi pembiayaan atau usaha patungan dengan Kami.
+4.2    Selain sebagaimana yang diatur di atas, DANA dapat mengungkapkan dan membagikan Data Pribadi Pengguna untuk tujuan apapun maupun kepada pihak lain termasuk pihak di luar negeri, setelah memperoleh persetujuan Pengguna dan sesuai dengan Hukum yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku.
+5. TINDAKAN KEAMANAN DAN PENYIMPANAN
+Kami menyimpan Data Pribadi Anda selama diperlukan untuk menyediakan dan memaksimalkan layanan yang Kami berikan dan untuk tujuan bisnis sesuai dengan Hukum Yang Berlaku, di antaranya:
+a.    dalam rangka mempertahankan kinerja dan kualitas layanan pada fitur-fitur Aplikasi;
+b.    dalam rangka membuat keputusan bisnis berdasarkan data yang Anda berikan untuk pengembangan produk-produk dan kualitas pelayanan Kami;
+c.    dalam rangka menyelesaikan masalah yang belum terselesaikan terkait Akun Anda, seperti chargeback, refund, maupun sengketa lain, dimana Kami akan menyimpan Data Pribadi Anda sampai masalah tersebut terselesaikan;
+d.    dalam rangka memenuhi kewajiban hukum, pajak, audit, dan akuntansi Kami, Kami akan menyimpan Data Pribadi yang diperlukan selama periode yang disyaratkan berdasarkan hukum yang berlaku; dan/atau
+e.    untuk tujuan lain seperti yang telah disebutkan di atas selama diperlukan untuk kepentingan bisnis Kami yang sah, seperti untuk mencegah penipuan atau menjaga keamanan Anda sebagai Pengguna DANA.
+Kami mengambil semua langkah yang wajar dan semaksimal mungkin termasuk memberikan perlindungan teknis, administrasi dan fisik untuk memastikan keandalan setiap karyawan, mitra, konsultan, atau vendor yang memiliki akses ke Data Pribadi. Kami akan memastikan bahwa akses tersebut sangat terbatas, relevan, dan sesuai dengan Hukum Yang Berlaku agar Data Pribadi Pengguna yang Kami proses terlindungi dari suatu risiko kehilangan, penyalahgunaan dan akses tanpa izin, pengungkapan, perubahan, penghapusan dan/atau pemusnahan yang tidak diinginkan.
+Untuk kepentingan pelindungan Data Pribadi tersebut, Kami akan melakukan verifikasi atas Data Pribadi yang diperoleh untuk memastikan akurasi, kelengkapan, dan konsistensi Data Pribadi, kecuali Data Pribadi tersebut telah terverifikasi keakuratannya dan telah ditampilkan atau diumumkan secara terbuka oleh sistem elektronik untuk pelayanan publik. Kemudian, Data Pribadi yang telah terverifikasi tersebut akan Kami simpan selama dibutuhkan untuk tujuan-tujuan yang sudah ditetapkan dalam pemberitahuan ini dan sesuai dengan persyaratan dalam Hukum Yang Berlaku.
+DANA akan berhenti menyimpan Data Pribadi, atau menghapus dan/atau memusnahkan Data Pribadi Anda, dalam hal adanya permohonan resmi penghapusan dan/atau pemusnahan Data Pribadi yang disampaikan oleh Anda kepada Kami dengan tunduk pada Hukum Yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku.
+6. PENERAPAN PRINSIP KEHATI-HATIAN
+6.1 Keamanan dan Kerahasiaan Data Pribadi
+Kami sangat menghimbau Anda untuk sangat berhati-hati untuk menjaga keamanan dan kerahasiaan Data Pribadi Anda, dengan cara, antara lain:
+tidak membiarkan pihak yang tidak berwenang untuk mengakses, menerima, menyimpan, dan/atau mengumpulkan Data Pribadi Anda, dengan cara, seperti; menjaga keamanan dan kerahasiaan PIN, kata sandi, dan/atau akun yang dapat memberikan akses ke Data Pribadi Anda;
+2) memperhatikan dengan cermat media yang Anda gunakan untuk menyimpan, mengunggah, menyampaikan, mengirimkan, dan/atau membagikan Data Pribadi Anda; dan
+menerapkan prinsip kehati-hatian dalam penggunaan layanan yang didukung oleh pihak ketiga sebagai pengendali data pribadi independen dengan paling tidak menandatangani perjanjian kerahasiaan dengan pihak yang Anda percayakan untuk menerima dan menyimpan Data Pribadi Anda, atau mensyaratkan pihak tersebut untuk memiliki dan menerapkan suatu kebijakan/pemberitahuan privasi yang tidak bertentangan dengan Hukum Yang Berlaku, dan hanya mempercayakan penyimpanan Data Pribadi Anda kepada pihak yang memiliki kredibilitas dan integritas dalam melindungi Data Pribadi.
+6.2 Penggunaan Jaringan Internet
+Perlu Anda ketahui bahwa penggunaan jaringan internet untuk pengiriman, pembagian, pengunggahan, maupun penyampaian Data Pribadi Anda tidaklah sepenuhnya aman, mengingat jaringan internet dapat diakses oleh pihak manapun dan terdapat risiko-risiko sehubungan dengan penyediaan dan pemanfaatan jaringan internet yang berada di luar kendali dan pengawasan Kami. Jika Pengguna menggunakan perangkat yang dapat digunakan oleh orang lain (perangkat publik), maka Pengguna harus memilih untuk tidak menyimpan informasi log-in Pengguna (misalnya: ID Pengguna dan kata sandi) pada perangkat tersebut.
+6.3 Penggunaan PIN dan Kata Sandi
+Anda dapat mengatur PIN atau kata sandi pada Aplikasi untuk melindungi Data Pribadi dari pengaksesan yang tidak sah. Anda bertanggung jawab atas keamanan perangkat yang Anda gunakan dan atas kerahasiaan detail Akun Anda, termasuk kata sandi, kode PIN, dan One Time Password (OTP) dari siapapun. Kami atau pihak ketiga yang bertindak atas nama Kami tidak mengetahui dan tidak akan pernah meminta kata sandi Anda dengan cara apapun, misalnya melalui telepon, email, atau media komunikasi online/offline dalam bentuk apapun.
+7. LAYANAN PIHAK KETIGA DAN SITUS WEB
+Aplikasi DANA mungkin menyediakan tautan ke situs web dan layanan lain (termasuk aplikasi yang dioperasikan oleh pihak ketiga) untuk kemudahan dan informasi bagi Anda. Layanan dan situs web ini dapat beroperasi secara independen dari Kami dan mungkin memiliki kebijakan/pemberitahuan privasinya sendiri. Kami menyarankan Anda untuk membaca terlebih dahulu sebelum menggunakan layanan pihak ketiga tersebut atau melakukan kegiatan apa pun di situs web tersebut. Penyediaan tautan ke situs web dan layanan lain sifatnya hanya merupakan informasi saja. Kami tidak memberikan dukungan atau jaminan apapun terhadap konten dan informasi yang dimuat dalam tautan tersebut.
+Aplikasi dan materi pemasaran dapat berisi tautan ke situs web yang dioperasikan oleh pihak ketiga. Dalam hal tersebut, Kami tidak bertanggung jawab dalam bentuk apapun untuk situs web ini maupun dalam hal pengumpulan, penggunaan, pemeliharaan, berbagi, penyimpanan dan/atau pengungkapan data dan informasi oleh pihak ketiga tersebut sebagai pengendali data pribadi independen yang terpisah. Kami menyarankan agar Anda dapat membaca dan memahami syarat dan ketentuan dan kebijakan/pemberitahuan privasi dari situs web pihak ketiga tersebut untuk mengetahui bagaimana mereka mengumpulkan, menyimpan dan/atau menggunakan Data Pribadi Anda.
+8. HAK PENGGUNA SEBAGAI SUBJEK DATA PRIBADI
+DANA mengakui bahwa Anda merupakan Subjek Data Pribadi yang memiliki hak tertentu berdasarkan Hukum Yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku. Anda dapat meminta Kami untuk melakukan koreksi dan/atau pembaruan, penghapusan serta pemusnahan terhadap Data Pribadi Anda yang berada dalam penguasaan dan kendali Kami, yang dapat Kami proses melalui Help Center atau live chat yang tersedia pada Aplikasi atau melalui pemberitahuan yang ditujukan pada Informasi Lebih Lanjut pada Pemberitahuan Privasi ini.
+8.1 Hak-Hak Pengguna
+a.
+Pengaksesan terhadap Historis dan Salinan Data Pribadi
+Anda memiliki hak untuk meminta akses terhadap historis dan memperoleh salinan Data Pribadi yang pernah diserahkan kepada Kami. Dalam hal demikian, Kami akan menyediakan informasi tersebut dengan format yang Kami tentukan, dengan memperhatikan kompatibilitas dan praktik yang berlaku. Anda dapat menyampaikan permohonan akses tersebut melalui Help Center atau live chat yang tersedia pada Aplikasi DANA, atau pada bagian Informasi Lebih Lanjut pada Pemberitahuan Privasi ini.
+b.
+Koreksi atau Pembaruan Data Pribadi Pengguna
+Pengguna dapat mengkoreksi dan/atau memperbarui sendiri Data Pribadinya yang Kami proses melalui Help Center atau live chat yang tersedia pada Aplikasi DANA atau pada bagian Informasi Lebih Lanjut pada Pemberitahuan Privasi ini.
+c.
+Penghapusan dan/atau Pemusnahan Data Pribadi Pengguna
+Anda dapat mengajukan permohonan penghapusan dan/atau pemusnahan Data Pribadinya yang pernah diserahkan kepada Kami yang sudah tidak relevan atau sesuai dengan ketentuan Hukum Yang Berlaku. Permohonan dapat Kami proses melalui Help Center atau live chat yang tersedia pada Aplikasi DANA atau melalui pemberitahuan yang ditujukan pada Informasi Lebih Lanjut pada Pemberitahuan Privasi ini. Apabila permohonan Anda tersebut Kami terima dan telah melalui proses verifikasi yang diperlukan, Kami akan memberitahukan penghapusan dan/atau pemusnahan Data Pribadi tersebut kepada Anda sesuai dengan ketentuan Peraturan Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku.
+d.
+Penarikan Persetujuan atas Pemrosesan Data Pribadi
+Pengguna dapat mengajukan permohonan penarikan persetujuan atas pemrosesan Data Pribadinya yang sebelumnya telah diberikan kepada Kami, sepanjang pemrosesan tersebut didasarkan pada persetujuan. Permohonan penarikan persetujuan dapat diajukan melalui Help Center atau live chat yang tersedia pada Aplikasi DANA atau melalui pemberitahuan yang ditujukan pada bagian Informasi Lebih Lanjut dalam Pemberitahuan Privasi ini. Kami akan menghentikan pemrosesan tersebut sesuai dengan ketentuan Hukum Yang Berlaku.
+e.
+Keberatan dan/atau Penolakan atas Pemrosesan Data Pribadi
+Pengguna berhak mengajukan keberatan dan/atau penolakan atas bentuk dan/atau hasil dari pemrosesan Data Pribadinya, dalam hal tertentu sebagaimana diatur dalam Hukum Yang Berlaku. Keberatan dapat diajukan melalui Help Center atau live chat pada Aplikasi. Permohonan akan Kami tinjau dan proses sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+f.
+Pembatasan Pemrosesan Data Pribadi
+Pengguna dapat mengajukan permohonan pembatasan terhadap pemrosesan Data Pribadinya dalam kondisi tertentu sebagaimana diatur dalam Peraturan Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku, termasuk saat data dianggap tidak akurat atau saat proses penghapusan sedang berlangsung. Permohonan pembatasan dapat diajukan melalui Help Center atau live chat pada Aplikasi DANA atau melalui pemberitahuan yang ditujukan pada bagian Informasi Lebih Lanjut dalam Pemberitahuan Privasi ini.
+g.
+Pengajuan Keluhan terkait Pemrosesan Data Pribadi
+Pengguna dapat mengajukan keluhan atau keberatan atas pelanggaran terhadap pemrosesan Data Pribadinya yang dilakukan secara melawan hukum oleh Kami dan/atau pihak yang bekerja sama dengan Kami. Pengajuan keluhan atau keberatan dapat diajukan sesuai dengan ketentuan Peraturan Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku.
+h.
+Portabilitas Data Pribadi
+Pengguna dapat mengajukan permintaan atas Data Pribadinya dalam bentuk yang terstruktur dan lazim digunakan untuk dipindahkan kepada penyedia layanan lainnya, sesuai dengan ketentuan Peraturan Pelindungan Data Pribadi Yang Berlaku dan Hukum Yang Berlaku. Permintaan portabilitas data dapat diajukan melalui Help Center atau live chat pada Aplikasi DANA atau bagian Informasi Lebih Lanjut dalam Pemberitahuan Privasi ini.
+8.2 Penolakan atas Pemenuhan Hak-Hak Pengguna
+Kami berhak menolak permohonan Hak Anda terhadap Data Pribadi Anda yang berada dalam penguasaan dan kendali Kami apabila:
+a.    Data Pribadi tersebut bukan merupakan Data Pribadi Anda;
+b.    Permohonan hak yang diajukan tersebut Kami anggap tidak relevan, tidak tepat dan/atau bertentangan dengan Hukum Yang Berlaku dan/atau Peraturan Pelindungan Data Pribadi Yang Berlaku.
+9. DATA PRIBADI YANG DISIMPAN OLEH LEMBAGA/OTORITAS YANG BERWENANG
+Untuk menjadi perhatian, bahwa masih ada kemungkinan bahwa beberapa Data Pribadi Anda disimpan oleh pihak lain termasuk institusi pemerintah dengan cara tertentu. Dalam hal ini:
+a.    Kami mungkin saja diwajibkan oleh peraturan perundang-undangan yang berlaku dan/atau lembaga/otoritas berwenang untuk mengirimkan atau membagikan Data Pribadi Anda kepada lembaga/otoritas berwenang dan/atau pihak lain yang ditunjuk oleh lembaga/otoritas berwenang;
+b.    sehubungan dengan huruf (a) di atas, Anda dengan ini menyetujui dan mengakui bahwa penyimpanan Data Pribadi Anda oleh lembaga/otoritas berwenang dan/atau pihak lain yang ditunjuk oleh lembaga/otoritas berwenang akan mengikuti kebijakan dan standar penyimpanan data yang diterapkan oleh lembaga/otoritas berwenang dan/atau pihak lain yang ditunjuk oleh lembaga/otoritas berwenang tersebut;
+c.    Anda dengan ini mengetahui dan menyetujui bahwa Kami tidak bertanggung jawab atas keamanan dan kerahasiaan Data Pribadi Anda yang disimpan oleh lembaga/otoritas berwenang dan/atau pihak lain yang ditunjuk oleh lembaga/otoritas berwenang tersebut, serta membebaskan Kami dari segala tuntutan dan/atau kerugian sehubungan dengan pelanggaran keamanan dan kerahasiaan atas Data Pribadi Anda yang disimpan lembaga/otoritas berwenang dan/atau pihak lain yang ditunjuk olehnya.
+10. BATASAN TANGGUNG JAWAB DANA
+DANA berkomitmen untuk menyelenggarakan Aplikasi layanan Kami secara andal dan aman serta bertanggung jawab untuk memastikan keamanan, kerahasiaan, dan keakuratan Data Pribadi. Namun, ketentuan ini tidak berlaku dalam hal dapat dibuktikan:
+a.    terjadi keadaan memaksa;
+b.    terdapat kesalahan dan/atau kelalaian Pengguna yang menyebabkan Data Pribadi dapat diakses secara tidak sah, terungkap secara tidak sah, dan/atau hilang atau musnahnya Data Pribadi; dan/atau
+c.    Pemrosesan Data Pribadi telah dilakukan berdasarkan instruksi dan dasar yang valid.
+11. PERUBAHAN ATAS PEMBERITAHUAN PRIVASI INI
+Kami dapat meninjau dan mengubah Pemberitahuan Privasi ini atas kebijakan Kami sendiri dari waktu ke waktu, untuk memastikan bahwa pemberitahuan ini konsisten dengan perkembangan Kami di masa mendatang dan/atau perubahan dalam persyaratan hukum atau peraturan. Jika Kami memutuskan untuk mengubah Pemberitahuan Privasi ini, Kami akan memberitahukan Anda tentang perubahan tersebut melalui pemberitahuan umum yang diterbitkan pada Aplikasi, push notification saat Anda menggunakan layanan dan/atau situs web resmi Kami. Anda setuju bahwa Anda bertanggung jawab untuk secara teratur meninjau Pemberitahuan Privasi ini untuk mendapatkan informasi terbaru mengenai praktik Pemrosesan Data Pribadi oleh Kami, dan bahwa penggunaan Anda yang terus menerus atas Aplikasi, layanan, atau situs web, komunikasi dengan Kami, atau akses dan penggunaan layanan setelah adanya perubahan pada Pemberitahuan Privasi ini akan dianggap sebagai penerimaan Anda terhadap Pemberitahuan Privasi ini dan semua perubahannya.
+12. BERHENTI MENERIMA PEMBERITAHUAN, PEMASARAN DAN KEGIATAN PROMOSI
+Kami dan/atau mitra Kami dapat mengirimkan Anda komunikasi pemasaran langsung, iklan, promosi dan/atau materi pemasaran lainnya melalui notifikasi push di aplikasi, pesan di Aplikasi, surat, panggilan telepon, layanan pesan singkat (SMS), media sosial, dan/atau e-mail jika Anda telah setuju untuk berlangganan daftar mailing Kami dan/atau mitra Kami. Anda dapat memilih untuk berhenti menerima komunikasi pemasaran tersebut kapan saja melalui pemberitahuan yang ditujukan pada Informasi Lebih Lanjut pada Pemberitahuan Privasi ini, atau Help Center atau live chat yang tersedia pada Aplikasi. Harap diperhatikan bahwa jika Anda memilih untuk berhenti, Kami masih dapat mengirimkan pesan non-promosi, seperti informasi aktivitas Akun Anda.
+13. KETENTUAN LAIN
+13.1    Pemberitahuan Privasi ini tunduk, diatur dan dilaksanakan sesuai dengan Hukum Yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku.
+13.2    Pemberitahuan Privasi ini dibuat dalam Bahasa Indonesia dan Bahasa Inggris. Dalam hal terjadi inkonsistensi dan/atau pertentangan antara versi Bahasa Inggris dan versi Bahasa Indonesia, maka versi Bahasa Indonesia yang akan berlaku dan versi Bahasa Inggris akan dianggap menyesuaikan dengan versi Bahasa Indonesia.
+13.3    Dalam hal PT EDIK melakukan penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran badan hukum, Kami akan melakukan pemberitahuan pengalihan Data Pribadi kepada Pengguna sebelum dan sesudah penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran badan hukum.
+14. INFORMASI LEBIH LANJUT
+Jika Anda memiliki pertanyaan atau keluhan sehubungan dengan Pemberitahuan Privasi ini atau jika Anda ingin menggunakan hak-hak Anda terhadap Data Pribadi Anda, Anda dapat menghubungi Kami melalui:
+PT ESPAY DEBIT INDONESIA KOE (DANA Indonesia)
+Capital Place Office Tower Lantai 18
+Jalan Jend. Gatot Subroto Kav 18, Jakarta Selatan 12710
+Jakarta, Indonesia
+Fitur live chat pada aplikasi DANA
+:
+DIANA
+Telepon
+:
+1500445
+Surel
+:
+help@dana.id
+Surel untuk merchant
+:
+merchant.services@dana.id
+Dengan menyetujui Pemberitahuan Privasi ini, Anda mengakui bahwa Anda telah membaca dan memahami Pemberitahuan Privasi ini dan menyetujui segala ketentuan yang tercantum di dalamnya. Anda juga telah memberikan persetujuan kepada DANA untuk melakukan Pemrosesan Data Pribadi Anda sesuai dengan Pemberitahuan Privasi ini.
+Kembali ke atas
+Solusi Pembayaran
+Payment Gateway
+API Pembayaran
+Point of Sales
+DANA Bisnis
+Disbursement
+DANA Disbursement
+Enterprise Wallet
+Promosi
+DANA Deals
+Loyalty
+Enterprise Resource
+Informasi Harga
+Merchant Resources
+Hubungi Kami
+Personal
+Dompet Digital
+Layangan Keuangan
+Gaya Hidup
+Perusahaan
+Tentang Kami
+Karir
+Newsroom
+Blog
+Hubungan Investor
+Lainnya
+Games
+Promo
+Bantuan
+FAQ
+Hubungi Kami
+Syarat & Ketentuan
+Kebijakan Privasi
+Download Aplikasi DANA
+DANA Indonesia telah terdaftar dan diawasi oleh
+© 2024 DANA - PT. Espay Debit Indonesia Koe. All Rights Reserved.

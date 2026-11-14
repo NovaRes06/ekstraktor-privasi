@@ -1,0 +1,49 @@
+{
+  "id": "B02",
+  "jenis": "batas",
+  "target": "ekstraksi",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "tidak disebutkan",
+      "bukti_jenis_data_dikumpulkan": "tidak disebutkan",
+      "tujuan_pemrosesan": "tidak disebutkan",
+      "bukti_tujuan_pemrosesan": "tidak disebutkan",
+      "dasar_pemrosesan": "tidak disebutkan",
+      "bukti_dasar_pemrosesan": "tidak disebutkan",
+      "pihak_ketiga_penerima": "tidak disebutkan",
+      "bukti_pihak_ketiga_penerima": "tidak disebutkan",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "tidak disebutkan",
+      "bukti_masa_retensi_data": "tidak disebutkan",
+      "hak_subjek_data": "tidak disebutkan",
+      "bukti_hak_subjek_data": "tidak disebutkan",
+      "mekanisme_keamanan": "tidak disebutkan",
+      "bukti_mekanisme_keamanan": "tidak disebutkan",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 1623,
+      "output_tokens": 281
+    }
+  },
+  "durasi_detik": 26.1,
+  "waktu": "2026-11-02T13:47:10",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  }
+}

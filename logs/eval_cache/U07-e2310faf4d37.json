@@ -1,0 +1,54 @@
+{
+  "id": "U07",
+  "jenis": "umum",
+  "target": "rag",
+  "model": "gemini-3.5-flash-lite",
+  "nilai": {
+    "1": false,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": false,
+  "hasil": {
+    "answer": "Jawaban: Tidak ada di dokumen.\n\nKonteks yang dipakai: []",
+    "sources": [
+      {
+        "text": "pembayaran QRIS dan online. Kebijakan Privasi ShopeePay ShopeePay sangat menjaga kerahasiaan data pribadi pengguna. Data yang dikumpulkan, seperti nama, alamat email, dan informasi perbankan, digunakan untuk memverifikasi identitas, memproses transaksi, dan meningkatkan layanan ShopeePay. Data pribadi yang telah kamu percayakan kepada ShopeePay akan dikelola, dilindungi, dan ShopeePay akan mengolah data pribadi anda dengan baik.",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 48,
+        "jarak": 0.46610307693481445
+      },
+      {
+        "text": "untuk memasarkan produk dan layanan Kami kepada Anda, dan perusahaan dalam afiliasi Kami, mitra, atau agen (dengan persetujuan Anda jika diwajibkan oleh Peraturan Perundang-undangan yang Berlaku). Dengan siapa Kami membagikan data Anda? Kami membagikan data Anda dengan mitra pihak ketiga Kami untuk memfasilitasi kinerja layanan untuk atau oleh Anda, dengan mitra pihak ketiga Kami, sejauh yang diperlukan bagi mereka untuk menyediakan layanan mereka, termasuk namun tidak terbatas pada, pemrosesan pembayaran, layanan logistik, penyediaan produk, klaim dan verifikasi asuransi. Kami menggunakan layanan pihak ketiga ini semata-mata untuk memproses atau menyimpan data Anda untuk tujuan sebagaimana dijelaskan dalam Kebijakan Privasi ini. Kami juga membagikan data Anda dengan afiliasi Kami untuk tujuan yang dijelaskan dalam Kebijakan Privasi ini dan dengan pemerintah dan lembaga pengatur sebagaimana diwajibkan oleh Peraturan Perundang-undangan yang Berlaku. Kami juga dapat memberikan akses dengan menampilkan Data Pribadi Anda kepada Pengguna lain untuk memfasilitasi komunikasi dan/atau pelaksanaan pemenuhan layanan pada Layanan",
+        "source_doc": "kebijakan-tokopedia.txt",
+        "chunk_index": 5,
+        "jarak": 0.4719720780849457
+      },
+      {
+        "text": "digunakan sebagai metode pembayaran, salah satunya di e-commerce Shopee atau transaksi finansial digital lainnya. ShopeePay fokus pada penyediaan pengalaman transaksi yang mudah dan aman bagi pengguna. Kebijakan privasi ShopeePay mencakup pengumpulan, penggunaan, dan perlindungan data pribadi pengguna. Data yang dikumpulkan dapat mencakup informasi pribadi, riwayat transaksi, dan data lokasi, yang digunakan untuk memproses transaksi, menyediakan layanan yang dipersonalisasi, dan meningkatkan keamanan platform. ShopeePay juga berkomitmen untuk menjaga kerahasiaan data pengguna dengan menerapkan berbagai langkah keamanan untuk melindungi account ShopeePay kamu. Tentang ShopeePay ShopeePay oleh PT Airpay International Indonesia adalah dompet digital yang digunakan sebagai metode pembayaran, salah satunya di e-commerce Shopee atau transaksi finansial digital lainnya. Aplikasi ShopeePay telah diluncurkan sejak Februari 2024 lalu dengan beragam fitur menarik untuk memudahkan pembayaran QRIS dan online. Kebijakan Privasi ShopeePay ShopeePay sangat menjaga kerahasiaan data pribadi pengguna. Data yang dikumpulkan, seperti nama, alamat email, dan informasi perbankan, digunakan untuk memverifikasi identitas, memproses transaksi,",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 47,
+        "jarak": 0.4831390082836151
+      },
+      {
+        "text": "melindungi dan mengolah data pribadi Anda dengan baik. Kebijakan Privasi ini (“ Kebijakan Privasi “ atau ” Kebijakan “) dirancang untuk membantu Anda memahami bagaimana kami mengumpulkan, menyimpan, menggunakan, mengungkapkan dan/atau mengolah data pribadi yang telah Anda percayakan kepada kami dan/atau kami miliki tentang Anda, baik di masa sekarang maupun di masa mendatang, serta untuk membantu Anda membuat keputusan yang tepat sebelum memberikan data pribadi Anda kepada kami. Kebijakan ini merupakan bagian yang tidak terpisahkan dari Dokumen Layanan (sebagaimana didefinisikan dalam Syarat dan Ketentuan ShopeePay). 1.2 ” Data Pribadi “ atau ” data pribadi “ berarti data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi berdasarkan informasi (baik dilakukan secara tersendiri atau dikombinasi dengan informasi lainnya) baik secara langsung maupun tidak langsung melalui sistem elektronik atau nonelektronik. Contoh umum data pribadi dapat mencakup nama, nomor identifikasi dan informasi kontak. 1.3 “ Syarat dan Ketentuan ShopeePay ” merujuk pada dokumen atau",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 1,
+        "jarak": 0.48789697885513306
+      },
+      {
+        "text": "f. menanggapi, memproses, berurusan dengan atau menyelesaikan transaksi dan/atau memenuhi permintaan Anda untuk produk dan layanan tertentu serta memberi tahu Anda tentang masalah layanan dan tindakan akun yang tidak lazim; g. memberlakukan Syarat dan Ketentuan ShopeePay atau perjanjian lisensi pengguna akhir apapun yang berlaku; h. melindungi keselamatan pribadi dan hak, milik atau keselamatan pihak lainnya; i. untuk tujuan identifikasi, uji tuntas, atau proses KYC; j. memelihara dan mengelola setiap pembaruan Platform dan/atau pembaruan lainnya serta dukungan yang mungkin diperlukan dari waktu ke waktu untuk memastikan kelancaran Layanan kami; k. berurusan dengan atau memfasilitasi permintaan layanan pelanggan, melaksanakan instruksi Anda, berurusan dengan atau menanggapi setiap pertanyaan yang diajukan oleh (atau konon diajukan oleh) Anda atau atas nama Anda; l. menghubungi Anda atau berkomunikasi dengan Anda melalui panggilan telepon, pesan teks dan/atau pesan faks, email dan/atau surat pos atau cara lainnya untuk tujuan mengurus dan/atau mengelola hubungan Anda dengan kami atau penggunaan",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 18,
+        "jarak": 0.48892444372177124
+      }
+    ],
+    "guardrail": [
+      "jawaban tidak menyebut satu pun nomor rujukan ([1], [2], ...) padahal sumber dikirim"
+    ]
+  },
+  "durasi_detik": 1.6,
+  "waktu": "2026-11-02T14:05:12"
+}

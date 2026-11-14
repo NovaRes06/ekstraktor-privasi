@@ -1,0 +1,61 @@
+{
+  "id": "U06",
+  "jenis": "umum",
+  "target": "rag",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": true
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "answer": "Jawaban: Tidak ada di dokumen.\n\nKonteks yang dipakai: Tidak ada",
+    "sources": [
+      {
+        "text": "etc.). Archiving and Documentation We need to retain and process Personal Data so we can process them for any purposes outlined in this section. By archiving and documenting them, we will have tracks and history of any processing activities towards the Personal Data by our ends, and make them easily accessible whenever required. As a corporate entity, OVO may be subject to the administration process, which may be involving personal data, as parts of many data that we retain related to our business activities. This administration process encompasses, including but not limited to; audits by private or public auditors or by the competent authorities. When data processing needs to take place for an administrative purpose, we will ensure the processing only on personal data that we see relevant to the administrative purpose, and restrict any access of parties irrelevant to the data processing for this purpose. Corporate Actions We may",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 19,
+        "jarak": 0.42046844959259033
+      },
+      {
+        "text": "ingin berhenti berlangganan komunikasi pemasaran tersebut, silakan klik tautan berhenti berlangganan di email atau pesan yang relevan. Harap dicatat bahwa meskipun Anda dapat memilih untuk tidak menerima komunikasi pemasaran atau promosi, OVO mungkin masih mengirimkan pesan terkait akun dan/atau layanan Anda (seperti otentikasi dua faktor, informasi tentang transaksi Anda, hadiah, dll.). Pengarsipan dan Dokumentasi Kami perlu menyimpan dan memproses Data Pribadi agar dapat memprosesnya untuk tujuan apa pun yang diuraikan dalam bagian ini. Dengan mengarsipkan dan mendokumentasikannya, kami akan memiliki jejak dan riwayat aktivitas pemrosesan Data Pribadi oleh pihak kami, dan membuatnya mudah diakses kapanpun diperlukan. Sebagai badan usaha, OVO dapat tunduk pada proses administrasi, yang mungkin melibatkan data pribadi, sebagai bagian dari banyak data yang kami simpan terkait dengan aktivitas bisnis kami. Proses administrasi ini mencakup, termasuk tetapi tidak terbatas pada; audit oleh auditor swasta atau publik atau oleh otoritas yang berwenang. Ketika pemrosesan data perlu dilakukan untuk tujuan",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 70,
+        "jarak": 0.43925291299819946
+      },
+      {
+        "text": "safeguarding measures. If you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us. USE OF PERSONAL DATA OVO uses your Personal Data for the purposes as listed below (collectively, the \"Purposes\"). Additionally, if you use OVO in various capacities and/or within the greater ecosystem of OVO affiliate companies' services of OVO Group and Associates, we may link your Personal Data collected across your various capacities to facilitate your use of our Services and for the Purposes described below: Providing Services and Features Your Personal Data will be used to provide, personalise, maintain, and improve our Platforms and Services. This includes using your Personal Data to: Provide you with Services across our various business verticals, including within",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 9,
+        "jarak": 0.4449109733104706
+      },
+      {
+        "text": "in any pre-existing Privacy Notice that you have agreed to. OVO Data Sharing Principles Before we disclose Personal Data, we will ensure that any third parties receiving the data, apply appropriate technical and organizational measures to protect the Personal Data at the very least with the same level as what we have implemented to protect Personal Data under our controllership. We will also require them to enter into a data sharing or confidentiality agreement to ensure that your data is legally protected. Our disclosure of Personal Data to third parties may incorporate a controller-processor relationship between us acting as the data controller of the Personal Data we disclose and the third party as the processor. In cases where we disclose Personal Data under a controller-processor relationship, we will ensure that the Personal Data is processed by the processor only for the Purposes that are relevant to the processing activities that",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 32,
+        "jarak": 0.4489358365535736
+      },
+      {
+        "text": "and process transactions; Offer, obtain, provide, facilitate, or maintain insurance or financing solutions (where applicable); Track the progress of your transactions, detect abnormal use cases and improve the accuracy and reliability of our relevant Services using data from your device; Allow you to participate in the loyalty programmes or marketing activities organized by our merchant-partners and/or in collaboration with OVO; Personalise your experience (such as to identify your preferences and recommend products and services relevant to you); Make your experience more seamless (such as automatically filling in your registration information when you switch from one Service to another Service); Perform internal operations necessary to provide our Services, including troubleshooting software bugs and operational problems, conducting data analysis, testing and research, monitoring and analysing usage and activity trends; Protect the security or integrity of the Services and any facilities or equipment used to make the Services available; Invite you to participate",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 11,
+        "jarak": 0.45105668902397156
+      }
+    ],
+    "guardrail": [
+      "jawaban tidak menyebut satu pun nomor rujukan ([1], [2], ...) padahal sumber dikirim"
+    ]
+  },
+  "durasi_detik": 12.5,
+  "waktu": "2026-11-02T13:51:38",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": false,
+    "3": null,
+    "4": true,
+    "5": null
+  }
+}

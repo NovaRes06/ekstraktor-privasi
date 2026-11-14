@@ -1,0 +1,28 @@
+{
+  "id": "T03",
+  "jenis": "tolak",
+  "target": "rag",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": true
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "answer": "Tidak ada di dokumen.",
+    "sources": [],
+    "catatan": "Tidak ada chunk yang cukup relevan ditemukan (di atas ambang batas jarak) -- model tidak dipanggil."
+  },
+  "durasi_detik": 0.5,
+  "waktu": "2026-11-02T13:44:28",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": true
+  }
+}

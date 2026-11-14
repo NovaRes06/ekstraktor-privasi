@@ -1,0 +1,600 @@
+Sumber: https://www.ovo.id/kebijakan-privasi
+Diunduh: (isi tanggal unduh kamu di sini)
+
+Kebijakan Privasi | OVO
+Top
+PEMBERITAHUAN PRIVASI
+PRIVACY NOTICE
+Bahasa Indonesia
+English
+Effective Date: 1 September 2026
+This Privacy Notice and its Addendums ("
+Privacy Notice
+") governs the processing of personal data by
+PT Visionet Internasional
+and its subsidiaries, affiliates, associated companies and jointly controlled entities ("
+OVO Group and Associates
+", "
+OVO
+", "
+we
+") handle your Personal Data (as defined in the further paragraph) when you use our
+Platform
+(including mobile applications, websites, webpages, softwares or portals, that we own or operate in connection with providing our services, products and solutions ("
+Services
+").
+In our capacity as the data controller, we process Personal Data with your consent or as allowed by the applicable laws and regulations, such as to:
+Meet legal requirements
+Enter into or fulfil our contractual obligations to you
+Fulfil our legitimate interests or in the interest of others.
+For the avoidance of doubt, the term "
+you
+" or "
+data subjects
+" for the context of this Privacy Notice may include: our service users and merchant partners, as well as any of their representatives whose personal data is processed by us, "
+end users
+".
+The term "
+Personal Data
+" or "
+Data
+" in this Privacy Notice shall refer to any data concerning an individual/person, which individually or in combination with other information, is able to, directly or indirectly, identify or be identifiable to an individual/person (data subject), whether through electronic or non-electronic systems, which shall encompass;
+"
+general personal data
+"; any personal data that is general by nature and does not fall under the classification of sensitive data, such as; full name, address, gender, date of birth; and
+"
+specific personal data
+" / "
+sensitive data
+"; any data personal data that is sensitive by nature and requires specific and higher level of protection than general personal data such as; genetic data, biometric data, medical records, sexual orientation, political view, personal financial data, or criminal records.
+COLLECTION OF PERSONAL DATA
+We collect your Personal Data in the ways listed below. We may also combine Personal Data collected via these various channels.
+You provide your Personal Data to us
+We collect your Personal Data when you provide it to us. For example, when you:
+Complete a user registration form or customise your profile (such as your name, contact information and other identification where needed);
+Sign up to be our end users or merchant partners, create / open user accounts/merchant accounts, join our Service ecosystem, as well as when You upgrade your account classification, or update your existing personal data that we are retaining on your behalf;
+Provide information to assess your suitability to be an OVO merchant partner, partner, vendor, supplier, or other partner (such as the name and contact information of the authorized representative);
+Enter into or under any agreements / contracts with us or any of our affiliates, or when You are participating in any activities administered, supervised, and/or organized by us and/or any of our affiliates.
+Interact with our social media pages (such as your social media account ID, profile photo, and any content (e.g. photos, videos, stories) you create for publication on our social media channels;
+Participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);
+Fill up demographic information in surveys (such as your age, gender, and other information you may volunteer such as your marital status, occupation and income information);
+Grant us access to your calendar events (such as reservation dates, times and venue names or addresses, flights);
+Apply for products to enable us to assess your eligibility (such as earning statements, bank statements, accident information, medical certificates, proof of relationship and relevant information you may volunteer);
+Contact us through our various customer support channels (such as chat, messages, emails, call recordings, pictures you submit to support your claim);
+Verify your identity through various means (such as phone or video call, social media logins, submission of selfie images, liveness checking, or independently verified payment card information). For example, if you are a user, we may verify your identity through selfie images as an additional layer of protection, or in accordance with OVO's Know Your Customer procedure as required by applicable financial regulations.
+When our Services are used
+Personal Data may be passively collected through the normal operation or use of our Platforms. Some examples are:
+Transaction information (such as payment method, settlement records, or services paid through our Services);
+Usage data;
+Device information (such as hardware model and serial number, IP addresses), file and app names and versions, IMEI number, and advertising identifiers or any information that may indicate device or app modification);
+Personal data that may be captured through your interaction with us, our agents, in-vehicle audio and/or video recording during a ride (such as your image, video, r voice or a combination of these, and its related metadata).
+From other sources
+OVO may collect Personal Data about you (such as customer information, contact details, other identification information, and financial data where needed) from other sources. Such sources include:
+OVO affiliates, associated companies and jointly controlled entities;
+Referral programmes;
+Our business partners;
+Risk intelligence and fraud assessment providers;
+Credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit reporting organisations;
+Publicly available or governmental sources of data; and
+Marketing services providers or partners.
+When you provide Personal Data of other individuals to us
+In some situations, you may provide Personal Data of other individuals to us, such as when you add them as your representative to liaise with us, use our Services to transfer funds to them, or add them as recipients or beneficiaries of any use of our Services. If you provide us with their Personal Data, you represent and warrant that you have obtained their consent for their Personal Data to be collected, used and disclosed as set out in this Privacy Notice.
+Sensitive Personal Data
+Some Personal Data we collect may be sensitive in nature in certain jurisdictions. This may include your national ID information, religious beliefs, background information (including financial and criminal records, where legally permissible), health data, disability, marital status, location and biometric data, as applicable. We collect Sensitive Personal Data only with your consent and/or in strict compliance with applicable laws, and ensure such Sensitive Personal Data is handled and protected with strict security and safeguarding measures. If you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us.
+USE OF PERSONAL DATA
+OVO uses your Personal Data for the purposes as listed below (collectively, the "Purposes"). Additionally, if you use OVO in various capacities and/or within the greater ecosystem of OVO affiliate companies' services of OVO Group and Associates, we may link your Personal Data collected across your various capacities to facilitate your use of our Services and for the Purposes described below:
+Providing Services and Features
+Your Personal Data will be used to provide, personalise, maintain, and improve our Platforms and Services. This includes using your Personal Data to:
+Provide you with Services across our various business verticals, including within and across the OVO Group and Associates where relevant;
+Execute your instructions related to our Services, including transaction instructions;
+Settle transactions made by end users, including debiting and crediting balance to accounts of end users;
+Create, administer and update your account;
+Process, manage or verify your eligibility for or application of products, services, promotions, rewards and subscriptions;
+Conduct due diligence checks, assess and monitor user risk profiles, and perform ongoing risk analysis to ensure compliance with regulatory and operational requirements;
+Verify your identity and age (where necessary);
+Validate your instructions and process transactions;
+Offer, obtain, provide, facilitate, or maintain insurance or financing solutions (where applicable);
+Track the progress of your transactions, detect abnormal use cases and improve the accuracy and reliability of our relevant Services using data from your device;
+Allow you to participate in the loyalty programmes or marketing activities organized by our merchant-partners and/or in collaboration with OVO;
+Personalise your experience (such as to identify your preferences and recommend products and services relevant to you);
+Make your experience more seamless (such as automatically filling in your registration information when you switch from one Service to another Service);
+Perform internal operations necessary to provide our Services, including troubleshooting software bugs and operational problems, conducting data analysis, testing and research, monitoring and analysing usage and activity trends;
+Protect the security or integrity of the Services and any facilities or equipment used to make the Services available;
+Invite you to participate in our events, surveys and studies; and
+Fulfill our Services to you as a data processor, where you have provided consent to the data controller (i.e. the organisation you had purchased goods or services from, and for whom OVO is providing services on behalf of) for such services to be rendered.
+When you are instructing us to provide or execute our Services, we will process your personal data to ensure that your instructions are processed and executed accordingly. Please be informed, some of our Services may require you to make authentications to identify and verify the access to the account is valid.
+Safety and Security
+We use your data to ensure the safety and security of our Service and all end users. This includes:
+Screening end users before enabling their use of our Services;
+Identifying unusual or suspicious transactions or our Services usage;
+Verifying your identity when you log in to OVO or link your account to third-party account;
+Using device, location, profile, usage, in-carriage activities and other Personal Data to prevent, intervene, detect and combat fraud or unsafe activities;
+Monitoring compliance with our terms and conditions and policies.
+As a payment service provider licensed and supervised by Bank Indonesia, we are required by law to implement security measures to prevent and mitigate any risks of infringement of applicable laws and/or regulations and/or rights of third parties such as; money laundering, financing of terrorism, fraudulent activities, financial crime, which may incur damages to our end users, OVO, any of our affiliates, and/or any third parties.
+Our security measures involving data processing encompass the implementation of:
+Anti-Money Laundering and Countering of the Financing of Terrorism, and Counter–Proliferation Financing (AML-CFT-CPF), which we always enforce by applying the know your customers / businesses principles to identify and verify our end users;
+Fraud Detection System, which will monitor and supervise any activities by any accounts that we administer and other accounts interacting with our administered accounts, in relation to our services based on parameters that we set to control any anomaly, suspicious, or fraudulent activities that may hazard the security of our ecosystem; and
+Fraud Handling Process, which we have in place to help any end users or third parties encountering fraudulent activities of becoming victims thereof.
+User Support
+We use Personal Data to resolve user support issues. For example, we may:
+Investigate and address concerns;
+Monitor and improve our user support responses;
+Respond to questions, comments and feedback; and
+Inform you about steps taken to resolve user support issues.
+Research, Development and Security
+We may use the Personal Data we collect for testing, research, analysis, machine learning, and product development. This allows us to understand and analyse your needs and preferences, protect your Personal Data, improve and enhance the safety and security of our Services, develop new features, products and services, and finance solutions.
+We will process Personal Data to further develop and improve our Services and business activities. By processing personal data of our end users, we will know what needs to be developed and improved from our ends, so we can refine our Services or launch new services for our end users. This purpose encompasses data processing activities in regards to data analytics, market research, customer behaviour analysis, product trials and testing. We will ensure that any personal data that we process for this purpose will not incur any damage to the data subjects, and will remain confidential.
+Legal Purposes
+We may use the Personal Data we collect for legal purposes such as to:
+Prevent, detect, investigate, resolve or prosecute fraud or crimes;
+Comply with court orders or other legal, governmental or regulatory requirements;
+Enforce our Terms of Service or other agreements; and
+Enforce or protect our rights, interests or properties in the event of a claim, investigations, complaints or dispute in any jurisdiction.
+Marketing and Promotions
+We may use your Personal Data to send you marketing communications relating to customised products or services (that may be of interest or relevance based on your profile), or OVO's partners', sponsors' and advertisers' products, services, events or promotions. For example, we may:
+Send you special offers that may be of interest or relevance to you across all of OVO's service offerings;
+Send you alerts, newsletters, updates, mailers, promotional materials, special privileges, festive greetings; and
+Notify, invite and manage your participation in our events or activities, including the publication of any photos or videos captured.
+We may communicate such marketing to you by various means, where applicable (including by SMS, chat applications (e.g. WhatsApp), push notification, call, and by email).
+If you wish to unsubscribe from such marketing communications, please click on the unsubscribe link in the relevant email or message. Please note that while you may opt out of marketing or promotion communications, OVO may still send you account and / or service-related messages (such as two-factor authentication, information on your transactions, rewards, etc.).
+Archiving and Documentation
+We need to retain and process Personal Data so we can process them for any purposes outlined in this section. By archiving and documenting them, we will have tracks and history of any processing activities towards the Personal Data by our ends, and make them easily accessible whenever required.
+As a corporate entity, OVO may be subject to the administration process, which may be involving personal data, as parts of many data that we retain related to our business activities. This administration process encompasses, including but not limited to; audits by private or public auditors or by the competent authorities. When data processing needs to take place for an administrative purpose, we will ensure the processing only on personal data that we see relevant to the administrative purpose, and restrict any access of parties irrelevant to the data processing for this purpose.
+Corporate Actions
+We may be involved or initiated corporate actions (e.g., mergers and acquisitions, consolidation, restructuring, assets sales and purchases, corporate financing), where our company participated in a corporate action, we might be required to undertake data processing activities that are relevant to the corporate action.
+Notification
+From time to time, we may need to deliver information that we find necessary or important for data subjects to have related to our Services, such as; in case we have updates on our Services, hence we need to process personal data so we can reach out to the data subjects.
+Compliance
+In a highly regulated monitored industry, we are subject to requests, orders, or demands from the competent authorities / law enforcers or as mandated by the applicable laws and/or regulations, which may require us to process Personal Data in accordance with their requests, orders, demands, or the applicable laws and/or regulations.
+Other purposes
+We may process personal data for any other legitimate purposes provided the data processing is appropriate and carried out in accordance with applicable privacy laws and regulations.
+In providing you with these services and features, we may use manual or automated means, including AI services. We strive to ensure the accuracy and reliability of our AI services, and whenever necessary, we may manually verify the outputs.
+Lawful Basis for Processing
+We will only process Personal Data once we have any of the lawful grounds:
+Consent
+Before entering into, accessing, and/or using our Services ecosystem you may be required to give your consent to this Privacy Notice or data processing activity that we will undertake in regards to your personal data, especially if our Services that you access and/or use require data processing to take place.
+Fulfillment of Contractual Obligations
+Most of the data subjects whose personal data we process are those bound by an agreement (e.g., service agreements, cooperation agreements, terms and conditions) with us and/or any of our affiliates, whether as a user, merchant, or partner. If you are one of any parties who are under a contractual obligation with us, we may process your personal data to fulfill our obligations to you or vice versa. For illustrative purposes; when you are a user, we may need to process your personal data so we can debit your account for a transaction initiated from your account, or credit your account with a balance transferred / top up to your account.
+Legal and Regulatory compliance
+In line with the Purposes, there may be times when we are required, ordered, or requested by the competent authority or law enforcer, or obligated under the applicable laws and/or regulations to process Personal Data for their purposes. Please be informed that our data processing activities under the ground of legal and regulatory compliance are mandatory for us to comply with, and you shall not take us liable for any consequences of such data processing provided that we execute them in accordance with the requests, orders, or demands from the competent authorities/law enforcers, and/or the applicable laws and/or regulations.
+Protection of Vital Interests
+In an emergency or urgent situation when the data subject's safety is at stake and where asking for consent is impossible or may increase the likelihood or impact of risks vested in such a situation, we may process your Personal Data, especially when the situation may harm you physically.
+Public Interests / Official Duties
+There are times when we have to commit to programs initiated by the Government such as; census, subsidies distribution program, public health protection, or law enforcement activities). When participating in those types of programs, we may be required to process personal data to support or help them.
+Legitimate Interests
+We may also process personal data when we find it necessary for legitimate interests such as; risks prevention and mitigation, network and information security, service monitoring, customer support, and service refinement.
+DISCLOSURE OF PERSONAL DATA
+We may disclose your Personal Data with various parties only as needed for the Purposes. These parties are:
+Other end users
+For example:
+When you are using the user-to-user fund transfer feature, we may share your username and phone number to the user-recipient in the fund transfer notification or history;
+When you are making payment transactions with merchant-partners, we may share to the selected merchant-partner your Personal Data including your username, account identification, phone number; and
+When you are participating in loyalty programmes or marketing activities organized by our merchant-partners, we share your Personal Data with them, including your name and contact details.
+With Third Parties
+With third parties related to your use of OVO Services
+For example:
+In cases where engagements with third parties are required to resolve issues related to our Services or your usage of our Services (e.g., fraud handling, transaction correction), we may share your username account, registered phone number, and transaction details with third parties (e.g., bank-partners, transaction-channel partners);
+When you are using the intrabank fund transfer feature, we may share your username and phone number to the bank-partner and fund-recipient;
+When you are using the payment transactions, we may share your username and phone number to the bank-partner and fund-recipient; and
+When you are making payment transactions with third-party merchants, we may share to those merchants or third-party payment service providers connected to those merchants your Personal Data including your username, account identification, phone number.
+With Administrators of OVO Accounts that you may use
+For example:
+Your employer may be a subscriber to OVO for Business service, where they use it to top up your receivables (OVO Cash or OVO Points) to your OVO account, for the utilization of OVO for Business, we may share your Personal Data to your employer so they can instruct us to proceed with the top up to your account.
+The administrator of any community group to which you link your OVO account may receive transaction data when you carry out a transaction.
+With Subsidiaries, Affiliates, Associated Companies and Jointly Controlled Entities
+The companies in the OVO Group and Associates share infrastructure, technology, and other resources with each other to provide you with a consistent, reliable, and secure experience when you use our products or Services, and for the Purposes set out in this Privacy Notice. We may also share Personal Data to conduct periodic due diligence, assess and manage user risk profiles, perform analysis across OVO Group and Associates to improve our products and Services, ensure responsible credit decisions, and comply with applicable legal or regulatory obligations.
+For example, when you are applying for financial services offered via OVO App by our affiliate, a responsible credit decision may involve evaluating your financial history and risk factors to ensure that the credit extended aligns with your ability to repay, thereby protecting both you and the lender from potential financial harm.
+With OVO's Service Providers and Business Partners
+We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:
+Payment aggregators and facilitators, payment provider-partners, payment network providers, and any other third-party payment system/service organisations;
+Background check and anti-money laundering service providers;
+Risk intelligence and fraud assessment providers;
+Cloud storage providers;
+Document storage and management providers;
+Advertising and marketing partners and platform providers;
+Data analytics providers;
+Research partners, including those performing surveys or research projects in partnership with OVO or on OVO's behalf;
+Educational and training institute partners;
+Fleet and merchant partners;
+Insurance and financing partners;
+Third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and custodians;
+Service providers who perform identity verification services.
+For example:
+If you requested a service through an OVO partner or used a promotion provided by an OVO partner, OVO may share your Personal Data with that OVO partner.
+With our Legal Advisors and Governmental Authorities
+We may share your Personal Data with our legal advisors, law enforcement officials, government authorities and other third parties. This may take place to fulfil the legal purposes (mentioned above), or any of the following circumstances:
+Where it is necessary to respond to an emergency that threatens the life, health or safety of a person; or
+Where it is necessary in the public interest (e.g. in a public health crisis, for contact tracing purposes and safeguarding our community).
+Business Transfers
+We may share your Personal Data with other parties, in connection with any acquisitions, sales, mergers, joint ventures, consolidation, restructuring, financing or any other type of business transactions. Your Personal Data will however remain subject to our obligations made in any pre-existing Privacy Notice that you have agreed to.
+OVO Data Sharing Principles
+Before we disclose Personal Data, we will ensure that any third parties receiving the data, apply appropriate technical and organizational measures to protect the Personal Data at the very least with the same level as what we have implemented to protect Personal Data under our controllership. We will also require them to enter into a data sharing or confidentiality agreement to ensure that your data is legally protected.
+Our disclosure of Personal Data to third parties may incorporate a controller-processor relationship between us acting as the data controller of the Personal Data we disclose and the third party as the processor. In cases where we disclose Personal Data under a controller-processor relationship, we will ensure that the Personal Data is processed by the processor only for the Purposes that are relevant to the processing activities that we instruct our processor to execute. Most importantly, we will conduct a thorough due diligence in selecting processors we engage to process Personal Data on our behalf.
+We may also enter into a joint controllership with any third party, in such cases we will ensure that the other controller notifies the data subjects on their role as a controller of the Personal Data, and we and the other controller will proportionally distribute any liability arising from the processing of Personal Data that we process under the joint controller arrangement.
+For clarity, we will only disclose Personal Data once we can fully ensure that:
+The disclosure is so required and relevant to the implementation and fulfillment of the Purposes;
+We have a solid lawful ground to disclose the personal data to the third party;
+The disclosure only encompasses Personal Data that we see required and relevant to the implementation and fulfillment of the Purposes; and
+We have appropriate technical and organizational measures in place to protect the personal data.
+RETENTION OF PERSONAL DATA
+We retain your Personal Data for the period necessary to fulfill the Purposes outlined in this Privacy Notice unless a longer retention period is required or allowed by law. Retention periods differ depending on things like the nature of the data, why it is collected and processed, and relevant legal or business needs. For example, selfie images will be destroyed within ten (10) years from collection, unless otherwise authorized or required by law or legal process to retain the data.
+Once your Personal Data is no longer necessary for the Services or Purposes, we take steps to erase, destroy, anonymise or prevent access or use except where needed for legal compliance, safety, security, fraud prevention and detection, in line with applicable laws.
+INTERNATIONAL TRANSFERS OF PERSONAL DATA
+Your Personal Data may be transferred from your current location to another jurisdiction for various reasons such as centralized data processing and storage, regional back office operations and support and service delivery.
+We ensure these transfers comply with applicable laws and regulations. This includes having a lawful basis for transfer, conducting impact assessments and putting appropriate technical and organizational safeguards to ensure an adequate level of protection for your Personal Data. Our lawful basis will be either consent (obtained at the time you provide your Personal Data) or one of the safeguards permissible by laws.
+SECURITY MEASURES
+We have established and implemented technical and organizational measures to protect personal data under our retention from unauthorized processing or any activities that may infringe the rights of data subjects. These measures include, but are not limited to:
+ensuring our compliance with the applicable laws and regulations, particularly those related to data protection;
+enforcing and adopting this Privacy Notice, and our internal data protection policies;
+processing personal data only as necessary for, as relevant to, and in accordance with the stated Purposes;
+applying a risk-based approach to data processing, considering the type of data and processing activities involved;
+minimizing potential risks by, among others, encrypting, pseudonymizing, and anonymizing data and/or applying access restrictions;
+upholding and prioritizing the enforcement of data subject rights;
+requiring and enforcing confidentiality obligations upon any third party to whom disclosure shall be made prior to any data disclosure;
+logging or recording any processing activities towards personal data from time to time;
+appointing a Data Privacy Officer responsible for overseeing and advising on data protection measures; and
+periodically reviewing and assessing the effectiveness of data protection measures, and enhancing or updating them as needed to ensure continued protection.
+Please be advised that no data processing system is entirely free from security risks. In this regard, we strongly urge you to be very careful in safeguarding your personal data, among others by not disclosing your personal data to any parties without applying any precautions and not storing or sharing your personal data to any platforms whose credibility cannot be confirmed. You hereby agree that we cannot be held liable for any lawsuits, claims, charges, indemnities, or damages arising out of your failure to protect any of your personal data that you retain and process on your own or any third party that you assign to be your data controller.
+YOUR RIGHTS OVER YOUR DATA
+As provided under the applicable data protection law, data subjects whose personal data we retain and process shall have the following rights:
+Rights to Obtaining Information
+You can obtain information about us as the data controller who processes your personal data, the lawful basis upon which we process your data, the purposes we rely on to process your data, and your rights as the data subject. By this Privacy Notice we have provided you the aforementioned information. You can also reach out to our supporting team to have further information about your data that we retain and process (e.g. accountability of any platforms, channels, or officials that we assign to collect your data). We commit to complying with the required SLA time period for fulfilling your data subject rights in accordance with applicable data protection laws. Please refer to
+Section XI
+for contact details.
+Rights to Rectify Data
+If you find that your data that we retain needs to be corrected or updated, or you find any inaccuracy on your data, you can reach out to our supporting team to request for correction or update upon your data. Before requesting for corrections or updates, you can ask the team to provide you with your data that we retain so you can confirm their accuracy.
+Right to Access and Obtain Copies
+At any time you can request us to provide you with data or copies of data that you have submitted to us.
+Rights of Consent Revocation, Data Deletion, and Destruction
+You have the right to withdraw your consent that you have given to us for processing your personal data, as well as require us to cease any processing activities that we undertake upon your data, delete and/or destruct any of your personal data that we retain from our systems.
+Exercising your aforementioned rights may render us incapable of undertaking certain or the entire activities related to our services upon you, for example; after you enforce your right to revoke your consent or delete your data, we will not be able to retain your account and thus you cannot instruct us to provide our services since our services may require us to access your account for identification and verification of your data. By exercising any of rights as provided under this sub-section, you acknowledge and agree to the consequences, you shall not take us liable for any consequences thereof.
+In most cases, data subjects exercise these rights when they believe that the retention or processing of their personal data is no longer relevant to the Purposes, the data controller no longer has a lawful basis for processing, the data retention period has expired, and/or there has been a data protection failure affecting the security, confidentiality, accuracy, or integrity of their personal data.
+Rights to Object Automated-Decision Making or Profiling
+Where any parts of our services may subject you to automated-decision making or profiling from automated processing that may raise legal obligations upon you or significantly impact your rights as our end-users, you will be facilitated to file your objection to us. We will inform you whenever we take any measures to subject you to automated-decision making or profiling, which may raise legal obligations upon you or significantly impact your rights as our end-users.
+Right to Suspend or Restrict Data Processing
+If you find any processing activities committed by us towards your data that are not proportional, aligned, relevant, or necessary to cater to the Purposes, or your data that we retain is inaccurate, you may require us to suspend or restrict us from continuing the processing.
+Rights of Data Portability
+You have the right to obtain and/or use your personal data that we retain in any format, structure, and form that are commonly used to be readable by electronic systems. You can request us to share and transfer your personal data that we retain to other data controllers provided that their electronic systems can communicate with ours securely in accordance with the applicable data protection law.
+Rights of Indemnification
+Any damages arising from our proven failure in protecting your data that we retain or infringement of your rights as the data subject may grant you the right to be indemnified.
+Right to Object to Direct Marketing
+Sometimes we may notify you through your direct contact (e.g. phone number, email) of any marketing or promotional materials (e.g. offerings, campaigns) related to our services or any of our affiliates' products. If you find them inconvenient, you may reach out to us to be opted out of such notifications by, among others (as applicable); opting to unsubscribe/turn off the marketing, promotion, or offering notifications, or reaching out to our supporting team to opt out from such notifications.
+Right Exemptions
+Your rights to revoke your consent, to require deletion or destruction, to object automated-decision making or profiling, and to data portability may be subject to exemption for:
+National defence and security interests;
+Law enforcement interests;
+Public interests in the administration of the state;
+Interests in the supervision of the financial services sector, monetary policy, payment systems, and financial system stability carried out in the administration of the state; or
+Statistical and scientific research interests.
+PROTECTION OF PERSONAL DATA
+We implement reasonable legal, physical, organisational and technical measures to ensure that your Personal Data is protected. This includes measures to prevent loss, unauthorised access or misuse of your information. We limit access to your information to our employees on a need to know basis. Those processing your data will do so only in an authorised manner and are required to maintain the confidentiality of your information.
+Nevertheless, please understand that the transmission of information via the internet is not completely secure. Although we will do our best to protect your Personal Data, we cannot guarantee the absolute security of your Personal Data during online transmission. By using our Services, you acknowledge that some risk remains with any data sent or transferred online.
+Data Integrity
+We reserve the right to assume and regard that you have any required legitimate basis to submit any personal data you share with or transfer to us. You shall release us from any liability incurred from any personal data that you submit to us without any legitimate basis.
+Please ensure the validity, completeness, and accuracy of any of your Personal Data submitted to us. We may verify your personal data to the Department of Population and Civil Registration, if we find your personal data is unverifiable or requires correction, we will not be able to process your data, which may lead to us unable to provide our services for you.
+Should there be any changes to your Personal Data, which you have submitted to us, we urge you to immediately update the change to us so we can update the ones we retain in our system. A prompt update after the changes may spare you from any consequences from data inaccuracy, such as; errors in using our services, because your data under our retention is no longer valid or the same as the one you have.
+In regard to the validity, completeness, and accuracy of your Personal Data, you shall release us from any consequences arising from your negligence or failure in maintaining or ensuring the validity, completeness, and accuracy of your personal data that you submit to us.
+GOVERNING LAW
+The laws and regulations of the Republic of Indonesia govern the provisions of this Privacy Notice. Any disagreements between OVO and data subjects regarding this Privacy Notice will ideally be resolved through amicable settlement in accordance with Indonesian law. If a mutual agreement cannot be reached, both parties agree to submit the dispute to the jurisdiction of a competent court for legal resolution.
+DATA PRIVACY OFFICE
+We facilitate you to reach out to us via our supporting team by phone to
+1500969
+or by email to
+cs@ovo.id
+(for users) or to
+merchant.support@ovo.id
+(for merchants) for more detailed information on:
+Your data that we process;
+Our obligations as the data controller;
+How to enforce your rights as the data subject;
+How to convey any questions, feedback, or findings related to the processing of your data.
+Any information and complaints related to data processing and protection will be forwarded by our supporting team to our Data Privacy Office, they will attend and address your inquiries, requests, and complaints related to your data processing.
+LANGUAGE
+This Privacy Notice is established in Bahasa Indonesia and English. Where there is a contradiction in interpretation between the versions, the Bahasa Indonesia interpretation shall prevail over the English version.
+AMENDMENTS AND UPDATES
+We may review and change this Privacy Notice to ensure that the provisions stipulated in this Privacy Notice are consistent with our future business operations and/or any laws and/or regulations applicable from time to time. Any changes to this Privacy Notice will be informed by a public notice on our website, application, or any platform we use to notify our end users.
+You agree that you are solely responsible for reviewing this Privacy Notice periodically to find out the latest information regarding this Privacy Notice through our website and/or application, and/or the contact that you have shared with us. Please periodically and regularly visit our website and/or application, and keep your contact information active to make sure any updates on this Privacy Notice are delivered to you.
+Tanggal Efektif: 1 September 2026
+Pemberitahuan Privasi ini beserta Adendumnya ("
+Pemberitahuan Privasi
+") mengatur pemrosesan data pribadi oleh
+PT Visionet Internasional
+beserta anak perusahaan, afiliasi, perusahaan terkait, dan entitas yang dikendalikan bersama ("
+Grup OVO
+", "
+OVO
+", "
+kami
+", "milik kami") dalam menangani Data Pribadi Anda (sebagaimana didefinisikan dalam undang-undang privasi data yang berlaku) ketika Anda menggunakan
+Platform
+kami (termasuk layanan uang elektronik OVO, dan hal-hal lain yang berkaitan dengan Aplikasi OVO) yang kami miliki atau operasikan sehubungan dengan penyediaan layanan, produk, dan solusi kami ("
+Layanan
+").
+Dalam kapasitas kami sebagai pengendali data, kami memproses Data Pribadi dengan persetujuan Anda atau sebagaimana diizinkan oleh hukum, seperti untuk:
+Memenuhi persyaratan hukum
+Membuat atau memenuhi kewajiban kontraktual kami kepada Anda
+Untuk memenuhi kepentingan sah kita atau kepentingan orang lain.
+Sebagai penegasan, istilah "
+Anda
+" atau "
+subjek data
+" dalam konteks Pemberitahuan Privasi ini dapat mencakup: pengguna layanan dan mitra merchant kami, serta perwakilan mereka yang data pribadinya diproses oleh kami, sebagai "
+pengguna akhir
+".
+Istilah "
+Data Pribadi
+" atau "
+Data
+" dalam Pemberitahuan Privasi ini mengacu pada setiap data yang berkaitan dengan individu/seseorang, yang secara sendiri maupun dikombinasikan dengan informasi lain, dapat secara langsung maupun tidak langsung mengidentifikasi atau dapat diidentifikasi sebagai individu/seseorang (subjek data), baik melalui sistem elektronik maupun nonelektronik, yang mencakup:
+"
+Data pribadi umum
+": setiap data pribadi yang bersifat umum dan tidak termasuk dalam klasifikasi data sensitif, seperti: nama lengkap, alamat, jenis kelamin, tanggal lahir; dan
+"
+Data pribadi khusus
+" / "
+Data sensitif
+": setiap data pribadi yang bersifat sensitif dan memerlukan tingkat perlindungan yang lebih spesifik dan lebih tinggi dibandingkan data pribadi umum, seperti: data genetik, data biometrik, rekam medis, orientasi seksual, pandangan politik, data keuangan pribadi, atau catatan kriminal.
+PENGUMPULAN DATA PRIBADI
+Kami mengumpulkan Data Pribadi Anda melalui cara-cara yang tercantum di bawah ini. Kami juga dapat menggabungkan Data Pribadi yang dikumpulkan melalui berbagai saluran tersebut.
+Anda memberikan Data Pribadi kepada Kami
+Kami mengumpulkan Data Pribadi langsung dari Anda saat Anda memberikannya kepada kami. Keadaan tersebut termasuk, namun tidak terbatas pada, saat Anda:
+Mengisi formulir pendaftaran pengguna atau menyesuaikan profil Anda (termasuk nama, informasi kontak, dan identifikasi lain yang diperlukan);
+Mendaftar sebagai pengguna akhir, membuat atau membuka akun pengguna/merchants, bergabung dalam ekosistem Layanan kami, meningkatkan klasifikasi akun Anda, atau memperbarui data pribadi Anda yang saat ini kami simpan;
+Memberikan informasi untuk menilai kesesuaian Anda sebagai mitra, vendor, pemasok, atau rekanan OVO lainnya (seperti nama dan informasi kontak perwakilan resmi);
+Mengadakan atau melaksanakan perjanjian atau kontrak dengan kami atau afiliasi kami, atau berpartisipasi dalam aktivitas apa pun yang dikelola, diawasi, dan/atau diselenggarakan oleh kami dan/atau afiliasi kami;
+Berinteraksi dengan halaman media sosial kami (termasuk ID akun media sosial, foto profil, dan konten apapun seperti foto, video, atau cerita yang Anda buat untuk dipublikasikan di saluran kami);
+Berpartisipasi dalam kontes atau acara yang kami selenggarakan (termasuk gambar, audio, atau video yang mungkin Anda kirimkan, yang mungkin mencakup gambar diri Anda);
+Memberikan informasi demografis dalam survei (seperti usia, jenis kelamin, dan informasi lain yang Anda berikan secara sukarela, termasuk status perkawinan, pekerjaan, dan informasi pendapatan);
+Memberikan kami akses ke acara kalender Anda (seperti tanggal reservasi, waktu, nama atau alamat lokasi, dan rincian penerbangan);
+Mengajukan produk untuk memungkinkan kami menilai kelayakan Anda (seperti slip gaji, rekening koran, informasi kecelakaan, sertifikat medis, bukti hubungan keluarga, dan informasi relevan lainnya yang Anda berikan secara sukarela);
+Menghubungi kami melalui berbagai saluran layanan pelanggan kami (termasuk obrolan, pesan, email, rekaman panggilan, dan gambar yang dikirimkan untuk mendukung klaim Anda);
+Mengirimkan ulasan, umpan balik, penilaian, media, atau konten lainnya mengenai suatu lokasi dan/atau Layanan apa pun, yang dapat kami kaitkan dengan dan tampilkan di samping halaman profil publik Anda; dan
+Memverifikasi identitas Anda melalui berbagai cara (seperti panggilan telepon atau video, masuk melalui media sosial, pengiriman foto
+swafoto
+, uji keaktifan (
+pemeriksaan keaktifan
+), atau informasi kartu pembayaran yang diverifikasi secara independen). Sebagai contoh, jika Anda adalah seorang pengguna, kami dapat memverifikasi identitas Anda melalui foto swafoto sebagai lapisan perlindungan tambahan atau sesuai dengan prosedur
+Kenali Pelanggan Anda
+(KYC) OVO sebagaimana diwajibkan oleh regulasi keuangan yang berlaku.
+Saat Layanan kami digunakan
+Data Pribadi dapat dikumpulkan secara pasif melalui pengoperasian normal atau penggunaan Platform kami. Beberapa contohnya adalah:
+Informasi transaksi (seperti metode pembayaran, catatan penyelesaian pembayaran, dan rincian barang yang dibeli atau dibayar melalui Layanan kami);
+Data penggunaan;
+Informasi perangkat (seperti model perangkat keras dan nomor seri, alamat IP, nama dan versi file serta aplikasi, nomor IMEI, pengidentifikasi iklan, atau informasi apa pun yang dapat menunjukkan modifikasi perangkat atau aplikasi); dan
+Data pribadi yang mungkin terekam melalui interaksi Anda dengan kami atau agen kami, termasuk rekaman audio dan/atau video di dalam kendaraan selama perjalanan (seperti gambar, video, suara Anda, atau kombinasi daripadanya, beserta metadata terkait).
+Dari sumber lain
+OVO dapat mengumpulkan Data Pribadi, termasuk namun tidak terbatas pada informasi mengenai Anda (seperti informasi pelanggan, rincian kontak, informasi identifikasi lainnya, dan data keuangan jika diperlukan) dari sumber lain. Sumber-sumber tersebut meliputi:
+Afiliasi OVO, perusahaan asosiasi, dan entitas yang dikendalikan bersama;
+Program rujukan (
+rujukan
+);
+Mitra bisnis kami;
+Penyedia layanan intelijen risiko dan penilaian penipuan (
+tipuan
+);
+Biro kredit, penyedia jaringan pembayaran, lembaga pemeringkat kredit alternatif, dan organisasi pelaporan kredit pihak ketiga lainnya;
+Sumber data yang tersedia secara publik atau sumber data pemerintah; dan
+Penyedia layanan atau mitra pemasaran.
+Saat Anda memberikan Data Pribadi orang lain kepada kami
+Dalam beberapa situasi, Anda mungkin memberikan Data Pribadi individu lain kepada kami, misalnya ketika Anda menambahkan mereka sebagai perwakilan Anda untuk berhubungan dengan kami, menggunakan Layanan kami untuk mentransfer dana kepada mereka, atau menambahkan mereka sebagai penerima atau ahli waris dari penggunaan Layanan kami. Jika Anda memberikan Data Pribadi mereka kepada kami, Anda menyatakan dan menjamin bahwa Anda telah memperoleh persetujuan mereka agar Data Pribadi mereka dikumpulkan, digunakan, dan diungkapkan sebagaimana diuraikan dalam Pemberitahuan Privasi ini.
+Data Pribadi Sensitif
+Beberapa Data Pribadi yang kami kumpulkan mungkin bersifat sensitif di yurisdiksi tertentu. Ini mungkin termasuk informasi identitas nasional Anda, keyakinan agama, informasi latar belakang (termasuk catatan keuangan dan kriminal, jika diizinkan secara hukum), data kesehatan, disabilitas, status perkawinan, lokasi, dan data biometrik, sebagaimana berlaku. Kami hanya mengumpulkan Data Pribadi Sensitif dengan persetujuan Anda dan/atau sesuai dengan hukum yang berlaku, dan memastikan Data Pribadi Sensitif tersebut ditangani dan dilindungi dengan langkah-langkah keamanan dan pengamanan yang ketat. Jika Anda diharuskan untuk memberikan dokumentasi atau informasi apapun kepada kami untuk Tujuan apa pun yang mungkin berisi Data Pribadi sensitif tersebut (yang tidak diperlukan untuk Tujuan tersebut), Anda setuju untuk menyunting Data Pribadi sensitif tersebut sebelum memberikan dokumentasi atau informasi tersebut kepada kami.
+PENGGUNAAN DATA PRIBADI
+OVO menggunakan Data Pribadi Anda untuk tujuan-tujuan yang tercantum di bawah ini (secara kolektif, "Tujuan"). Selain itu, jika Anda menggunakan OVO dalam berbagai kapasitas dan/atau dalam ekosistem yang lebih luas dari layanan perusahaan afiliasi OVO Group dan Associates, Kami dapat menghubungkan Data Pribadi Anda yang dikumpulkan dalam berbagai kapasitas Anda untuk mempermudah penggunaan Layanan kami dan untuk Tujuan yang dijelaskan di bawah ini:
+Menyediakan Layanan dan Fitur
+Data Pribadi Anda akan digunakan untuk menyediakan, mempersonalisasi, memelihara, dan meningkatkan Platform dan Layanan kami. Ini termasuk penggunaan Data Pribadi Anda untuk:
+Menyediakan layanan kepada Anda di berbagai bidang bisnis kami, termasuk di dalam dan di seluruh Grup OVO dan Afiliasi jika relevan;
+Melaksanakan instruksi Anda terkait Layanan kami, termasuk instruksi transaksi;
+Menyelesaikan transaksi yang dilakukan oleh pengguna akhir, termasuk mendebit dan mengkredit saldo ke rekening pengguna akhir;
+Membuat, mengelola, dan memperbarui akun Anda;
+Memproses, Mengelola, atau Memverifikasi kelayakan Anda untuk atau pengajuan produk, layanan, promosi, hadiah, dan langganan;
+Melakukan pemeriksaan uji tuntas, menilai dan memantau profil risiko pengguna, serta melakukan analisis risiko berkelanjutan untuk memastikan kepatuhan terhadap persyaratan peraturan dan operasional;
+Memverifikasi identitas dan usia Anda (jika diperlukan);
+Memvalidasi instruksi Anda dan proses transaksi;
+Menawarkan, Memperoleh, Menyediakan, Memfasilitasi, atau Memelihara solusi asuransi atau pembiayaan (jika berlaku);
+Melacak perkembangan transaksi Anda, mendeteksi kasus penggunaan yang tidak normal, dan meningkatkan akurasi serta keandalan Layanan terkait menggunakan data dari perangkat Anda;
+Memungkinkan Anda untuk berpartisipasi dalam program loyalitas atau aktivitas pemasaran yang diselenggarakan oleh mitra pedagang kami dan/atau yang bekerja sama dengan OVO;
+Mempersonalisasikan pengalaman Anda (misalnya, untuk mengidentifikasi preferensi Anda dan merekomendasikan produk dan layanan yang relevan bagi Anda);
+Membuat pengalaman Anda lebih lancar (seperti mengisi informasi pendaftaran Anda secara otomatis saat Anda beralih dari satu Layanan ke Layanan lain);
+Melakukan operasi internal yang diperlukan untuk menyediakan Layanan kami, termasuk mengatasi
+bug
+perangkat lunak dan masalah operasional, melakukan analisis data, pengujian dan penelitian, memantau dan menganalisis tren penggunaan dan aktivitas;
+Melindungi keamanan atau integritas Layanan dan fasilitas atau peralatan apa pun yang digunakan untuk menyediakan Layanan;
+Mengundang Anda untuk berpartisipasi dalam acara, survei, dan studi kami; dan
+Kami akan memenuhi Layanan kami kepada Anda sebagai pengolah data, di mana Anda telah memberikan persetujuan kepada pengendali data (yaitu organisasi tempat Anda membeli barang atau jasa, dan atas nama siapa OVO menyediakan layanan) agar layanan tersebut dapat diberikan.
+Saat Anda menginstruksikan kami untuk menyediakan atau melaksanakan Layanan kami, kami akan memproses data pribadi Anda untuk memastikan bahwa instruksi Anda diproses dan dilaksanakan sesuai dengan ketentuan. Harap diperhatikan, beberapa Layanan kami mungkin mengharuskan Anda untuk melakukan otentikasi untuk mengidentifikasi dan memverifikasi bahwa akses ke akun tersebut valid.
+Keselamatan dan Keamanan
+Kami menggunakan data Anda untuk memastikan keamanan dan keselamatan Layanan kami dan semua pengguna akhir. Ini termasuk:
+Melakukan penyaringan pengguna akhir sebelum mengizinkan mereka menggunakan Layanan kami;
+Mengidentifikasi transaksi yang tidak biasa atau mencurigakan atau penggunaan Layanan kami;
+Memverifikasi identitas Anda saat Anda masuk ke OVO atau menautkan akun Anda ke akun pihak ketiga;
+Menggunakan data perangkat, lokasi, profil, penggunaan, aktivitas di dalam kendaraan, dan Data Pribadi lainnya untuk mencegah, melakukan intervensi, mendeteksi, dan memerangi penipuan atau aktivitas yang tidak aman;
+Memantau kepatuhan terhadap syarat dan ketentuan serta kebijakan kami.
+Sebagai penyedia layanan pembayaran yang berlisensi dan diawasi oleh Bank Indonesia, kami diwajibkan oleh hukum untuk menerapkan langkah-langkah keamanan guna mencegah dan mengurangi risiko pelanggaran hukum dan/atau peraturan yang berlaku dan/atau hak pihak ketiga seperti; pencucian uang, pendanaan terorisme, aktivitas penipuan, kejahatan keuangan, yang dapat menimbulkan kerugian bagi pengguna akhir kami, OVO, afiliasi kami, dan/atau pihak ketiga mana pun.
+Langkah-langkah keamanan kami terkait pemrosesan data mencakup penerapan:
+Pencegahan Pencucian Uang dan Pemberantasan Pendanaan Terorisme, serta Pencegahan Pendanaan Proliferasi (AML-CFT-CPF), yang selalu kami terapkan dengan menggunakan prinsip kenali pelanggan/bisnis Anda untuk mengidentifikasi dan memverifikasi pengguna akhir kami;
+Sistem Deteksi Penipuan, yang akan memantau dan mengawasi setiap aktivitas oleh akun apa pun yang kami kelola dan akun lain yang berinteraksi dengan akun yang kami kelola, terkait dengan layanan kami berdasarkan parameter yang kami tetapkan untuk mengendalikan setiap anomali, aktivitas mencurigakan, atau penipuan yang dapat membahayakan keamanan ekosistem kami; dan
+Proses Penanganan Penipuan, yang kami terapkan untuk membantu pengguna akhir atau pihak ketiga yang menemui aktivitas penipuan agar tidak menjadi korban.
+Dukungan Pengguna
+Kami menggunakan Data Pribadi untuk menyelesaikan masalah dukungan pengguna. Misalnya, kami dapat:
+Menyelidiki dan mengatasi permasalahan;
+Memantau dan meningkatkan respons dukungan pengguna kami;
+Menanggapi pertanyaan, komentar, dan umpan balik; dan
+Memberi tahu Anda tentang langkah-langkah yang diambil untuk menyelesaikan masalah dukungan pengguna.
+Penelitian, Pengembangan, dan Keamanan
+Kami dapat menggunakan Data Pribadi yang kami kumpulkan untuk pengujian, penelitian, analisis, pembelajaran mesin, dan pengembangan produk. Hal ini memungkinkan kami untuk memahami dan menganalisis kebutuhan dan preferensi Anda, melindungi Data Pribadi Anda, meningkatkan dan memperkuat keamanan Layanan kami, mengembangkan fitur, produk, dan layanan baru, serta solusi keuangan.
+Kami akan memproses Data Pribadi untuk lebih mengembangkan dan meningkatkan Layanan dan aktivitas bisnis kami. Dengan memproses data pribadi pengguna akhir kami, kami akan mengetahui apa yang perlu dikembangkan dan ditingkatkan dari pihak kami, sehingga kami dapat menyempurnakan Layanan kami atau meluncurkan layanan baru untuk pengguna akhir kami. Tujuan ini mencakup aktivitas pemrosesan data terkait analisis data, riset pasar, analisis perilaku pelanggan, uji coba dan pengujian produk. Kami akan memastikan bahwa setiap data pribadi yang kami proses untuk tujuan ini tidak akan menimbulkan kerugian bagi subjek data, dan akan tetap dirahasiakan.
+Tujuan Hukum
+Kami dapat menggunakan Data Pribadi yang kami kumpulkan untuk tujuan hukum seperti:
+Mencegah, mendeteksi, menyelidiki, menyelesaikan atau menuntut penipuan atau kejahatan;
+Mematuhi perintah pengadilan atau persyaratan hukum, pemerintah, atau peraturan lainnya;
+Menegakkan Ketentuan Layanan kami atau perjanjian lainnya; dan
+Menegakkan atau melindungi hak, kepentingan, atau properti kami jika terjadi klaim, investigasi, pengaduan, atau perselisihan di yurisdiksi mana pun.
+Pemasaran dan Promosi
+Kami dapat menggunakan Data Pribadi Anda untuk mengirimkan komunikasi pemasaran terkait produk atau layanan yang dipersonalisasi (yang mungkin menarik atau relevan berdasarkan profil Anda), atau produk, layanan, acara, atau promosi dari mitra, sponsor, dan pengiklan kami. Sebagai contoh, kami dapat:
+Mengirimkan penawaran khusus yang mungkin menarik atau relevan bagi Anda di seluruh Layanan OVO;
+Mengirimkan peringatan, buletin (
+buletin
+), pembaruan, surat, materi promosi, hak istimewa khusus, dan salam hari raya; dan
+Memberitahukan, mengundang, dan mengelola partisipasi Anda dalam acara atau aktivitas kami, termasuk publikasi foto atau video apa pun yang terekam.
+Kami dapat menyampaikan informasi pemasaran tersebut kepada Anda melalui berbagai cara, jika memungkinkan (termasuk melalui SMS, aplikasi obrolan (misalnya WhatsApp), pemberitahuan push, panggilan telepon, dan email).
+Jika Anda ingin berhenti berlangganan komunikasi pemasaran tersebut, silakan klik tautan berhenti berlangganan di email atau pesan yang relevan. Harap dicatat bahwa meskipun Anda dapat memilih untuk tidak menerima komunikasi pemasaran atau promosi, OVO mungkin masih mengirimkan pesan terkait akun dan/atau layanan Anda (seperti otentikasi dua faktor, informasi tentang transaksi Anda, hadiah, dll.).
+Pengarsipan dan Dokumentasi
+Kami perlu menyimpan dan memproses Data Pribadi agar dapat memprosesnya untuk tujuan apa pun yang diuraikan dalam bagian ini. Dengan mengarsipkan dan mendokumentasikannya, kami akan memiliki jejak dan riwayat aktivitas pemrosesan Data Pribadi oleh pihak kami, dan membuatnya mudah diakses kapanpun diperlukan.
+Sebagai badan usaha, OVO dapat tunduk pada proses administrasi, yang mungkin melibatkan data pribadi, sebagai bagian dari banyak data yang kami simpan terkait dengan aktivitas bisnis kami. Proses administrasi ini mencakup, termasuk tetapi tidak terbatas pada; audit oleh auditor swasta atau publik atau oleh otoritas yang berwenang. Ketika pemrosesan data perlu dilakukan untuk tujuan administratif, kami akan memastikan pemrosesan hanya pada data pribadi yang kami anggap relevan dengan tujuan administratif tersebut, dan membatasi akses pihak-pihak yang tidak relevan dengan pemrosesan data untuk tujuan ini.
+Tindakan Korporasi
+Kami mungkin terlibat atau memprakarsai tindakan korporasi (misalnya, penggabungan dan akuisisi, konsolidasi, restrukturisasi, penjualan dan pembelian aset, pembiayaan korporasi), di mana perusahaan kami berpartisipasi dalam tindakan korporasi, kami mungkin diharuskan untuk melakukan aktivitas pengolahan data yang relevan dengan tindakan korporasi tersebut.
+Pemberitahuan
+Dari waktu ke waktu, kami mungkin perlu menyampaikan informasi yang kami anggap perlu atau penting bagi subjek data terkait dengan Layanan kami, misalnya; jika ada pembaruan pada Layanan kami, sehingga kami perlu memproses data pribadi agar dapat menghubungi subjek data.
+Kepatuhan
+Dalam industri yang sangat diatur dan diawasi, kami tunduk pada permintaan, perintah, atau tuntutan dari otoritas/penegak hukum yang berwenang atau sebagaimana diamanatkan oleh hukum dan/atau peraturan yang berlaku, yang mungkin mengharuskan kami untuk memproses Data Pribadi sesuai dengan permintaan, perintah, tuntutan mereka, atau hukum dan/atau peraturan yang berlaku.
+Tujuan lainnya
+Kami dapat memproses data pribadi untuk tujuan sah lainnya, asalkan pemrosesan data tersebut sesuai dan dilakukan sesuai dengan hukum dan peraturan privasi yang berlaku.
+Dalam menyediakan layanan dan fitur ini kepada Anda, kami dapat menggunakan cara manual atau otomatis, termasuk layanan AI. Kami berupaya untuk memastikan keakuratan dan keandalan layanan AI kami, dan bila perlu, kami dapat memverifikasi hasilnya secara manual.
+Dasar Hukum Pemrosesan
+Kami hanya akan memproses Data Pribadi setelah kami memiliki salah satu dasar hukum yang sah:
+Persetujuan
+Sebelum memasuki, mengakses, dan/atau menggunakan ekosistem Layanan kami, Anda mungkin diharuskan untuk memberikan persetujuan Anda terhadap Pemberitahuan Privasi ini atau aktivitas pemrosesan data yang akan kami lakukan terkait data pribadi Anda, terutama jika Layanan kami yang Anda akses dan/atau gunakan memerlukan pemrosesan data.
+Pemenuhan Kewajiban Kontraktual
+Sebagian besar subjek data yang data pribadinya kami proses adalah mereka yang terikat oleh perjanjian (misalnya, perjanjian layanan, perjanjian kerja sama, syarat dan ketentuan) dengan kami dan/atau afiliasi kami, baik sebagai pengguna, pedagang, atau mitra. Jika Anda adalah salah satu pihak yang memiliki kewajiban kontraktual dengan kami, kami dapat memproses data pribadi Anda untuk memenuhi kewajiban kami kepada Anda atau sebaliknya. Sebagai contoh; ketika Anda adalah pengguna, kami mungkin perlu memproses data pribadi Anda agar kami dapat mendebit akun Anda untuk transaksi yang dimulai dari akun Anda, atau mengkredit akun Anda dengan saldo yang ditransfer/diisi ulang ke akun Anda.
+Kepatuhan Hukum dan Peraturan
+Sejalan dengan Tujuan tersebut, mungkin ada kalanya kami diharuskan, diperintahkan, atau diminta oleh otoritas yang berwenang atau penegak hukum, atau diwajibkan berdasarkan hukum dan/atau peraturan yang berlaku untuk memproses Data Pribadi untuk tujuan mereka. Harap diketahui bahwa aktivitas pemrosesan data kami berdasarkan kepatuhan hukum dan peraturan adalah wajib bagi kami untuk mematuhinya, dan Anda tidak akan menuntut kami atas konsekuensi apa pun dari pemrosesan data tersebut selama kami melaksanakannya sesuai dengan permintaan, perintah, atau tuntutan dari otoritas yang berwenang/penegak hukum, dan/atau hukum dan/atau peraturan yang berlaku.
+Perlindungan Kepentingan Vital
+Dalam keadaan darurat atau situasi mendesak ketika keselamatan subjek data dipertaruhkan dan dimana meminta persetujuan tidak mungkin diperoleh atau dapat meningkatkan kemungkinan atau dampak risiko yang terkait dengan situasi tersebut, kami dapat memproses Data Pribadi Anda, terutama jika situasi tersebut dapat membahayakan Anda secara fisik.
+Kepentingan Publik / Tugas Resmi
+Ada kalanya kita harus berkomitmen pada program-program yang diprakarsai oleh Pemerintah, seperti sensus, program distribusi subsidi, perlindungan kesehatan masyarakat, atau kegiatan penegakan hukum. Saat berpartisipasi dalam program-program tersebut, kita mungkin diharuskan untuk memproses data pribadi untuk mendukung atau membantu program-program tersebut.
+Kepentingan yang Sah
+Kami juga dapat memproses data pribadi ketika kami menganggapnya perlu untuk kepentingan yang sah seperti; pencegahan dan mitigasi risiko, keamanan jaringan dan informasi, pemantauan layanan, dukungan pelanggan, dan penyempurnaan layanan.
+PENGUNGKAPAN DATA PRIBADI
+Kami dapat mengungkapkan Data Pribadi Anda kepada berbagai pihak hanya jika diperlukan untuk Tujuan yang telah ditentukan. Pihak-pihak tersebut adalah:
+Pengguna akhir lainnya
+Misalnya:
+Saat Anda menggunakan fitur transfer dana antar pengguna, kami dapat membagikan nama pengguna dan nomor telepon Anda kepada penerima transfer dana dalam pemberitahuan atau riwayat transfer dana;
+Saat Anda melakukan transaksi pembayaran dengan mitra pedagang, kami dapat membagikan Data Pribadi Anda kepada mitra pedagang yang dipilih, termasuk nama pengguna, identifikasi akun, dan nomor telepon Anda; dan
+Saat Anda berpartisipasi dalam program atau aktivitas pemasaran yang diselenggarakan oleh mitra pedagang kami, kami membagikan Data Pribadi Anda kepada mereka, termasuk nama dan detail kontak Anda.
+Dengan Pihak Ketiga
+Dengan pihak ketiga yang terkait dengan penggunaan Layanan OVO Anda
+Misalnya:
+Dalam kasus di mana keterlibatan dengan pihak ketiga diperlukan untuk menyelesaikan masalah yang terkait dengan Layanan kami atau penggunaan Layanan kami oleh Anda (misalnya, penanganan penipuan, koreksi transaksi), kami dapat membagikan akun nama pengguna Anda, nomor telepon terdaftar, dan detail transaksi dengan pihak ketiga (misalnya, mitra bank, mitra saluran transaksi);
+Saat Anda menggunakan fitur transfer dana antar bank, kami dapat membagikan nama pengguna dan nomor telepon Anda kepada mitra bank dan penerima dana;
+Saat Anda menggunakan transaksi pembayaran, kami dapat membagikan nama pengguna dan nomor telepon Anda kepada mitra bank dan penerima dana; dan
+Saat Anda melakukan transaksi pembayaran dengan pedagang pihak ketiga, kami dapat membagikan Data Pribadi Anda, termasuk nama pengguna, identifikasi akun, dan nomor telepon Anda, kepada pedagang tersebut atau penyedia layanan pembayaran pihak ketiga yang terhubung dengan pedagang tersebut.
+Dengan Administrator Akun OVO yang mungkin Anda gunakan
+Misalnya:
+Perusahaan tempat Anda bekerja berlangganan layanan OVO
+for Business
+, mereka menggunakannya untuk mengisi saldo (OVO Cash atau OVO Points) ke akun OVO Anda. Untuk penggunaan OVO for Business, kami dapat membagikan Data Pribadi Anda kepada perusahaan tempat Anda bekerja agar mereka dapat menginstruksikan kami untuk melanjutkan pengisian saldo ke akun Anda.
+Administrator dari grup komunitas manapun yang Anda kaitkan dengan akun OVO Anda dapat menerima data transaksi saat Anda melakukan transaksi.
+Beserta Anak Perusahaan, Afiliasi, Perusahaan Terkait, dan Entitas yang Dikendalikan Bersama
+Perusahaan-perusahaan dalam Grup OVO dan Afiliasinya saling berbagi infrastruktur, teknologi, dan sumber daya lainnya untuk memberikan Anda pengalaman yang konsisten, andal, dan aman saat Anda menggunakan produk atau Layanan kami, dan untuk Tujuan yang tercantum dalam Pemberitahuan Privasi ini. Kami juga dapat membagikan Data Pribadi untuk melakukan uji tuntas berkala, menilai dan mengelola profil risiko pengguna, melakukan analisis di seluruh Grup OVO dan Afiliasinya untuk meningkatkan produk dan Layanan kami, memastikan keputusan kredit yang bertanggung jawab, dan mematuhi kewajiban hukum atau peraturan yang berlaku.
+Sebagai contoh, ketika Anda mengajukan permohonan layanan keuangan yang ditawarkan melalui Aplikasi OVO oleh afiliasi kami, keputusan kredit yang bertanggung jawab mungkin melibatkan evaluasi riwayat keuangan dan faktor risiko Anda untuk memastikan bahwa kredit yang diberikan sesuai dengan kemampuan Anda untuk membayar kembali, sehingga melindungi Anda dan pemberi pinjaman dari potensi kerugian finansial.
+Bersama Penyedia Layanan dan Mitra Bisnis OVO
+Kami dapat memberikan Data Pribadi kepada vendor, konsultan, mitra pemasaran, perusahaan riset, dan penyedia layanan atau mitra bisnis lainnya. Ini termasuk:
+Agregator dan fasilitator pembayaran, mitra penyedia pembayaran, penyedia jaringan pembayaran, dan organisasi sistem/layanan pembayaran pihak ketiga lainnya;
+Penyedia layanan pemeriksaan latar belakang dan anti pencucian uang;
+Penyedia intelijen risiko dan penilaian penipuan;
+Penyedia penyimpanan cloud;
+Penyedia penyimpanan dan pengelolaan dokumen;
+Mitra periklanan dan pemasaran serta penyedia platform;
+Penyedia analitik data;
+Mitra penelitian, termasuk mereka yang melakukan survei atau proyek penelitian dalam kemitraan dengan OVO atau atas nama OVO;
+Mitra lembaga pendidikan dan pelatihan;
+Mitra armada dan pedagang;
+Mitra asuransi dan pembiayaan;
+Perantara pihak ketiga yang terlibat dalam pengelolaan investasi dana, seperti pialang, manajer aset, dan kustodian;
+Penyedia layanan yang melakukan layanan verifikasi identitas.
+Misalnya:
+Jika Anda meminta layanan melalui mitra OVO atau menggunakan promosi yang disediakan oleh mitra OVO, OVO dapat membagikan Data Pribadi Anda dengan mitra OVO tersebut.
+Bersama Penasihat Hukum dan Otoritas Pemerintah kami
+Kami dapat membagikan Data Pribadi Anda dengan penasihat hukum kami, petugas penegak hukum, otoritas pemerintah, dan pihak ketiga lainnya. Hal ini dapat dilakukan untuk memenuhi tujuan hukum (yang disebutkan di atas), atau dalam keadaan berikut:
+Apabila hal itu diperlukan untuk menanggapi keadaan darurat yang mengancam nyawa, kesehatan, atau keselamatan seseorang; atau
+Apabila hal itu diperlukan demi kepentingan umum (misalnya, dalam krisis kesehatan masyarakat, untuk tujuan pelacakan kontak dan melindungi komunitas kita).
+Pengalihan Bisnis
+Kami dapat membagikan Data Pribadi Anda dengan pihak lain, sehubungan dengan akuisisi, penjualan, penggabungan, usaha patungan, konsolidasi, restrukturisasi, pembiayaan, atau jenis transaksi bisnis lainnya. Namun demikian, Data Pribadi Anda akan tetap tunduk pada kewajiban kami yang tercantum dalam Pemberitahuan Privasi yang telah Anda setujui sebelumnya.
+Prinsip-prinsip Berbagi Data OVO
+Sebelum kami mengungkapkan Data Pribadi, kami akan memastikan bahwa pihak ketiga mana pun yang menerima data tersebut menerapkan langkah-langkah teknis dan organisasi yang tepat untuk melindungi Data Pribadi setidaknya pada tingkat yang sama dengan yang telah kami terapkan untuk melindungi Data Pribadi di bawah kendali kami. Kami juga akan mewajibkan mereka untuk menandatangani perjanjian berbagi data atau kerahasiaan untuk memastikan bahwa data Anda dilindungi secara hukum.
+Pengungkapan Data Pribadi kami kepada pihak ketiga dapat mencakup hubungan pengontrol-pengolah antara kami yang bertindak sebagai pengontrol data dari Data Pribadi yang kami ungkapkan dan pihak ketiga sebagai pengolah. Dalam kasus di mana kami mengungkapkan Data Pribadi dalam hubungan pengontrol-pengolah, kami akan memastikan bahwa Data Pribadi diproses oleh pengolah hanya untuk Tujuan yang relevan dengan aktivitas pemrosesan yang kami instruksikan kepada pengolah kami untuk dilakukan. Yang terpenting, kami akan melakukan uji tuntas menyeluruh dalam memilih pengolah yang kami libatkan untuk memproses Data Pribadi atas nama kami.
+Kami juga dapat menjalin kerja sama pengendalian data dengan pihak ketiga mana pun. Dalam hal ini, kami akan memastikan bahwa pengendali data lainnya memberitahukan subjek data tentang peran mereka sebagai pengendali Data Pribadi, dan kami serta pengendali data lainnya akan secara proporsional membagi tanggung jawab yang timbul dari pemrosesan Data Pribadi yang kami proses berdasarkan pengaturan kerja sama pengendalian data tersebut.
+Untuk memperjelas, kami hanya akan mengungkapkan Data Pribadi setelah kami dapat sepenuhnya memastikan bahwa:
+Pengungkapan tersebut sangat diperlukan dan relevan dengan pelaksanaan dan pemenuhan Tujuan-Tujuan tersebut;
+Kami memiliki dasar hukum yang kuat untuk mengungkapkan data pribadi kepada pihak ketiga;
+Pengungkapan tersebut hanya mencakup Data Pribadi yang kami anggap perlu dan relevan untuk pelaksanaan dan pemenuhan Tujuan; dan
+Kami telah menerapkan langkah-langkah teknis dan organisasi yang tepat untuk melindungi data pribadi.
+PENYIMPANAN DATA PRIBADI
+Kami menyimpan Data Pribadi Anda selama jangka waktu yang diperlukan untuk memenuhi Tujuan yang diuraikan dalam Pemberitahuan Privasi ini kecuali jika jangka waktu penyimpanan yang lebih lama diperlukan atau diizinkan oleh hukum. Jangka waktu penyimpanan berbeda-beda tergantung pada hal-hal seperti sifat data, mengapa data tersebut dikumpulkan dan diproses, dan kebutuhan hukum atau bisnis yang relevan. Misalnya, gambar selfie akan dimusnahkan dalam waktu sepuluh (10) tahun sejak pengumpulan, kecuali jika diizinkan atau diwajibkan oleh hukum atau proses hukum untuk menyimpan data tersebut.
+Setelah Data Pribadi Anda tidak lagi diperlukan untuk Layanan atau Tujuan yang diberikan, kami akan mengambil langkah-langkah untuk menghapus, memusnahkan, menganonimkan, atau mencegah akses atau penggunaan kecuali jika diperlukan untuk kepatuhan hukum, keselamatan, keamanan, pencegahan dan deteksi penipuan, sesuai dengan hukum yang berlaku.
+TRANSFER DATA PRIBADI INTERNASIONAL
+Data Pribadi Anda dapat ditransfer dari lokasi Anda saat ini ke yurisdiksi lain karena berbagai alasan seperti pemrosesan dan penyimpanan data terpusat, operasi kantor belakang regional, serta dukungan dan penyampaian layanan.
+Kami memastikan transfer ini mematuhi hukum dan peraturan yang berlaku. Ini termasuk memiliki dasar hukum untuk transfer, melakukan penilaian dampak, dan menerapkan pengamanan teknis dan organisasi yang tepat untuk memastikan tingkat perlindungan yang memadai bagi Data Pribadi Anda. Dasar hukum kami adalah persetujuan (diperoleh pada saat Anda memberikan Data Pribadi Anda) atau salah satu pengamanan yang diizinkan oleh hukum.
+LANGKAH-LANGKAH KEAMANAN
+Kami telah menetapkan dan menerapkan langkah-langkah teknis dan organisasi untuk melindungi data pribadi yang kami simpan dari pemrosesan yang tidak sah atau aktivitas apa pun yang dapat melanggar hak-hak subjek data. Langkah-langkah ini meliputi, tetapi tidak terbatas pada:
+memastikan kepatuhan kami terhadap hukum dan peraturan yang berlaku, khususnya yang berkaitan dengan perlindungan data;
+Menerapkan dan mengadopsi Pemberitahuan Privasi ini, serta kebijakan perlindungan data internal kami;
+memproses data pribadi hanya sebatas yang diperlukan, relevan dengan, dan sesuai dengan Tujuan yang telah dinyatakan;
+Menerapkan pendekatan berbasis risiko pada pemrosesan data, dengan mempertimbangkan jenis data dan aktivitas pemrosesan yang terlibat;
+meminimalkan potensi risiko dengan, antara lain, mengenkripsi, membuat nama samaran, dan menganonimkan data dan/atau menerapkan pembatasan akses;
+Menegakkan dan memprioritaskan penegakan hak-hak subjek data;
+mewajibkan dan menegakkan kewajiban kerahasiaan kepada pihak ketiga mana pun yang akan menerima pengungkapan data sebelum pengungkapan data apa pun;
+mencatat atau merekam setiap aktivitas pemrosesan data pribadi dari waktu ke waktu;
+menunjuk seorang Petugas Perlindungan Data yang bertanggung jawab untuk mengawasi dan memberikan nasihat tentang langkah-langkah perlindungan data; dan
+Meninjau dan menilai secara berkala efektivitas langkah-langkah perlindungan data, serta meningkatkan atau memperbarui langkah-langkah tersebut sesuai kebutuhan untuk memastikan perlindungan yang berkelanjutan.
+Harap diperhatikan bahwa tidak ada sistem pengolahan data yang sepenuhnya bebas dari risiko keamanan. Dalam hal ini, kami sangat menyarankan Anda untuk sangat berhati-hati dalam menjaga data pribadi Anda, antara lain dengan tidak mengungkapkan data pribadi Anda kepada pihak manapun tanpa menerapkan tindakan pencegahan apa pun dan tidak menyimpan atau membagikan data pribadi Anda ke platform mana pun yang kredibilitasnya tidak dapat dipastikan. Dengan ini Anda setuju bahwa kami tidak dapat dimintai pertanggungjawaban atas tuntutan hukum, klaim, biaya, ganti rugi, atau kerusakan apa pun yang timbul dari kegagalan Anda untuk melindungi data pribadi Anda yang Anda simpan dan proses sendiri atau pihak ketiga mana pun yang Anda tunjuk sebagai pengontrol data Anda.
+HAK ANDA ATAS DATA ANDA
+Sesuai dengan ketentuan hukum perlindungan data yang berlaku, subjek data yang data pribadinya kami simpan dan proses berhak atas hal-hal berikut:
+Hak untuk Memperoleh Informasi
+Anda dapat memperoleh informasi tentang kami sebagai pengontrol data yang memproses data pribadi Anda, dasar hukum yang kami gunakan untuk memproses data Anda, tujuan yang kami gunakan untuk memproses data Anda, dan hak-hak Anda sebagai subjek data. Melalui Pemberitahuan Privasi ini, kami telah memberikan informasi tersebut kepada Anda. Anda juga dapat menghubungi tim dukungan kami untuk mendapatkan informasi lebih lanjut tentang data Anda yang kami simpan dan proses (misalnya, pertanggungjawaban platform, saluran, atau pejabat yang kami tugaskan untuk mengumpulkan data Anda). Kami berkomitmen untuk mematuhi jangka waktu SLA yang diperlukan untuk memenuhi hak-hak subjek data Anda sesuai dengan hukum perlindungan data yang berlaku. Silakan merujuk ke
+Bagian XI
+untuk detail kontak.
+Hak untuk Memperbaiki Data
+Jika Anda menemukan bahwa data Anda yang kami simpan perlu dikoreksi atau diperbarui, atau Anda menemukan ketidakakuratan pada data Anda, Anda dapat menghubungi tim dukungan kami untuk meminta koreksi atau pembaruan data Anda. Sebelum meminta koreksi atau pembaruan, Anda dapat meminta tim untuk memberikan data Anda yang kami simpan agar Anda dapat memastikan keakuratannya.
+Hak untuk Mengakses dan Memperoleh Salinan
+Anda dapat meminta kami untuk memberikan data atau salinan data yang telah Anda kirimkan kepada kami kapan saja.
+Hak untuk Mencabut Persetujuan, Menghapus Data, dan Memusnahkan Data
+Anda berhak untuk menarik persetujuan yang telah Anda berikan kepada kami untuk memproses data pribadi Anda, serta meminta kami untuk menghentikan semua aktivitas pemrosesan yang kami lakukan terhadap data Anda, menghapus dan/atau memusnahkan data pribadi Anda yang kami simpan dari sistem kami.
+Dengan menggunakan hak-hak Anda yang telah disebutkan di atas, kami mungkin tidak dapat melakukan aktivitas tertentu atau seluruh aktivitas terkait layanan kami kepada Anda, misalnya; setelah Anda menggunakan hak Anda untuk mencabut persetujuan atau menghapus data Anda, kami tidak dapat mempertahankan akun Anda dan dengan demikian Anda tidak dapat meminta kami untuk menyediakan layanan kami karena layanan kami mungkin memerlukan akses ke akun Anda untuk identifikasi dan verifikasi data Anda. Dengan menggunakan hak-hak yang tercantum dalam sub-bagian ini, Anda mengakui dan menyetujui konsekuensinya, dan Anda tidak akan meminta pertanggungjawaban kami atas konsekuensi apa pun yang timbul darinya.
+Dalam kebanyakan kasus, subjek data menggunakan hak-hak ini ketika mereka percaya bahwa penyimpanan atau pemrosesan data pribadi mereka tidak lagi relevan dengan Tujuan, pengontrol data tidak lagi memiliki dasar hukum untuk pemrosesan, periode penyimpanan data telah berakhir, dan/atau telah terjadi kegagalan perlindungan data yang mempengaruhi keamanan, kerahasiaan, keakuratan, atau integritas data pribadi mereka.
+Hak untuk Menolak Pengambilan Keputusan Otomatis atau Pembuatan Profil
+Apabila bagian mana pun dari layanan kami dapat membuat Anda tunduk pada pengambilan keputusan otomatis atau pembuatan profil dari pemrosesan otomatis yang dapat menimbulkan kewajiban hukum bagi Anda atau secara signifikan berdampak pada hak-hak Anda sebagai pengguna akhir kami, Anda akan difasilitasi untuk mengajukan keberatan kepada kami. Kami akan memberitahu Anda setiap kali kami mengambil tindakan apa pun yang membuat Anda tunduk pada pengambilan keputusan otomatis atau pembuatan profil, yang dapat menimbulkan kewajiban hukum bagi Anda atau secara signifikan berdampak pada hak-hak Anda sebagai pengguna akhir kami.
+Hak untuk Menangguhkan atau Membatasi Pemrosesan Data
+Jika Anda menemukan aktivitas pemrosesan yang kami lakukan terhadap data Anda yang tidak proporsional, tidak selaras, tidak relevan, atau tidak perlu untuk memenuhi Tujuan, atau data Anda yang kami simpan tidak akurat, Anda dapat meminta kami untuk menangguhkan atau membatasi kami untuk melanjutkan pemrosesan tersebut.
+Hak atas Portabilitas Data
+Anda berhak untuk memperoleh dan/atau menggunakan data pribadi Anda yang kami simpan dalam format, struktur, dan bentuk apa pun yang umum digunakan agar dapat dibaca oleh sistem elektronik. Anda dapat meminta kami untuk membagikan dan mentransfer data pribadi Anda yang kami simpan kepada pengontrol data lain, dengan syarat sistem elektronik mereka dapat berkomunikasi dengan sistem kami secara aman sesuai dengan hukum perlindungan data yang berlaku.
+Hak Ganti Rugi
+Segala kerugian yang timbul akibat kegagalan kami yang terbukti dalam melindungi data Anda yang kami simpan atau pelanggaran hak Anda sebagai subjek data dapat memberi Anda hak untuk mendapatkan ganti rugi.
+Hak untuk Menolak Pemasaran Langsung
+Terkadang kami dapat memberi tahu Anda melalui kontak langsung Anda (misalnya nomor telepon, email) tentang materi pemasaran atau promosi apa pun (misalnya penawaran, kampanye) yang terkait dengan layanan kami atau produk afiliasi kami. Jika Anda merasa hal tersebut mengganggu, Anda dapat menghubungi kami untuk berhenti menerima pemberitahuan tersebut dengan, antara lain (sesuai kebutuhan); memilih untuk berhenti berlangganan/mematikan pemberitahuan pemasaran, promosi, atau penawaran, atau menghubungi tim dukungan kami untuk berhenti menerima pemberitahuan tersebut.
+Pengecualian yang Tepat
+Hak Anda untuk mencabut persetujuan, untuk meminta penghapusan atau penghancuran, untuk menolak pengambilan keputusan otomatis atau pembuatan profil, dan untuk portabilitas data dapat dikecualikan untuk:
+Kepentingan pertahanan dan keamanan nasional;
+Kepentingan penegakan hukum;
+Kepentingan publik dalam administrasi negara;
+Kepentingan dalam pengawasan sektor jasa keuangan, kebijakan moneter, sistem pembayaran, dan stabilitas sistem keuangan yang dilakukan dalam administrasi negara; atau
+Minat penelitian statistik dan ilmiah.
+PERLINDUNGAN DATA PRIBADI
+Kami menerapkan langkah-langkah hukum, fisik, organisasi, dan teknis yang wajar untuk memastikan bahwa Data Pribadi Anda terlindungi. Ini termasuk langkah-langkah untuk mencegah kehilangan, akses tidak sah, atau penyalahgunaan informasi Anda. Kami membatasi akses ke informasi Anda hanya kepada karyawan kami berdasarkan prinsip kebutuhan untuk mengetahui. Mereka yang memproses data Anda hanya akan melakukannya dengan cara yang sah dan diwajibkan untuk menjaga kerahasiaan informasi Anda.
+Meskipun demikian, harap dipahami bahwa transmisi informasi melalui internet tidak sepenuhnya aman. Meskipun kami akan melakukan yang terbaik untuk melindungi Data Pribadi Anda, kami tidak dapat menjamin keamanan absolut Data Pribadi Anda selama transmisi online. Dengan menggunakan Layanan kami, Anda mengakui bahwa masih ada risiko terkait data apa pun yang dikirim atau ditransfer secara online.
+Integritas Data
+Kami berhak untuk berasumsi dan menganggap bahwa Anda memiliki dasar hukum yang sah untuk menyerahkan data pribadi apa pun yang Anda bagikan atau transfer kepada kami. Anda membebaskan kami dari segala tanggung jawab yang timbul dari data pribadi apa pun yang Anda serahkan kepada kami tanpa dasar hukum yang sah.
+Harap pastikan keabsahan, kelengkapan, dan keakuratan setiap Data Pribadi Anda yang dikirimkan kepada kami. Kami dapat memverifikasi data pribadi Anda ke Departemen Kependudukan dan Pencatatan Sipil. Jika kami menemukan data pribadi Anda tidak dapat diverifikasi atau memerlukan koreksi, kami tidak dapat memproses data Anda, yang dapat menyebabkan kami tidak dapat memberikan layanan kepada Anda.
+Jika ada perubahan pada Data Pribadi Anda yang telah Anda kirimkan kepada kami, kami mendesak Anda untuk segera memperbarui perubahan tersebut kepada kami agar kami dapat memperbarui data yang kami simpan dalam sistem kami. Pembaruan segera setelah perubahan dapat menyelamatkan Anda dari konsekuensi ketidakakuratan data, seperti; kesalahan dalam menggunakan layanan kami, karena data Anda yang tersimpan dalam sistem kami tidak lagi valid atau sama dengan data yang Anda miliki.
+Sehubungan dengan keabsahan, kelengkapan, dan keakuratan Data Pribadi Anda, Anda membebaskan kami dari segala konsekuensi yang timbul dari kelalaian atau kegagalan Anda dalam menjaga atau memastikan keabsahan, kelengkapan, dan keakuratan data pribadi Anda yang Anda serahkan kepada kami.
+HUKUM YANG BERLAKU
+Ketentuan dalam Pemberitahuan Privasi ini diatur oleh hukum dan peraturan Republik Indonesia. Setiap perselisihan antara OVO dan subjek data terkait Pemberitahuan Privasi ini idealnya akan diselesaikan melalui penyelesaian damai sesuai dengan hukum Indonesia. Jika kesepakatan bersama tidak dapat dicapai, kedua belah pihak setuju untuk menyerahkan perselisihan tersebut ke yurisdiksi pengadilan yang berwenang untuk penyelesaian hukum.
+KANTOR PRIVASI DATA
+Kami memudahkan Anda untuk menghubungi kami melalui tim dukungan kami melalui telepon
+1500969
+atau melalui email ke
+cs@ovo.id
+(untuk pengguna) atau ke
+merchant.support@ovo.id
+(untuk pedagang) untuk informasi lebih rinci tentang:
+Data Anda yang kami proses;
+Kewajiban kami sebagai pengontrol data;
+Bagaimana cara menegakkan hak Anda sebagai subjek data;
+Cara menyampaikan pertanyaan, umpan balik, atau temuan apa pun yang terkait dengan pemrosesan data Anda.
+Segala informasi dan keluhan terkait pemrosesan dan perlindungan data akan diteruskan oleh tim pendukung kami ke Kantor Privasi Data kami, yang akan menanggapi dan menangani pertanyaan, permintaan, dan keluhan Anda terkait pemrosesan data Anda.
+BAHASA
+Pemberitahuan Privasi ini dibuat dalam Bahasa Indonesia dan Bahasa Inggris. Jika terdapat perbedaan interpretasi antara kedua versi tersebut, interpretasi dalam Bahasa Indonesia akan berlaku di atas versi Bahasa Inggris.
+PERUBAHAN DAN PEMBARUAN
+Kami dapat meninjau dan mengubah Pemberitahuan Privasi ini untuk memastikan bahwa ketentuan yang tercantum dalam Pemberitahuan Privasi ini konsisten dengan operasional bisnis kami di masa mendatang dan/atau hukum dan/atau peraturan yang berlaku dari waktu ke waktu. Setiap perubahan pada Pemberitahuan Privasi ini akan diinformasikan melalui pemberitahuan publik di situs web, aplikasi, atau platform apa pun yang kami gunakan untuk memberi tahu pengguna akhir kami.
+Anda setuju bahwa Anda sepenuhnya bertanggung jawab untuk meninjau Pemberitahuan Privasi ini secara berkala untuk mengetahui informasi terbaru mengenai Pemberitahuan Privasi ini melalui situs web dan/atau aplikasi kami, dan/atau kontak yang telah Anda bagikan kepada kami. Harap kunjungi situs web dan/atau aplikasi kami secara berkala dan teratur, dan pastikan informasi kontak Anda tetap aktif agar setiap pembaruan pada Pemberitahuan Privasi ini dapat tersampaikan kepada Anda.

@@ -1,0 +1,49 @@
+{
+  "id": "U02",
+  "jenis": "umum",
+  "target": "ekstraksi",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Data yang dikumpulkan meliputi informasi statistik, demografis, penggunaan layanan, serta informasi identifikasi seperti nama, ID pengguna, dan alamat IP.",
+      "bukti_jenis_data_dikumpulkan": "Ini mungkin memerlukan, antara lain, untuk kami berbagi informasi, termasuk statistik dan demografis tentang pengguna kami dan informasi mengenai penggunaan mereka atas Layanan kepada pemasok iklan dan pemrograman.",
+      "tujuan_pemrosesan": "Pemrosesan data dilakukan untuk mengevaluasi penggunaan platform, menyusun laporan aktivitas platform, serta menyediakan layanan iklan dan pemrograman.",
+      "bukti_tujuan_pemrosesan": "Layanan Analisis 3P akan menggunakan informasi ini untuk tujuan mengevaluasi penggunaan Platform oleh Anda, menyusun laporan tentang kegiatan Platform untuk operator situs web serta menyediakan layanan lainnya yang berkaitan dengan kegiatan Platform dan penggunaan Internet.",
+      "dasar_pemrosesan": "Pemrosesan dan pengungkapan data dilakukan berdasarkan persetujuan dari pengguna atau berdasarkan wewenang yang diberikan oleh ketentuan hukum yang berlaku.",
+      "bukti_dasar_pemrosesan": "Dalam menjalankan bisnis kami, dengan persetujuan Anda, kami akan/mungkin perlu mengungkapkan data pribadi Anda kepada penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait kami, dan/atau pihak ketiga lainnya, entah berlokasi di Indonesia atau di luar Indonesia, untuk satu atau lebih Tujuan yang disebutkan di atas.",
+      "pihak_ketiga_penerima": "Data pribadi dapat diungkapkan kepada penyedia layanan pihak ketiga, agen, perusahaan afiliasi, kontraktor, penyedia layanan analisis, serta pemerintah atau regulator.",
+      "bukti_pihak_ketiga_penerima": "Dalam menjalankan bisnis kami, dengan persetujuan Anda, kami akan/mungkin perlu mengungkapkan data pribadi Anda kepada penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait kami, dan/atau pihak ketiga lainnya, entah berlokasi di Indonesia atau di luar Indonesia, untuk satu atau lebih Tujuan yang disebutkan di atas.",
+      "transfer_lintas_negara": "Data pribadi dapat diungkapkan atau disimpan di luar wilayah Indonesia, termasuk pengiriman data ke server di Amerika Serikat.",
+      "bukti_transfer_lintas_negara": "Informasi yang dihasilkan oleh cookie tentang penggunaan Platform oleh Anda (termasuk alamat IP Anda) akan dikirimkan ke dan disimpan oleh Layanan Analisis 3P di server di negara-negara termasuk namun tidak terbatas di Amerika Serikat.",
+      "masa_retensi_data": "tidak disebutkan",
+      "bukti_masa_retensi_data": "tidak disebutkan",
+      "hak_subjek_data": "Pengguna berhak untuk meminta penghapusan data pribadi mereka dari basis data serta meninjau informasi yang telah dikumpulkan sesuai hukum yang berlaku.",
+      "bukti_hak_subjek_data": "mengizinkan pengguna yang data pribadinya telah dikumpulkan oleh Pihak Penerima (\"Pihak Pengungkap\") untuk menghapus datanya yang dikumpulkan dari database Pihak Penerima; dan (iii) mengizinkan Pihak Pengungkap untuk meninjau informasi apa yang telah dikumpulkan tentang mereka oleh Pihak Penerima, dalam setiap kasus (ii) dan (iii) di atas, sesuai dengan dan jika diwajibkan oleh hukum yang berlaku.",
+      "mekanisme_keamanan": "Pelindungan data pribadi dilakukan menggunakan pengaturan keamanan yang wajar sesuai dengan standar peraturan perundang-undangan yang berlaku.",
+      "bukti_mekanisme_keamanan": "Meski demikian kami akan menggunakan pengaturan keamanan yang wajar untuk melindungi data pribadi Anda seperti yang disyaratkan oleh Peraturan Yang Berlaku; akan tetapi, tidak ada jaminan keamanan mutlak seperti tetapi tidak terbatas pada pengungkapan tanpa izin yang timbul dari peretasan yang berbahaya dan canggih tanpa adanya kesalahan dari pihak kami.",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 3060,
+      "output_tokens": 858
+    }
+  },
+  "durasi_detik": 29.6,
+  "waktu": "2026-11-02T13:45:20",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  }
+}

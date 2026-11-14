@@ -1,7 +1,14 @@
 .env
+laporan-progres.md
+
+# Artefak Python & cache alat
 __pycache__/
 *.pyc
 .pytest_cache/
 .ruff_cache/
+
+# Indeks vektor hasil build (dibuat ulang oleh build_index.py)
 chroma_db/
+
+# Berkas kerja sementara
 tmp_uts/

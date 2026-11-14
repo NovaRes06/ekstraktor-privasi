@@ -1,0 +1,42 @@
+{
+  "id": "B01",
+  "jenis": "batas",
+  "target": "ekstraksi",
+  "model": "gemini-3.5-flash-lite",
+  "nilai": {
+    "1": true,
+    "2": false,
+    "3": true,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": false,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Data yang dikumpulkan mencakup identitas diri seperti nama, NIK, dan tanggal lahir, serta data kontak, transaksi, dan perangkat.",
+      "bukti_jenis_data_dikumpulkan": "Data yang kami kumpulkan meliputi identitas (nama, NIK, tanggal lahir), data kontak, data transaksi, dan data perangkat.",
+      "tujuan_pemrosesan": "tidak disebutkan",
+      "bukti_tujuan_pemrosesan": "tidak disebutkan",
+      "dasar_pemrosesan": "tidak disebutkan",
+      "bukti_dasar_pemrosesan": "tidak disebutkan",
+      "pihak_ketiga_penerima": "Data dapat dibagikan kepada penyedia layanan cloud, lembaga biro kredit, serta otoritas yang berwenang.",
+      "bukti_pihak_ketiga_penerima": "Data dapat dibagikan kepada penyedia layanan cloud, biro kredit, dan otoritas yang berwenang.",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "Data identitas disimpan selama 5 tahun pasca penutupan akun, data transaksi selama 10 tahun untuk keperluan pajak, dan data perangkat selama 90 hari.",
+      "bukti_masa_retensi_data": "Untuk kategori data identitas, data disimpan 5 tahun setelah penutupan akun. Untuk kategori data transaksi, data disimpan 10 tahun sesuai ketentuan perpajakan. Untuk data perangkat, data disimpan 90 hari.",
+      "hak_subjek_data": "tidak disebutkan",
+      "bukti_hak_subjek_data": "tidak disebutkan",
+      "mekanisme_keamanan": "Dokumen menyatakan bahwa rincian mekanisme keamanan teknis tidak dijelaskan.",
+      "bukti_mekanisme_keamanan": "Kami tidak menjelaskan mekanisme keamanan teknis secara rinci.",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 1739,
+      "output_tokens": 465
+    }
+  },
+  "durasi_detik": 1.9,
+  "waktu": "2026-11-02T14:05:14"
+}

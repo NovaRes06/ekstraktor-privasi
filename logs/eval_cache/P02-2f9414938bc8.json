@@ -1,0 +1,49 @@
+{
+  "id": "P02",
+  "jenis": "pernah_gagal",
+  "target": "ekstraksi",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Aplikasi mengumpulkan informasi pribadi berupa nama, alamat email, dan nomor telepon pengguna.",
+      "bukti_jenis_data_dikumpulkan": "Kami mengumpulkan nama, email, dan nomor telepon untuk membuat akun.",
+      "tujuan_pemrosesan": "Data dikumpulkan untuk pendaftaran akun, pemrosesan transaksi pembayaran, serta pencegahan tindakan penipuan.",
+      "bukti_tujuan_pemrosesan": "Kami menggunakan data tersebut untuk memproses pembayaran dan mencegah penipuan.",
+      "dasar_pemrosesan": "Pemrosesan data didasarkan pada persetujuan pengguna yang diberikan saat menggunakan layanan.",
+      "bukti_dasar_pemrosesan": "Dengan menggunakan layanan ini, Anda menyetujui kebijakan ini.",
+      "pihak_ketiga_penerima": "Pengelola aplikasi bekerja sama dengan penyedia layanan pembayaran pihak ketiga.",
+      "bukti_pihak_ketiga_penerima": "Kami bekerja sama dengan penyedia layanan pembayaran pihak ketiga.",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "tidak disebutkan",
+      "bukti_masa_retensi_data": "tidak disebutkan",
+      "hak_subjek_data": "tidak disebutkan",
+      "bukti_hak_subjek_data": "tidak disebutkan",
+      "mekanisme_keamanan": "tidak disebutkan",
+      "bukti_mekanisme_keamanan": "tidak disebutkan",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 1674,
+      "output_tokens": 379
+    }
+  },
+  "durasi_detik": 14.2,
+  "waktu": "2026-11-02T13:48:30",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "B01",
+  "jenis": "batas",
+  "target": "ekstraksi",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Data yang dikumpulkan meliputi data identitas seperti nama, NIK, dan tanggal lahir, serta data kontak, transaksi, dan perangkat.",
+      "bukti_jenis_data_dikumpulkan": "Data yang kami kumpulkan meliputi identitas (nama, NIK, tanggal lahir), data kontak, data transaksi, dan data perangkat.",
+      "tujuan_pemrosesan": "tidak disebutkan",
+      "bukti_tujuan_pemrosesan": "tidak disebutkan",
+      "dasar_pemrosesan": "tidak disebutkan",
+      "bukti_dasar_pemrosesan": "tidak disebutkan",
+      "pihak_ketiga_penerima": "Data pengguna dapat dibagikan kepada biro kredit, penyedia layanan cloud, serta otoritas yang berwenang.",
+      "bukti_pihak_ketiga_penerima": "Data dapat dibagikan kepada penyedia layanan cloud, biro kredit, dan otoritas yang berwenang.",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "Masa penyimpanan data bervariasi: data identitas disimpan 5 tahun setelah akun ditutup, data transaksi 10 tahun sesuai aturan pajak, dan data perangkat selama 90 hari.",
+      "bukti_masa_retensi_data": "Untuk kategori data identitas, data disimpan 5 tahun setelah penutupan akun. Untuk kategori data transaksi, data disimpan 10 tahun sesuai ketentuan perpajakan.",
+      "hak_subjek_data": "tidak disebutkan",
+      "bukti_hak_subjek_data": "tidak disebutkan",
+      "mekanisme_keamanan": "tidak disebutkan",
+      "bukti_mekanisme_keamanan": "tidak disebutkan",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 1739,
+      "output_tokens": 438
+    }
+  },
+  "durasi_detik": 19.8,
+  "waktu": "2026-11-02T13:46:50",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  }
+}

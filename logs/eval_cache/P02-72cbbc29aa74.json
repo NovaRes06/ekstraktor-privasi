@@ -1,0 +1,42 @@
+{
+  "id": "P02",
+  "jenis": "pernah_gagal",
+  "target": "ekstraksi",
+  "model": "gemini-3.5-flash-lite",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Nama, alamat email, dan nomor telepon dikumpulkan untuk keperluan pembuatan akun.",
+      "bukti_jenis_data_dikumpulkan": "Kami mengumpulkan nama, email, dan nomor telepon untuk membuat akun.",
+      "tujuan_pemrosesan": "Data digunakan dalam proses pembayaran serta pencegahan tindakan penipuan.",
+      "bukti_tujuan_pemrosesan": "Kami menggunakan data tersebut untuk memproses pembayaran dan mencegah penipuan.",
+      "dasar_pemrosesan": "Pemrosesan didasarkan pada persetujuan pengguna saat menggunakan layanan.",
+      "bukti_dasar_pemrosesan": "Dengan menggunakan layanan ini, Anda menyetujui kebijakan ini.",
+      "pihak_ketiga_penerima": "Informasi dibagikan kepada penyedia layanan pembayaran pihak ketiga.",
+      "bukti_pihak_ketiga_penerima": "Kami bekerja sama dengan penyedia layanan pembayaran pihak ketiga.",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "tidak disebutkan",
+      "bukti_masa_retensi_data": "tidak disebutkan",
+      "hak_subjek_data": "tidak disebutkan",
+      "bukti_hak_subjek_data": "tidak disebutkan",
+      "mekanisme_keamanan": "tidak disebutkan",
+      "bukti_mekanisme_keamanan": "tidak disebutkan",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 1674,
+      "output_tokens": 365
+    }
+  },
+  "durasi_detik": 1.8,
+  "waktu": "2026-11-02T14:05:17"
+}

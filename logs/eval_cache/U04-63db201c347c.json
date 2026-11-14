@@ -1,0 +1,49 @@
+{
+  "id": "U04",
+  "jenis": "umum",
+  "target": "ekstraksi",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Bibit mengumpulkan data pribadi pengguna serta data yang berkaitan dengan transaksi yang relevan.",
+      "bukti_jenis_data_dikumpulkan": "data pribadi yang diperoleh dan dikumpulkan oleh Bibit dan data terkait transaksi yang relevan dapat diungkapkan kepada otoritas yang berwenang atau badan lain yang diberi wewenang berdasarkan undang-undang atau perjanjian kerja sama dalam hal:",
+      "tujuan_pemrosesan": "Data pribadi diproses untuk memberikan layanan, memenuhi kewajiban pelaporan kepada regulator, serta membantu fungsi negara dan audit internal.",
+      "bukti_tujuan_pemrosesan": "Untuk Layanan tertentu, Bibit perlu memproses Data Pribadi Anda untuk memenuhi pelaporan kepada regulator dan sebagainya.",
+      "dasar_pemrosesan": "Pemrosesan dilakukan berdasarkan persetujuan tegas pengguna, pemenuhan kewajiban hukum, dan kepentingan yang sah.",
+      "bukti_dasar_pemrosesan": "Terkait Pemrosesan Data Pribadi dengan perusahaan afiliasi Bibit, Bibit hanya akan memberikannya dengan dasar kepentingan yang sah di mata hukum.",
+      "pihak_ketiga_penerima": "Data dapat diungkapkan kepada otoritas berwenang, perusahaan afiliasi, dan pihak ketiga penyedia layanan atau fungsi negara.",
+      "bukti_pihak_ketiga_penerima": "Untuk melakukan pengungkapan Data Pribadi Anda kepada pihak ketiga, dalam rangka untuk memastikan Bibit dapat memberikan layanan kepada Anda dan membantu Pemerintah Republik Indonesia beserta lembaga pendukungnya untuk melaksanakan fungsi-fungsi negara.",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "Data disimpan minimal 5 tahun atau sesuai peraturan, dan akan dihapus atau dimusnahkan ketika masa retensi berakhir atau tidak lagi diperlukan.",
+      "bukti_masa_retensi_data": "Bibit wajib menatausahakan dokumen Subjek Data Pribadi dengan jangka waktu paling singkat 5 (lima) tahun atau sesuai dengan peraturan yang berlaku.",
+      "hak_subjek_data": "Subjek data memiliki hak untuk mengakses, memperbarui, memutakhirkan, serta meminta penghapusan atau pemusnahan data pribadi mereka.",
+      "bukti_hak_subjek_data": "Bibit berkomitmen untuk memenuhi hak Subjek Data Pribadi untuk mengakses Data Pribadi yang dikumpulkan dan diproses oleh Bibit.",
+      "mekanisme_keamanan": "Bibit memperhatikan aspek keamanan, kewajiban kerahasiaan perangkat pengguna, dan perjanjian kerahasiaan untuk mencegah penyalahgunaan data.",
+      "bukti_mekanisme_keamanan": "Pengungkapan ini dilakukan dengan mempertimbangkan aspek-aspek keamanannya sehingga memastikan dalam proses pengungkapan tidak ada data-data yang disalahgunakan.",
+      "kontak_penanggung_jawab": "Pengguna dapat menyampaikan permintaan atau pertanyaan melalui saluran komunikasi yang telah ditetapkan oleh Bibit.",
+      "bukti_kontak_penanggung_jawab": "Untuk informasi lebih lanjut terkait dengan permintaan akses Data Pribadi, Anda dapat menghubungi saluran komunikasi yang ditetapkan oleh Bibit."
+    },
+    "usage": {
+      "input_tokens": 2833,
+      "output_tokens": 686
+    }
+  },
+  "durasi_detik": 22.7,
+  "waktu": "2026-11-02T13:46:15",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "U03",
+  "jenis": "umum",
+  "target": "ekstraksi",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": false,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": false,
+  "hasil": {
+    "fields": {
+      "jenis_data_dikumpulkan": "Data yang dikumpulkan meliputi data orang lain yang diberikan pengguna, data sensitif seperti identitas nasional, rekam medis, keuangan, lokasi, dan biometrik, serta data perangkat dan aktivitas.",
+      "bukti_jenis_data_dikumpulkan": "Ini mungkin termasuk informasi identitas nasional Anda, keyakinan agama, informasi latar belakang (termasuk catatan keuangan dan kriminal, jika diizinkan secara hukum), data kesehatan, disabilitas, status perkawinan, lokasi, dan data biometrik, sebagaimana berlaku.",
+      "tujuan_pemrosesan": "Data digunakan untuk menyediakan, mempersonalisasi, memelihara, dan meningkatkan layanan, memproses transaksi, serta menjaga keselamatan dan keamanan ekosistem.",
+      "bukti_tujuan_pemrosesan": "Data Pribadi Anda akan digunakan untuk menyediakan, mempersonalisasi, memelihara, dan meningkatkan Platform dan Layanan kami.",
+      "dasar_pemrosesan": "Pemrosesan dilakukan berdasarkan persetujuan pengguna serta kewajiban hukum yang berlaku bagi penyedia layanan pembayaran.",
+      "bukti_dasar_pemrosesan": "Kami hanya mengumpulkan Data Pribadi Sensitif dengan persetujuan Anda dan/atau sesuai dengan hukum yang berlaku, dan memastikan Data Pribadi Sensitif tersebut ditangani dan dilindungi dengan langkah-langkah keamanan dan pengamanan yang ketat.",
+      "pihak_ketiga_penerima": "Data dapat dibagikan atau dihubungkan dengan penyedia layanan, mitra pemasaran, mitra pedagang, serta perusahaan afiliasi OVO Group dan Associates.",
+      "bukti_pihak_ketiga_penerima": "Penyedia layanan atau mitra pemasaran. Selain itu, jika Anda menggunakan OVO dalam berbagai kapasitas dan/atau dalam ekosistem yang lebih luas dari layanan perusahaan afiliasi OVO Group dan Associates, Kami dapat menghubungkan Data Pribadi Anda yang dikumpulkan dalam berbagai kapasitas Anda untuk mempermudah penggunaan Layanan kami dan untuk Tujuan yang dijelaskan di bawah ini:",
+      "transfer_lintas_negara": "tidak disebutkan",
+      "bukti_transfer_lintas_negara": "tidak disebutkan",
+      "masa_retensi_data": "tidak disebutkan",
+      "bukti_masa_retensi_data": "tidak disebutkan",
+      "hak_subjek_data": "tidak disebutkan",
+      "bukti_hak_subjek_data": "tidak disebutkan",
+      "mekanisme_keamanan": "Keamanan data dijaga dengan penerapan prinsip kenali pelanggan (AML-CFT-CPF), Sistem Deteksi Penipuan, serta Proses Penanganan Penipuan.",
+      "bukti_mekanisme_keamanan": "Langkah-langkah keamanan kami terkait pemrosesan data mencakup penerapan: Pencegahan Pencucian Uang dan Pemberantasan Pendanaan Terorisme, serta Pencegahan Pendanaan Proliferasi (AML-CFT-CPF), yang selalu kami terapkan dengan menggunakan prinsip kenali pelanggan/bisnis Anda untuk mengidentifikasi dan memverifikasi pengguna akhir kami;",
+      "kontak_penanggung_jawab": "tidak disebutkan",
+      "bukti_kontak_penanggung_jawab": "tidak disebutkan"
+    },
+    "usage": {
+      "input_tokens": 3058,
+      "output_tokens": 684
+    }
+  },
+  "durasi_detik": 24.5,
+  "waktu": "2026-11-02T13:45:50",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": false,
+    "3": null,
+    "4": true,
+    "5": null
+  }
+}

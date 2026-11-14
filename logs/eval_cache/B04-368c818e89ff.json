@@ -1,0 +1,61 @@
+{
+  "id": "B04",
+  "jenis": "batas",
+  "target": "rag",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": true
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "answer": "Jawaban: Tidak ada di dokumen.\n\nKonteks yang dipakai: Tidak ada",
+    "sources": [
+      {
+        "text": "mengenai Pemohon; Payment Gateway; PT Stockbit Securitas Digital dalam rangka pendaftaran atau transaksi terkait dengan bibit plus. Penyimpanan Data Pribadi Bibit menyimpan Data Pribadi Anda dengan perlindungan terbaik selama diperlukan untuk penyediaan Layanan. Data pribadi tertentu juga dapat dikelola, diproses, dan disimpan oleh pihak ketiga yang bekerja sama dengan Bibit dan berlokasi di Indonesia guna menjaga kinerja Layanan dengan tetap mematuhi kewajiban atas akses dan efektivitas pengawasan sesuai hukum dan perundang-undangan yang berlaku. Bibit akan menyimpan Data Pribadi yang disebutkan di atas selama diperlukan untuk mencapai tujuan pengumpulan data pribadi, selama Anda masih menggunakan Layanan, atau sepanjang penyimpanan tersebut diharuskan sesuai dengan kebijakan retensi data Bibit serta peraturan perundang-undangan yang berlaku di Republik Indonesia. Bibit akan berhenti menyimpan Data Pribadi Anda atau menghilangkan Data Pribadi yang dapat diasosiasikan dengan Anda, segera setelah mengkaji alasan bahwa pengumpulan Data Pribadi tersebut tidak lagi diperlukan untuk tujuan hukum dan bisnis. Pemrosesan Data Pribadi",
+        "source_doc": "kebijakan-bibit.txt",
+        "chunk_index": 9,
+        "jarak": 0.36029163002967834
+      },
+      {
+        "text": "dibuat dan didapatkan dari hasil penggunaan Layanan Bibit, termasuk namun tidak terbatas pada: Data yang diolah seperti penilaian profiling, penilaian lokasi, mobile positioning. Informasi Data yang diperoleh dari aktivitas pemakaian Layanan yang diakses oleh Anda, seperti pembayaran maupun profiling dan segmentasi Anda. Data Pribadi dari Grup Usaha Bibit dan/atau pihak ketiga lainnya yang merupakan mitra Bibit atau mengadakan kerja sama dengan Bibit diantaranya: Bank Kustodian (“Bank Kustodian”) dan/atau Manajer Investasi dalam rangka untuk pelaksanaan transaksi Reksa Dana oleh Pemohon; PT Bibit Tumbuh Bersama melalui aplikasi Android dan IOS maupun melalui fasilitas lainnya dalam rangka pelaksanaan transaksi Reksa Dana secara online oleh Pemohon; Otoritas Jasa Keuangan (“OJK”) dan instansi lainnya berdasarkan peraturan perundang-undangan yang berlaku di Republik Indonesia yang membutuhkan informasi mengenai Pemohon; Payment Gateway; PT Stockbit Securitas Digital dalam rangka pendaftaran atau transaksi terkait dengan bibit plus. Penyimpanan Data Pribadi Bibit menyimpan Data Pribadi Anda dengan perlindungan terbaik selama diperlukan",
+        "source_doc": "kebijakan-bibit.txt",
+        "chunk_index": 8,
+        "jarak": 0.3831488788127899
+      },
+      {
+        "text": "Anda atau menghilangkan Data Pribadi yang dapat diasosiasikan dengan Anda, segera setelah mengkaji alasan bahwa pengumpulan Data Pribadi tersebut tidak lagi diperlukan untuk tujuan hukum dan bisnis. Pemrosesan Data Pribadi Bibit tidak menjual, menukar, menampilkan, mempublikasikan, mentransfer, membagikan dan/atau mempublikasikan data pribadi atau informasi terkait Subjek data pribadi. Subjek data pribadi bertanggung jawab untuk menjaga kerahasiaan data pribadinya dan harus selalu menjaga dan bertanggung jawab atas keamanan perangkat yang digunakan untuk mengakses layanan Bibit. Subjek data pribadi dengan ini mengakui dan, jika diwajibkan oleh peraturan perlindungan data pribadi yang berlaku, secara tegas menyetujui bahwa data pribadi yang diperoleh dan dikumpulkan oleh Bibit dan data terkait transaksi yang relevan dapat diungkapkan kepada otoritas yang berwenang atau badan lain yang diberi wewenang berdasarkan undang-undang atau perjanjian kerja sama dalam hal: Untuk kepentingan hukum yang berlaku dan/atau untuk menanggapi proses hukum yang sedang berjalan. Terdapat pengecualian-pengecualian atas hak Subjek Data Pribadi dalam hal",
+        "source_doc": "kebijakan-bibit.txt",
+        "chunk_index": 10,
+        "jarak": 0.3969133496284485
+      },
+      {
+        "text": "Bibit dapat memberikan layanan kepada Anda dan membantu Pemerintah Republik Indonesia beserta lembaga pendukungnya untuk melaksanakan fungsi-fungsi negara. Untuk Layanan tertentu, Bibit perlu memproses Data Pribadi Anda untuk memenuhi pelaporan kepada regulator dan sebagainya. Pengungkapan ini dilakukan dengan mempertimbangkan aspek-aspek keamanannya sehingga memastikan dalam proses pengungkapan tidak ada data-data yang disalahgunakan. Akses ke Data Pribadi Bibit berkomitmen untuk memenuhi hak Subjek Data Pribadi untuk mengakses Data Pribadi yang dikumpulkan dan diproses oleh Bibit. Dalam memenuhi permintaan akses ke Data Pribadi, Bibit dapat menolak permintaan apabila Bibit menemukan bahwa permintaan ke Data Pribadi memenuhi salah satu atau lebih kondisi berikut ini: membahayakan keamanan, kesehatan fisik, atau kesehatan mental Subjek Data Pribadi dan/ atau orang lain; berdampak pada pengungkapan Data Pribadi milik orang lain; dan/ atau bertentangan dengan kepentingan pertahanan dan keamanan nasional. Untuk informasi lebih lanjut terkait dengan permintaan akses Data Pribadi, Anda dapat menghubungi saluran komunikasi yang ditetapkan oleh Bibit.",
+        "source_doc": "kebijakan-bibit.txt",
+        "chunk_index": 13,
+        "jarak": 0.4049479067325592
+      },
+      {
+        "text": "yang diajukan terhadap Bibit, pejabat, karyawan, afiliasi atau pihak ketiga terkait lainnya. Untuk menetapkan, melaksanakan, melindungi, mempertahankan, dan menegakkan hak-hak hukum Bibit. Terkait Pemrosesan Data Pribadi dengan perusahaan afiliasi Bibit, Bibit hanya akan memberikannya dengan dasar kepentingan yang sah di mata hukum. Dalam hal Bibit melakukan Pemrosesan Data Pribadi yang mengungkapkan profil pribadi Anda, Bibit akan melakukan upaya terbaik untuk melindungi privasi atas Data Pribadi, yang dilakukan setelah adanya penandatanganan perjanjian kerahasiaan, atau persetujuan tambahan dengan cara memberikan pemberitahuan kepada Anda sebelum Data Pribadi Anda diungkapkan kepada afiliasi Bibit serta akan mengikuti kebijakan privasi dan peraturan perundang-undangan yang berlaku, sehingga tetap dapat memastikan kerahasiaan Data Pribadi Anda. Untuk melakukan pengungkapan Data Pribadi Anda kepada pihak ketiga, dalam rangka untuk memastikan Bibit dapat memberikan layanan kepada Anda dan membantu Pemerintah Republik Indonesia beserta lembaga pendukungnya untuk melaksanakan fungsi-fungsi negara. Untuk Layanan tertentu, Bibit perlu memproses Data Pribadi Anda untuk memenuhi pelaporan",
+        "source_doc": "kebijakan-bibit.txt",
+        "chunk_index": 12,
+        "jarak": 0.41599464416503906
+      }
+    ],
+    "guardrail": [
+      "jawaban tidak menyebut satu pun nomor rujukan ([1], [2], ...) padahal sumber dikirim"
+    ]
+  },
+  "durasi_detik": 23.0,
+  "waktu": "2026-11-02T13:52:28",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": false,
+    "3": null,
+    "4": true,
+    "5": null
+  }
+}

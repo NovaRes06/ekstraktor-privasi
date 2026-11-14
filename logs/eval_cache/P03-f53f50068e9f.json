@@ -1,0 +1,59 @@
+{
+  "id": "P03",
+  "jenis": "pernah_gagal",
+  "target": "rag",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "answer": "Jawaban: Menurut UU PDP, hak-hak dasar yang dimiliki oleh subjek data pribadi meliputi:\n- Hak untuk memperoleh informasi terkait pemrosesan data pribadinya [2].\n- Hak untuk mengakses dan mendapatkan salinan dari datanya [2].\n- Hak untuk melengkapi, memperbarui, atau memperbaiki data yang keliru [2].\n- Hak untuk menghapus serta memusnahkan data pribadinya [2].\n- Hak untuk menarik kembali izin atau persetujuan pemrosesan data yang telah diberikan sebelumnya [2].\n\nKonteks yang dipakai: [2]",
+    "sources": [
+      {
+        "text": "memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi tentang dirinya sesuai dengan tujuan pemrosesan Data Pribadi. Mendapatkan akses dan memperoleh salinan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Mengakhiri pemrosesan, menghapus, dan/ atau memusnahkan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Menarik kembali persetujuan pemrosesan Data Pribadi tentang dirinya yang telah diberikan kepada Pengendali Data Pribadi. Mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifikan pada Subjek Data Pribadi. Menunda atau membatasi pemrosesan Data Pribadi secara sesuai dengan tujuan pemrosesan Data Pribadi. Menggugat dan menerima ganti rugi atas pelanggaran pemrosesan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Mendapatkan dan/atau menggunakan Data Pribadi tentang diri Anda dari Pengendali Data Pribadi dalam bentuk yang sesuai dengan struktur dan/ atau format yang lazim digunakan atau dapat dibaca oleh sistem elektronik. Menggunakan dan mengirimkan Data Pribadi tentang",
+        "source_doc": "kebijakan-bibit.txt",
+        "chunk_index": 3,
+        "jarak": 0.3976072371006012
+      },
+      {
+        "text": "Hak Subjek Data (terkait Pasal 5–9, bagian Hak Subjek Data Pribadi)\nSubjek data pribadi memiliki hak-hak dasar, antara lain: hak mendapat informasi\ntentang pemrosesan datanya, hak mengakses dan memperoleh salinan datanya, hak\nmelengkapi/memperbarui/mengoreksi data yang keliru, hak menghapus dan/atau\nmemusnahkan datanya, serta hak menarik kembali persetujuan yang pernah diberikan.",
+        "source_doc": "ringkasan-pasal-uu-pdp.md",
+        "chunk_index": 6,
+        "jarak": 0.42576709389686584
+      },
+      {
+        "text": "dan hak-hak Anda sebagai subjek data. Melalui Pemberitahuan Privasi ini, kami telah memberikan informasi tersebut kepada Anda. Anda juga dapat menghubungi tim dukungan kami untuk mendapatkan informasi lebih lanjut tentang data Anda yang kami simpan dan proses (misalnya, pertanggungjawaban platform, saluran, atau pejabat yang kami tugaskan untuk mengumpulkan data Anda). Kami berkomitmen untuk mematuhi jangka waktu SLA yang diperlukan untuk memenuhi hak-hak subjek data Anda sesuai dengan hukum perlindungan data yang berlaku. Silakan merujuk ke Bagian XI untuk detail kontak. Hak untuk Memperbaiki Data Jika Anda menemukan bahwa data Anda yang kami simpan perlu dikoreksi atau diperbarui, atau Anda menemukan ketidakakuratan pada data Anda, Anda dapat menghubungi tim dukungan kami untuk meminta koreksi atau pembaruan data Anda. Sebelum meminta koreksi atau pembaruan, Anda dapat meminta tim untuk memberikan data Anda yang kami simpan agar Anda dapat memastikan keakuratannya. Hak untuk Mengakses dan Memperoleh Salinan Anda dapat meminta kami untuk memberikan",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 90,
+        "jarak": 0.466806560754776
+      },
+      {
+        "text": "situs web pihak ketiga tersebut untuk mengetahui bagaimana mereka mengumpulkan, menyimpan dan/atau menggunakan Data Pribadi Anda. 8. HAK PENGGUNA SEBAGAI SUBJEK DATA PRIBADI DANA mengakui bahwa Anda merupakan Subjek Data Pribadi yang memiliki hak tertentu berdasarkan Hukum Yang Berlaku dan Peraturan Pelindungan Data Pribadi Yang Berlaku. Anda dapat meminta Kami untuk melakukan koreksi dan/atau pembaruan, penghapusan serta pemusnahan terhadap Data Pribadi Anda yang berada dalam penguasaan dan kendali Kami, yang dapat Kami proses melalui Help Center atau live chat yang tersedia pada Aplikasi atau melalui pemberitahuan yang ditujukan pada Informasi Lebih Lanjut pada Pemberitahuan Privasi ini. 8.1 Hak-Hak Pengguna a. Pengaksesan terhadap Historis dan Salinan Data Pribadi Anda memiliki hak untuk meminta akses terhadap historis dan memperoleh salinan Data Pribadi yang pernah diserahkan kepada Kami. Dalam hal demikian, Kami akan menyediakan informasi tersebut dengan format yang Kami tentukan, dengan memperhatikan kompatibilitas dan praktik yang berlaku. Anda dapat menyampaikan permohonan akses",
+        "source_doc": "kebijakan-dana.txt",
+        "chunk_index": 34,
+        "jarak": 0.4845733940601349
+      },
+      {
+        "text": "tidak selaras, tidak relevan, atau tidak perlu untuk memenuhi Tujuan, atau data Anda yang kami simpan tidak akurat, Anda dapat meminta kami untuk menangguhkan atau membatasi kami untuk melanjutkan pemrosesan tersebut. Hak atas Portabilitas Data Anda berhak untuk memperoleh dan/atau menggunakan data pribadi Anda yang kami simpan dalam format, struktur, dan bentuk apa pun yang umum digunakan agar dapat dibaca oleh sistem elektronik. Anda dapat meminta kami untuk membagikan dan mentransfer data pribadi Anda yang kami simpan kepada pengontrol data lain, dengan syarat sistem elektronik mereka dapat berkomunikasi dengan sistem kami secara aman sesuai dengan hukum perlindungan data yang berlaku. Hak Ganti Rugi Segala kerugian yang timbul akibat kegagalan kami yang terbukti dalam melindungi data Anda yang kami simpan atau pelanggaran hak Anda sebagai subjek data dapat memberi Anda hak untuk mendapatkan ganti rugi. Hak untuk Menolak Pemasaran Langsung Terkadang kami dapat memberi tahu Anda melalui kontak langsung Anda (misalnya",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 94,
+        "jarak": 0.4904334247112274
+      }
+    ],
+    "guardrail": []
+  },
+  "durasi_detik": 26.0,
+  "waktu": "2026-11-02T13:52:51",
+  "nilai_sebelumnya": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  }
+}

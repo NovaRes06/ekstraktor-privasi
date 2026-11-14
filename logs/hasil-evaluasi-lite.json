@@ -1,0 +1,65 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "waktu": "2026-11-02T13:57:10",
+  "ringkasan": {
+    "per_kriteria": {
+      "1": {
+        "lulus": 1,
+        "dinilai": 1
+      },
+      "2": {
+        "lulus": 1,
+        "dinilai": 1
+      },
+      "3": {
+        "lulus": 0,
+        "dinilai": 0
+      },
+      "4": {
+        "lulus": 1,
+        "dinilai": 1
+      },
+      "5": {
+        "lulus": 0,
+        "dinilai": 0
+      }
+    },
+    "per_jenis": {
+      "umum": {
+        "lulus": 1,
+        "total": 1
+      }
+    },
+    "total_kasus": 1,
+    "lulus_semua": 1
+  },
+  "kasus": [
+    {
+      "id": "A01",
+      "jenis": "umum",
+      "target": "agent",
+      "model": "gemini-3.5-flash-lite",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": null,
+        "4": true,
+        "5": null
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "status": "selesai",
+        "jawaban": "Berdasarkan dokumen kebijakan privasi, OVO (kebijakan-ovo.txt) menyatakan bahwa data disimpan selama diperlukan untuk memenuhi tujuan atau hukum yang berlaku, dengan spesifikasi khusus bahwa gambar selfie dimusnahkan dalam waktu 10 tahun. Sebaliknya, kebijakan ShopeePay (kebijakan-shopeepay.txt) tidak menyebutkan secara spesifik mengenai masa retensi data. Dengan demikian, OVO memberikan rujukan waktu penyimpanan tertentu untuk data tertentu, sementara ShopeePay tidak mencantumkan informasi tersebut.",
+        "jumlah_langkah": 3,
+        "token": {
+          "masuk": 5255,
+          "keluar": 376
+        },
+        "biaya_perkiraan_usd": 0.005351,
+        "task_id": "5a9065eaec60"
+      },
+      "durasi_detik": 12.0,
+      "waktu": "2026-11-02T13:56:58"
+    }
+  ]
+}

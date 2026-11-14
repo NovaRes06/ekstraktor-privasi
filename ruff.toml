@@ -1,0 +1,24 @@
+# Standar lint proyek. Jalankan cukup dengan:  ruff check
+#
+# line-length 120 dipilih karena app.py berisi banyak string HTML/CSS panjang;
+# di bawah itu angkanya murni kosmetik dan tidak membantu keterbacaan.
+line-length = 120
+
+# Folder yang bukan kode produk: coretan (tmp_uts) dan basis data vektor hasil build.
+exclude = ["tmp_uts", "chroma_db"]
+
+[lint]
+select = [
+    "E",    # error pycodestyle (termasuk E501 baris kepanjangan)
+    "W",    # peringatan pycodestyle (W292 newline di akhir berkas)
+    "F",    # pyflakes: nama tak terpakai, import mati, f-string tanpa placeholder
+    "B",    # flake8-bugbear: B904 raise tanpa `from`, B905 zip tanpa strict
+    "UP",   # penulisan Python modern
+    "RUF",  # Ruff sendiri (mis. noqa yang tak terpakai)
+    "SIM",  # saran penyederhanaan
+    "PLE",  # error linting Pylint
+]
+
+# Berkas yang tidak kita tulis tangan.
+[lint.per-file-ignores]
+"__pycache__/*" = ["ALL"]
