@@ -3,7 +3,7 @@
 > **Status: draf awal, belum dikumpulkan.** Ini luaran Minggu 15; target progres repo
 > saat ini adalah Minggu 13.
 
-Nama / NIM / K : Nova Reswara / 10241058 / lingkup dihitung pada angka maksimum (8 dokumen, 17+ kasus, 3+ tool)
+Nama / NIM / K : Nova Reswara / 10241058 / K = 5 (minimum 6 dokumen, 17 kasus, 3 tool; tersedia 8/18/4)
 Tanggal        : 2 November 2026
 
 ---

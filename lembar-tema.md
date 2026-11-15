@@ -3,26 +3,21 @@
 Nama            : Nova Reswara
 NIM             : 10241058
 Program studi   : Sistem Informasi
-Kode peserta K  : **belum diisi** (nomor urut pada daftar peserta kelas, diterima Minggu 1;
-                  tidak diturunkan dari NIM dan tidak tercatat di berkas mana pun di repo ini)
+Kode peserta K  : **5** (nomor urut pada daftar peserta kelas; tidak diturunkan dari NIM)
 
 ## Angka lingkup saya
 
 | Unsur | Rumus | Angka minimum | Yang benar-benar disiapkan |
 |---|---|---|---|
-| Dokumen rujukan | `5 + (K mod 4)` | 5–8 | **8 dokumen** (`data/raw/`, 7 dokumen penuh + ringkasan UU PDP) |
-| Kasus uji | `12 + (K mod 6)` | 12–17 | **18 kasus** (`set-uji/kasus.jsonl`) |
-| Tool yang dipanggil agent | `2 + (K mod 2)` | 2–3 | **4 tool** (`cari_dokumen`, `baca_dokumen`, `ambil_field`, `simpan_laporan`) |
-| Mode output tambahan | wajib bila K genap | — | **Sudah ada**: mode `ringkas` (4 field + paragraf ringkasan), tersedia di API dan UI |
+| Dokumen rujukan | `5 + (5 mod 4)` | **6** | 8 dokumen (`data/raw/`, 7 dokumen penuh + ringkasan UU PDP) |
+| Kasus uji | `12 + (5 mod 6)` | **17** | 18 kasus (`set-uji/kasus.jsonl`) |
+| Tool yang dipanggil agent | `2 + (5 mod 2)` | **3** | 4 tool (`cari_dokumen`, `baca_dokumen`, `ambil_field`, `simpan_laporan`) |
+| Mode output tambahan | wajib bila K genap | **tidak wajib** (K = 5 ganjil) | Tetap tersedia: mode `ringkas` (4 field + paragraf ringkasan) di API dan UI |
 
-**Cara membaca tabel ini:** karena kode peserta K tidak diketahui saat proyek
-dikerjakan, seluruh lingkup disiapkan pada **angka maksimum** (8 dokumen, 17+ kasus,
-3+ tool, plus mode ringkas). Dengan begitu kewajiban untuk K berapa pun terpenuhi,
-dan mode ringkas tetap ada walaupun K ternyata ganjil.
-
-**Tindakan yang masih diperlukan:** isi `Kode peserta K` di atas dari daftar kelas,
-lalu hitung ulang tiga angka minimum dan cocokkan dengan kolom terakhir. Tidak ada
-yang perlu ditambah — hanya pencatatan.
+**Cara membaca tabel ini:** dengan **K = 5**, kewajiban minimum adalah 6 dokumen,
+17 kasus uji, dan 3 tool. Yang disiapkan melebihi ketiganya (8 dokumen, 18 kasus,
+4 tool). Karena K ganjil, mode output ringkas **tidak wajib**; mode itu tetap
+dipertahankan sebagai kelebihan, bukan kewajiban.
 
 ### Tabel bantu: angka minimum untuk K = 1..12
 

@@ -2,7 +2,7 @@
 
 **Privia — Ekstraktor & Penjawab Kebijakan Privasi Dompet Digital**
 Nama / NIM : Nova Reswara / 10241058
-Kode peserta K : belum diisi (lihat `lembar-tema.md`; lingkup disiapkan pada batas maksimum)
+Kode peserta K : 5 (minimum 6 dokumen, 17 kasus uji, 3 tool; tersedia 8/18/4; mode ringkas tidak wajib)
 Dosen : Aidil Saputra Kirsan, S.ST., M.Tr.Kom.
 Semester : Ganjil 2026/2027
 
@@ -33,7 +33,7 @@ yang benar-benar keluar Rp 0** — angka dolar adalah biaya setara bila memakai 
 
 # MINGGU 1 — Orientasi: tiga persoalan, satu peta
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 5 September 2026
 Waktu : tidak tercatat
 
@@ -132,7 +132,7 @@ pertama lewat API.
 
 # MINGGU 2 — Anatomi: token, context window, temperature, hallucination
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 12 September 2026
 Waktu : tidak tercatat
 
@@ -226,7 +226,7 @@ memanggil model pertama lewat SDK.
 
 # MINGGU 3 — Lingkungan kerja dan model gateway
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 19 September 2026
 Waktu : tidak tercatat
 
@@ -313,7 +313,7 @@ dari commit berikutnya — belum cukup, karena riwayat tetap menyimpannya.
 
 # MINGGU 4 — Prompt terstruktur dan lembar tema
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 10 Oktober 2026
 Waktu : tidak tercatat
 
@@ -405,7 +405,7 @@ tiga langkah.
 
 # MINGGU 5 — Structured output dan schema sebagai aturan
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 17 Oktober 2026
 Waktu : tidak tercatat
 
@@ -494,7 +494,7 @@ seluruh pekerjaan.
 
 # MINGGU 6 — Tool calling
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 24 Oktober 2026
 Waktu : tidak tercatat
 
@@ -583,7 +583,7 @@ karena isinya dibuat oleh JS.
 
 # MINGGU 7 — Konsep embedding dan retrieval
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 31 Oktober 2026
 Waktu : tidak tercatat
 
@@ -672,7 +672,7 @@ cukup variatif.
 
 # MINGGU 8 — UTS: presentasi rancangan sistem
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 2 November 2026 (dokumen); tanggal presentasi tidak tercatat
 Waktu : tidak tercatat
 
@@ -739,7 +739,7 @@ keputusan ditolak, risiko).
 
 # MINGGU 9 — Merakit RAG utuh
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 2 November 2026 (pengukuran ambang); perakitan awal 10 Oktober 2026
 Waktu : tidak tercatat
 
@@ -835,7 +835,7 @@ membaca dokumen utuh.
 
 # MINGGU 10 — Dari workflow ke agent
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 2 November 2026
 Waktu : tidak tercatat
 
@@ -926,7 +926,7 @@ sempat dijalankan.
 
 # MINGGU 11 — Tool, memory, dan tugas banyak langkah
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 2 November 2026
 Waktu : tidak tercatat
 
@@ -1018,7 +1018,7 @@ percobaan ketiga.
 
 # MINGGU 12 — Studi kasus praktisi dan peer review
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 2 November 2026
 Waktu : tidak tercatat
 
@@ -1096,7 +1096,7 @@ bisa diakses.
 
 # MINGGU 13 — Guardrails, batas akses, dan human-in-the-loop
 
-Nama / NIM / K : Nova Reswara / 10241058 / belum diisi
+Nama / NIM / K : Nova Reswara / 10241058 / 5
 Tanggal : 2 November 2026
 Waktu : tidak tercatat
 

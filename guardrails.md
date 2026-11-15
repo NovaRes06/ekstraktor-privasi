@@ -1,6 +1,6 @@
 # GUARDRAILS — Privia
 
-Nama / NIM / K : Nova Reswara / 10241058 / angka lingkup dihitung maksimum (8 dokumen, 17+ kasus, 3+ tool)
+Nama / NIM / K : Nova Reswara / 10241058 / K = 5 (minimum 6 dokumen, 17 kasus, 3 tool; tersedia 8/18/4)
 Tanggal        : 2 November 2026
 Versi produk   : ekstraksi v2 + RAG v1 + agen agent-v1
 
