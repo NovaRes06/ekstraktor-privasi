@@ -24,6 +24,25 @@ dan mode ringkas tetap ada walaupun K ternyata ganjil.
 lalu hitung ulang tiga angka minimum dan cocokkan dengan kolom terakhir. Tidak ada
 yang perlu ditambah — hanya pencatatan.
 
+### Tabel bantu: angka minimum untuk K = 1..12
+
+Tandai baris yang sesuai dengan kode peserta Anda. Jangan menebak K dari NIM.
+
+| K | Dokumen `5+(K mod 4)` | Kasus uji `12+(K mod 6)` | Tool `2+(K mod 2)` | Mode ringkas |
+|---:|---:|---:|---:|---|
+| 1 | 6 | 13 | 3 | tidak wajib |
+| 2 | 7 | 14 | 2 | wajib |
+| 3 | 8 | 15 | 3 | tidak wajib |
+| 4 | 5 | 16 | 2 | wajib |
+| 5 | 6 | 17 | 3 | tidak wajib |
+| 6 | 7 | 12 | 2 | wajib |
+| 7 | 8 | 13 | 3 | tidak wajib |
+| 8 | 5 | 14 | 2 | wajib |
+| 9 | 6 | 15 | 3 | tidak wajib |
+| 10 | 7 | 16 | 2 | wajib |
+| 11 | 8 | 17 | 3 | tidak wajib |
+| 12 | 5 | 12 | 2 | wajib |
+
 ## Tema
 
 **Ekstraktor & penjawab kebijakan privasi dompet digital (Privia).** Tema dikunci
