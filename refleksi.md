@@ -1,5 +1,8 @@
 # Refleksi
 
+> **Status: draf awal, belum dikumpulkan.** Ini luaran Minggu 16; target progres repo
+> saat ini adalah Minggu 13.
+
 Nova Reswara · 10241058 · Privia · 2 November 2026
 
 ## 1. Keputusan rancangan yang paling saya sesali

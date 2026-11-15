@@ -49,7 +49,7 @@ Kurs kasar yang dipakai untuk kolom rupiah: **Rp 16.500 / USD**.
 
 ---
 
-## 3. Buku besar pemakaian (Minggu 1–16)
+## 3. Buku besar pemakaian (Minggu 1–13; baris 14–16 masih draf)
 
 | Minggu | Tanggal | Kegiatan | Model | Token masuk | Token keluar | Biaya setara |
 |---|---|---|---|---|---|---|
@@ -74,6 +74,10 @@ Kurs kasar yang dipakai untuk kolom rupiah: **Rp 16.500 / USD**.
 | 14 | 2026-11-02 | Kasus agen A01 | gemini-3.5-flash-lite | 5.255 | 376 | $0,005351 |
 | 15 | 2026-11-02 | Analisis dokumen & riwayat git: tidak ada panggilan model | — | 0 | 0 | $0 |
 | 16 | 2026-11-02 | UAS: pemeriksaan dokumen & uji otomatis, tanpa panggilan model | — | 0 | 0 | $0 |
+
+> **Catatan cakupan (target Minggu 13).** Baris Minggu 14–16 di atas bertanggal
+> 2026-11-02 dan disusun sebagai **draf/proyeksi** sebelum minggunya tiba. Baris itu
+> belum boleh dipakai sebagai bukti luaran Minggu 14–16 yang sudah dikumpulkan.
 
 **Tiga catatan saat menghitung ulang tabel ini:**
 

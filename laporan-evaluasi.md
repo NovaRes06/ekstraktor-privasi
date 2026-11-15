@@ -1,5 +1,9 @@
 # LAPORAN EVALUASI — PRIVIA
 
+> **Status: draf awal, belum dikumpulkan.** Ini luaran Minggu 14; target progres repo
+> saat ini adalah Minggu 13. Angka di bawah berasal dari run 2 November 2026 dan belum
+> menjadi klaim akhir sampai set uji dijalankan ulang pada minggunya.
+
 Nama / NIM / K : Nova Reswara / 10241058 / lingkup dihitung pada angka maksimum (8 dokumen, 17+ kasus, 3+ tool)
 Tanggal        : 2 November 2026
 Versi produk yang dievaluasi : ekstraksi v2 (prompt `instruksi/v2.md`), RAG v1, agen agent-v1

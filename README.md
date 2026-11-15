@@ -9,6 +9,10 @@ Proyek ini dikerjakan untuk Kapita Selekta AI Engineering (Ganjil 2026/2027), me
 lima lapisan modul: LLM dasar → ekstraksi terstruktur → grounding (RAG) → agentic →
 kematangan (evaluasi, risiko, etika).
 
+**Status repo: progres Minggu 13.** Luaran Minggu 1–13 ada beserta buktinya di `logs/`.
+`laporan-evaluasi.md`, `kajian-risiko.md`, dan `refleksi.md` masih **draf awal** untuk
+Minggu 14–16 dan **belum dikumpulkan**; jangan membacanya sebagai klaim akhir.
+
 ---
 
 ## 1. Persoalan dan pengguna
@@ -36,7 +40,7 @@ yang tidak terjawab dokumen dijawab "Tidak ada di dokumen."
 | 2 Kendali | Ekstraksi 9 field + kutipan bukti, prompt v1/v2 + mode ringkas, API | **Ada** — 18 key schema, retry, pemetaan galat |
 | 3 Grounding | Chunker, embedding, ChromaDB, `build_index.py`, `/ask`, 8 dokumen rujukan | **Ada** — ambang kemiripan 0,65 |
 | 4 Agentic | 4 tool, batas langkah, state eksternal, trace, satu titik persetujuan manusia | **Ada** |
-| 5 Kematangan | Guardrails input/output, set uji 18 kasus, harness evaluasi, uji serangan, kajian risiko | **Ada** |
+| 5 Kematangan | Guardrails input/output, set uji 18 kasus, harness evaluasi, uji serangan, kajian risiko | **Draf** — luaran Minggu 14–16, belum dikumpulkan |
 
 ---
 
@@ -126,8 +130,8 @@ Privia **tidak boleh** dipakai untuk:
 
 Keterbatasan yang harus dibaca sebelum percaya:
 
-- **Dua uji serangan belum teruji** (#5 injeksi di dalam dokumen, #6 kebocoran lintas
-  pengguna) karena kuota `gemini-3.6-flash` habis (HTTP 429). Statusnya `TIDAK TERUJI`,
+- **Dua uji serangan belum teruji** (#2 injeksi di dalam dokumen, #5 permintaan berbahaya
+  bertahap) karena kuota `gemini-3.6-flash` habis (HTTP 429). Statusnya `TIDAK TERUJI`,
   bukan "lulus".
 - **Retrieval masih bisa meleset.** U07 adalah contoh nyata: bagian yang memuat jawaban
   tidak terambil sehingga sistem menolak padahal jawabannya ada.
@@ -140,8 +144,11 @@ Keterbatasan yang harus dibaca sebelum percaya:
 
 ---
 
-## 7. Rencana berikutnya
+## 7. Rencana berikutnya (target Minggu 13)
 
-Urutan usahanya: (1) commit pemulihan berkas, (2) menguji ulang serangan #5 dan #6 saat
-kuota tersedia, (3) memperbaiki retrieval U07, (4) memperbarui `laporan-evaluasi.md` dan
-`catatan-pemakaian.md` dengan tanggal pemulihan 14 November 2026.
+1. Mengisi **kode peserta K** dan menghitung ulang angka lingkup (dokumen, kasus uji, tool).
+2. Melengkapi **peer review** UTS dan Minggu 12 (dua rekan masing-masing) — saat ini belum ada.
+3. Menguji ulang serangan **#2** dan **#5** saat kuota tersedia; bila tidak, statusnya tetap
+   `TIDAK TERUJI`.
+4. Menyiapkan `bukti/` dan paket `<NIM>-m<minggu>.zip` untuk Minggu 1–13.
+5. Memperbaiki retrieval U07 (bagian pengungkapan ShopeePay tidak terambil).
