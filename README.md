@@ -36,7 +36,7 @@ Perintah lain: `python run_agent.py "<tugas>"`, `python -m src.eval.jalankan_set
 | Bagian | Berkas |
 |---|---|
 | API & antarmuka | `api.py`, `app.py`, `assets/Privia.png` |
-| Ekstraksi | `src/extraction/extractor.py`, `instruksi/v1.md`, `instruksi/v2.md` |
+| Ekstraksi | `src/extraction/extractor.py`, `instruksi/` (`v1.md`, `v2.md`, `rag-v1.md`, `agent-v1.md`) |
 | RAG | `src/rag/`, `build_index.py`, `data/raw/` (8 dokumen + `SUMBER.md`) |
 | Agent | `src/agent/`, `run_agent.py` |
 | Guardrails | `src/guardrails/`, `guardrails.md` |

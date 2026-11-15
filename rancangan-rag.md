@@ -59,7 +59,7 @@ PERTANYAAN: Berapa lama OVO menyimpan data pribadi pengguna?
 
 ## 4. System prompt versi RAG
 
-Ada di [prompts/system_prompt_rag_v1.md](prompts/system_prompt_rag_v1.md).
+Ada di [instruksi/rag-v1.md](instruksi/rag-v1.md).
 Aturan intinya, sesuai modul Minggu 7: kalau tidak ada di sumber, katakan tidak
 ada; semua klaim disertai nomor konteks; bertentangan → sebutkan pertentangan,
 jangan memilih diam-diam.

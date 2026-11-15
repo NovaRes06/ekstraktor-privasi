@@ -158,7 +158,7 @@ src/rag/embedder.py           Embedding Gemini + penanganan batas kecepatan
 src/rag/vectorstore.py        ChromaDB: simpan, cari, ambang relevansi
 
 instruksi/v1.md, v2.md            Instruksi sistem ekstraksi
-prompts/system_prompt_rag_v1.md   Instruksi sistem RAG
+instruksi/rag-v1.md               Instruksi sistem RAG
 data/raw/                         Dokumen rujukan
 logs/                             Log kasus berhasil/gagal, uji v1 vs v2, jarak retrieval
 tests/                            Uji otomatis komponen murni

@@ -31,7 +31,7 @@ from src.rag.vectorstore import retrieve
 load_dotenv()
 rag_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 RAG_MODEL = "gemini-3.6-flash"
-RAG_SYSTEM_PROMPT_PATH = Path("prompts/system_prompt_rag_v1.md")
+RAG_SYSTEM_PROMPT_PATH = Path("instruksi/rag-v1.md")
 
 app = FastAPI(title="Ekstraktor Kebijakan Privasi")
 

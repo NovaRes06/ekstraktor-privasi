@@ -6,9 +6,8 @@ dasar evaluasi Minggu 14 — kalau tidak dicatat, tidak bisa dijawab "versi mana
 paling bagus dan kenapa".
 
 Nama file prompt: `instruksi/v1.md`, `instruksi/v2.md` (dan nanti `v3.md`, dst.).
-Prompt v1 asli disalin ke `instruksi/v1.md` agar seluruh versi berada di satu
-folder yang sama; `prompts/system_prompt_v1.md` tetap ada agar tidak merusak
-import yang sudah jalan (`extractor.py` membaca dari path lama).
+Seluruh system prompt kini berada di satu folder `instruksi/`: `v1.md`, `v2.md`,
+`agent-v1.md`, dan `rag-v1.md`. Folder `prompts/` sudah tidak dipakai.
 
 ## Tabel riwayat
 

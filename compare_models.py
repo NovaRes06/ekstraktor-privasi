@@ -26,7 +26,7 @@ load_dotenv()
 
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-SYSTEM_PROMPT_PATH = Path("prompts/system_prompt_v1.md")
+SYSTEM_PROMPT_PATH = Path("instruksi/v1.md")
 SAMPLE_DOC_PATH = Path("data/sample_kebijakan.txt")
 
 # Tiga model dari tingkat biaya berbeda (murah -> menengah -> mahal).
