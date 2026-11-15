@@ -12,3 +12,7 @@ chroma_db/
 
 # Berkas kerja sementara
 tmp_uts/
+
+# Paket bukti mingguan (dibuat ulang oleh buat_bukti.py)
+bukti/m*/
+bukti/*.zip

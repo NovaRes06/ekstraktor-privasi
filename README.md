@@ -98,6 +98,7 @@ Keduanya dijalankan pada 14 November 2026 di working tree ini, tanpa memanggil A
 | Laporan | `laporan-evaluasi.md`, `kajian-risiko.md`, `guardrails.md`, `refleksi.md`, `lembar-tema.md` |
 | Rancangan | `rancangan-sistem.md`, `rancangan-rag.md`, `analisis-workflow-vs-agen.md` |
 | Catatan | `docs/catatan-proses.md` (Minggu 1–13, format Lampiran C), `catatan-pemakaian.md` |
+| Bukti | `buat_bukti.py`, `bukti/README.md`, paket `bukti/m01`–`m13` + zip `10241058-m<minggu>.zip` |
 
 ---
 
@@ -150,5 +151,6 @@ Keterbatasan yang harus dibaca sebelum percaya:
 2. Melengkapi **peer review** UTS dan Minggu 12 (dua rekan masing-masing) — saat ini belum ada.
 3. Menguji ulang serangan **#2** dan **#5** saat kuota tersedia; bila tidak, statusnya tetap
    `TIDAK TERUJI`.
-4. Menyiapkan `bukti/` dan paket `<NIM>-m<minggu>.zip` untuk Minggu 1–13.
+4. Menyiapkan `bukti/` dan paket `<NIM>-m<minggu>.zip` untuk Minggu 1–13 — **sudah dibuat**
+   oleh `python buat_bukti.py`; isi tiap paket dan kekurangannya tercatat di `bukti/README.md`.
 5. Memperbaiki retrieval U07 (bagian pengungkapan ShopeePay tidak terambil).
