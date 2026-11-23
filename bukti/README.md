@@ -19,7 +19,7 @@ python buat_bukti.py --tanpa-zip  # folder saja
 | 5 | Structured output dan schema sebagai aturan | 4 | 0 |
 | 6 | Tool calling | 3 | 0 |
 | 7 | Konsep embedding dan retrieval | 6 | 0 |
-| 8 | UTS: presentasi rancangan sistem | 5 | 2 |
+| 8 | UTS: presentasi rancangan sistem | 3 | 3 |
 | 9 | Merakit RAG utuh | 6 | 2 |
 | 10 | Dari workflow ke agent | 4 | 1 |
 | 11 | Tool, memory, dan tugas banyak langkah | 8 | 1 |

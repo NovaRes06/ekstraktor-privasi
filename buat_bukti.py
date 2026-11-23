@@ -109,11 +109,10 @@ MINGGU: dict[int, dict[str, object]] = {
         "berkas": [
             "rancangan-sistem.md",
             "rancangan-rag.md",
-            "draft_ppt_privia_slides.md",
-            "draft_ppt_privia.md",
         ],
         "belum": [
             "Bukti pelaksanaan presentasi UTS tidak tercatat di repositori",
+            "Draf PPT presentasi UTS sudah dihapus dari repositori",
             "Peer review UTS (2 rekan) belum diisi: lihat peer-review/template-uts.md",
         ],
     },
