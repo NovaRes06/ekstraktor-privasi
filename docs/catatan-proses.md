@@ -1191,3 +1191,35 @@ Total kumulatif : Rp 0; setara ±$0,084
 **Apa yang sudah saya coba:** menjalankan ulang pada hari yang sama — kuota `gemini-3.6-flash`
 sudah habis (429 `RESOURCE_EXHAUSTED`).
 **Rencana konkret minggu depan:** menyusun set uji 18 kasus dan menjalankan evaluasi.
+
+## Catatan pasca-evaluasi — 23 November 2026
+
+Perbaikan ini dikerjakan setelah evaluasi 2 November, jadi bukan bagian dari minggu
+mana pun; dicatat di sini supaya jejaknya tidak hilang.
+
+**Gejala.** U07 (pengungkapan pihak ketiga ShopeePay) menolak padahal dokumen memuat
+jawabannya. Dugaan awal: kalimatnya terpotong antar chunk.
+
+**Yang terukur.** Kalimat 9.1 sebenarnya utuh di chunk 29 — overlap 30 kata menutupinya.
+Masalahnya peringkat: chunk pasal 9 berjarak **0,5031**, sedangkan enam chunk umum
+ShopeePay yang mengalahkannya berjarak **0,4661–0,4992**. Selisih 0,004–0,037 terlalu
+tipis untuk dipercaya.
+
+**Dua perbaikan yang saya uji lalu TOLAK** (keduanya diukur, bukan diduga):
+memecah dokumen per pasal (jarak pasal 9 menjadi 0,5032 — praktis sama) dan mengganti
+metrik L2 ke cosine (urutan hasil identik).
+
+**Yang diterapkan.** `retrieve()` mengambil kandidat 3×k (minimum 20), lalu mengurutkan
+dengan jarak dikurangi bonus 0,20 bila pertanyaan menyebut nama dokumen itu dan 0,05 per
+frasa persis dari pertanyaan. Ambang 0,65 tetap diukur pada jarak embedding asli, jadi
+koreksi ini tidak pernah meloloskan chunk yang jauh.
+
+**Hasil.** U07 lulus dan menjawab dari rujukan chunk pasal 9. Kelima kasus RAG lulus;
+B04, T02, T03 tetap menolak seperti seharusnya; P03 tetap mengambil ringkasan UU PDP.
+Angka set uji naik dari 14 ke **15 dari 17** (yang gagal tinggal U01 dan U03, keduanya
+soal kutipan bukti). Bukti: `logs/hasil-evaluasi-v1-fix-u07.json`, uji baru
+`tests/test_vectorstore_ranking.py`, `python -m pytest -q` 103 lulus, `ruff` bersih.
+
+**Batasnya.** Koreksi ini bergantung pada dua sinyal sederhana. Pertanyaan yang tidak
+menyebut nama dokumen tetap bisa mengambil bagian yang salah, dan ambang 0,65 belum
+diukur ulang pada korpus yang lebih besar.

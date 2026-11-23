@@ -1,0 +1,52 @@
+{
+  "id": "P03",
+  "jenis": "pernah_gagal",
+  "target": "rag",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "answer": "Jawaban: Berdasarkan UU PDP, subjek data pribadi memiliki beberapa hak dasar, antara lain:\n- Hak untuk memperoleh informasi terkait pemrosesan data pribadinya [1].\n- Hak untuk mengakses dan mendapatkan salinan dari data pribadinya [1].\n- Hak untuk mengoreksi, memperbarui, atau melengkapi data yang keliru [1].\n- Hak untuk mengajukan penghapusan dan/atau pemusnahan data pribadinya [1][3].\n- Hak untuk menarik kembali izin atau persetujuan pemrosesan data yang pernah diberikan sebelumnya [1].\n\nKonteks yang dipakai: [1], [3]",
+    "sources": [
+      {
+        "text": "Hak Subjek Data (terkait Pasal 5–9, bagian Hak Subjek Data Pribadi)\nSubjek data pribadi memiliki hak-hak dasar, antara lain: hak mendapat informasi\ntentang pemrosesan datanya, hak mengakses dan memperoleh salinan datanya, hak\nmelengkapi/memperbarui/mengoreksi data yang keliru, hak menghapus dan/atau\nmemusnahkan datanya, serta hak menarik kembali persetujuan yang pernah diberikan.",
+        "source_doc": "ringkasan-pasal-uu-pdp.md",
+        "chunk_index": 6,
+        "jarak": 0.42576709389686584
+      },
+      {
+        "text": "Jenis Data Pribadi (terkait Pasal 4)\nUU PDP membagi data pribadi menjadi dua kategori:\n\n- **Data bersifat umum**: nama lengkap, jenis kelamin, kewarganegaraan, agama, status\n  perkawinan, dan/atau data pribadi yang jika dikombinasikan dapat mengidentifikasi\n  seseorang.\n- **Data bersifat spesifik**: data kesehatan, data biometrik, data genetika, catatan\n  kejahatan, data anak, data keuangan pribadi, dan data lain sesuai ketentuan yang\n  berlaku. Data spesifik mendapat perlindungan lebih ketat daripada data umum.",
+        "source_doc": "ringkasan-pasal-uu-pdp.md",
+        "chunk_index": 1,
+        "jarak": 0.5535882711410522
+      },
+      {
+        "text": "Masa Retensi dan Penghapusan Data (terkait Pasal 45)\nData pribadi wajib dimusnahkan dan/atau dihapus setelah masa retensi (jangka waktu\npenyimpanan) berakhir, atau atas permintaan subjek data pribadi, kecuali ditentukan\nlain oleh peraturan perundang-undangan. Ketentuan lebih lanjut mengenai tata cara\npemberitahuan terkait hal ini diatur dalam Peraturan Pemerintah.",
+        "source_doc": "ringkasan-pasal-uu-pdp.md",
+        "chunk_index": 5,
+        "jarak": 0.5578796863555908
+      },
+      {
+        "text": "memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi tentang dirinya sesuai dengan tujuan pemrosesan Data Pribadi. Mendapatkan akses dan memperoleh salinan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Mengakhiri pemrosesan, menghapus, dan/ atau memusnahkan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Menarik kembali persetujuan pemrosesan Data Pribadi tentang dirinya yang telah diberikan kepada Pengendali Data Pribadi. Mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifikan pada Subjek Data Pribadi. Menunda atau membatasi pemrosesan Data Pribadi secara sesuai dengan tujuan pemrosesan Data Pribadi. Menggugat dan menerima ganti rugi atas pelanggaran pemrosesan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Mendapatkan dan/atau menggunakan Data Pribadi tentang diri Anda dari Pengendali Data Pribadi dalam bentuk yang sesuai dengan struktur dan/ atau format yang lazim digunakan atau dapat dibaca oleh sistem elektronik. Menggunakan dan mengirimkan Data Pribadi tentang",
+        "source_doc": "kebijakan-bibit.txt",
+        "chunk_index": 3,
+        "jarak": 0.3976072371006012
+      },
+      {
+        "text": "dan hak-hak Anda sebagai subjek data. Melalui Pemberitahuan Privasi ini, kami telah memberikan informasi tersebut kepada Anda. Anda juga dapat menghubungi tim dukungan kami untuk mendapatkan informasi lebih lanjut tentang data Anda yang kami simpan dan proses (misalnya, pertanggungjawaban platform, saluran, atau pejabat yang kami tugaskan untuk mengumpulkan data Anda). Kami berkomitmen untuk mematuhi jangka waktu SLA yang diperlukan untuk memenuhi hak-hak subjek data Anda sesuai dengan hukum perlindungan data yang berlaku. Silakan merujuk ke Bagian XI untuk detail kontak. Hak untuk Memperbaiki Data Jika Anda menemukan bahwa data Anda yang kami simpan perlu dikoreksi atau diperbarui, atau Anda menemukan ketidakakuratan pada data Anda, Anda dapat menghubungi tim dukungan kami untuk meminta koreksi atau pembaruan data Anda. Sebelum meminta koreksi atau pembaruan, Anda dapat meminta tim untuk memberikan data Anda yang kami simpan agar Anda dapat memastikan keakuratannya. Hak untuk Mengakses dan Memperoleh Salinan Anda dapat meminta kami untuk memberikan",
+        "source_doc": "kebijakan-ovo.txt",
+        "chunk_index": 90,
+        "jarak": 0.466806560754776
+      }
+    ],
+    "guardrail": []
+  },
+  "durasi_detik": 13.3,
+  "waktu": "2026-11-23T15:57:34"
+}

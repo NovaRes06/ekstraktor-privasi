@@ -121,7 +121,7 @@ itu sendiri temuan:
 
 | Ukuran | Minggu 9 (retrieval) | Sekarang (jawaban) | Selisih |
 |---|---:|---:|---:|
-| Pertanyaan yang jawabannya ada, dijawab benar | 3 dari 3 (chunk dokumen benar terambil) | 5 dari 6 kasus RAG berjawaban (U07 gagal) | −1 kasus, pada ukuran yang lebih ketat |
+| Pertanyaan yang jawabannya ada, dijawab benar | 3 dari 3 (chunk dokumen benar terambil) | 5 dari 6 kasus RAG berjawaban (U07 gagal saat itu; lolos setelah perbaikan 23 Nov 2026 — §10) | −1 kasus, pada ukuran yang lebih ketat |
 | Pertanyaan yang jawabannya tidak ada, ditolak dengan benar | 3 dari 3 | 5 dari 5 (T02, T03, U06, B04 + P01) | sama |
 
 **Penyebab perubahan:** retrieval yang benar tidak menjamin jawaban yang benar. Pada
@@ -135,7 +135,7 @@ hal ini tidak terlihat karena yang diperiksa hanya "dokumen sumber benar".
 |---|---|---|---|---|
 | 1 | U01 (Tokopedia) | 2 — bukti | Dua kutipan bukti tidak ditemukan apa adanya di dokumen: model menyusunnya dari beberapa bagian yang berdekatan | Perbaikan menyeluruh butuh Pemeriksa bukti yang lebih pintar (mis. pencocokan fuzzy) atau prompt yang melarang menyambung kutipan; keduanya perlu diuji ulang pada seluruh set |
 | 2 | U03 (OVO) | 2 — bukti | Sama: `bukti_pihak_ketiga_penerima` menyambung dua butir daftar yang tidak berurutan | idem |
-| 3 | U07 (ShopeePay) | 1 — menjawab | Retrieval mengambil bagian umum ShopeePay + satu chunk Tokopedia; pasal 9 tentang pengungkapan tidak masuk 5 teratas | Butuh retrieval hybrid (kata kunci + vektor) atau k besar; belum dikerjakan karena mengubah perilaku seluruh RAG dan harus dievaluasi ulang |
+| 3 | U07 (ShopeePay) | 1 — menjawab | Retrieval mengambil bagian umum ShopeePay + satu chunk Tokopedia; pasal 9 tentang pengungkapan tidak masuk 5 teratas | **Sudah diperbaiki 23 November 2026**: koreksi peringkat (nama dokumen + frasa persis) tanpa index ulang. U07 lulus, kelima kasus RAG lulus — §10 |
 
 **Pola:** ketiga kegagalan bukan "model bodoh", melainkan **pemotongan dokumen**.
 Dua soal kutipan yang disambung (chunk terlalu kecil untuk memuat satu butir utuh),
@@ -180,7 +180,7 @@ kualitas turun bukan penghematan.
 | # | Perbaikan | Bukti yang mendasari | Perkiraan dampak | Biaya menerapkannya |
 |---|---|---|---|---|
 | 1 | Perbesar chunk (150 → ±300 kata) atau tambah overlap pada batas butir daftar | 2 dari 3 kegagalan (U01, U03) berasal dari kutipan yang disambung antar-butir | Bisa menaikkan kriteria 2 dari 88% ke ~100% pada set ini | Perlu index ulang (295 chunk → ~180) + jalankan ulang set uji (~17 permintaan) |
-| 2 | Retrieval hybrid: gabungkan skor vektor dengan pencocokan kata kunci judul pasal | U07: pasal 9 tidak terambil karena kemiripan makna kalah dari bagian umum | Menutup kelas kegagalan "dokumen benar, bagian salah" | Implementasi + evaluasi ulang; menambah latensi |
+| 2 | Retrieval hybrid: gabungkan skor vektor dengan pencocokan kata kunci | U07: pasal 9 tidak terambil karena kemiripan makna kalah dari bagian umum | Menutup kelas kegagalan "dokumen benar, bagian salah" | **Diterapkan 23 Nov 2026** dalam bentuk ringkas: koreksi peringkat dari nama dokumen + frasa persis, tanpa index ulang — §10 |
 | 3 | Kembalikan `usage` pada `/ask` supaya biaya RAG terukur, bukan diperkirakan | §7: satu-satunya angka yang masih perkiraan | Laporan biaya jadi lengkap tanpa estimasi | Kecil (mengubah satu respons API) |
 
 ## 9. Keterbatasan laporan ini
@@ -197,8 +197,32 @@ Tiga hal yang membuat angka di atas **tidak boleh digeneralisasi:**
    akhirnya dijalankan dengan model berbeda, dan dua uji serangan tidak teruji.
    Perbedaan model itu ikut memengaruhi angka kasus A01.
 
-**Yang perlu diketahui calon pengguna sebelum mempercayai angkanya:** 14 dari 17
+**Yang perlu diketahui calon pengguna sebelum mempercayai angkanya:** 15 dari 17
 lulus terdengar baik, tetapi yang diuji adalah ekstraksi potongan dokumen dan
-pertanyaan yang saya susun. Sistem pernah memberi kutipan bukti yang tidak persis
-ada di dokumen (2 kasus) dan pernah menolak padahal jawabannya ada (1 kasus). Periksa
-kutipannya.
+pertanyaan yang saya susun. Sistem masih pernah memberi kutipan bukti yang tidak persis
+ada di dokumen (2 kasus, U01 dan U03). Periksa kutipannya.
+
+## 10. Perbaikan setelah evaluasi — 23 November 2026
+
+Perbaikan hanya menyentuh **peringkat** hasil retrieval, bukan isi index (tidak ada index
+ulang dan tidak ada embedding baru untuk dokumen).
+
+**Diagnosis yang terukur.** Untuk pertanyaan U07, jarak chunk pasal 9 adalah **0,5031**,
+sedangkan enam chunk umum ShopeePay yang mengalahkannya berjarak **0,4661–0,4992**.
+Selisih 0,004–0,037 itu terlalu tipis untuk dipercaya sebagai sinyal makna. Bagian yang
+dicari tidak hilang: kalimat 9.1 utuh di dalam chunk 29 (overlap 30 kata menutupinya).
+Yang salah adalah urutannya. Dua perbaikan yang diuji lebih dulu dan **ditolak** karena
+terbukti tidak menolong: pemecahan per pasal (jarak 0,5032, praktis sama) dan penggantian
+metrik L2 ke cosine (urutan identik).
+
+**Yang diterapkan** di `src/rag/vectorstore.py`: kandidat diambil 3×k (minimum 20), lalu
+diurutkan dengan jarak dikurangi bonus **0,20** bila pertanyaan menyebut nama dokumen itu
+("ShopeePay" → `kebijakan-shopeepay.txt`) dan **0,05** per frasa persis dari pertanyaan
+("pihak ketiga"), maksimum dua frasa. Ambang 0,65 tetap diukur pada jarak embedding asli,
+sehingga koreksi ini tidak pernah meloloskan chunk yang jauh.
+
+**Hasil** (`logs/hasil-evaluasi-v1-fix-u07.json`, kelima kasus RAG dijalankan ulang dengan
+`--ulang`): U07 lulus dan menjawab dari rujukan [3] = chunk pasal 9; B04 tetap menolak;
+T02 dan T03 tetap menolak tanpa memanggil model; P03 tetap mengambil `ringkasan-pasal-uu-pdp.md`.
+Angka keseluruhan menjadi **15 dari 17**; yang masih gagal hanya U01 dan U03 (kutipan bukti).
+Uji baru: `tests/test_vectorstore_ranking.py` (6 uji); total 103 uji lulus, `ruff` bersih.

@@ -44,16 +44,17 @@ Perintah lain: `python run_agent.py "<tugas>"`, `python -m src.eval.jalankan_set
 | Laporan & rancangan | `laporan-evaluasi.md`, `kajian-risiko.md`, `refleksi.md`, `rancangan-sistem.md`, `rancangan-rag.md`, `analisis-workflow-vs-agen.md`, `lembar-tema.md` |
 | Catatan | `docs/catatan-proses.md` (Minggu 1–13, format Lampiran C), `catatan-pemakaian.md` |
 | Bukti & peer review | `buat_bukti.py` + `bukti/` (13 paket zip), `peer-review/` (template) |
-| Uji | `tests/` — 6 berkas, 97 uji |
+| Uji | `tests/` — 7 berkas, 103 uji |
 
 ## Hasil terverifikasi
 
 | Ukuran | Angka | Bukti |
 |---|---|---|
-| Uji otomatis | **97 lulus**, 0 gagal | `python -m pytest -q` (14 Nov 2026) |
+| Uji otomatis | **103 lulus**, 0 gagal | `python -m pytest -q` (23 Nov 2026) |
 | Lint | **bersih** | `python -m ruff check` (14 Nov 2026) |
-| Evaluasi set uji (v1) | **14 dari 17** kasus lulus semua kriteria | `logs/hasil-evaluasi-v1.json` |
-| Kasus gagal | 3 (U01, U03, U07) + alasannya | `logs/failed_cases.md` |
+| Evaluasi set uji (v1) | **14 dari 17** kasus lulus semua kriteria (2 Nov 2026) | `logs/hasil-evaluasi-v1.json` |
+| Setelah perbaikan peringkat retrieval | **15 dari 17**; kelima kasus RAG lulus (23 Nov 2026) | `logs/hasil-evaluasi-v1-fix-u07.json` |
+| Kasus gagal | 2 (U01, U03) + alasannya | `logs/failed_cases.md` |
 | Uji serangan | 6 dijalankan: **4 ditolak, 0 tembus, 2 tidak teruji** | `logs/uji-serangan.json` |
 | BREAK Minggu 1 | 4 percobaan, prediksi ditulis lebih dulu | `logs/break-minggu1.json` |
 | Biaya | Rp 0 (free tier); setara $0,003581 per ekstraksi, $0,007739 per tugas agen 4 langkah | `catatan-pemakaian.md` |
@@ -64,7 +65,9 @@ Perintah lain: `python run_agent.py "<tugas>"`, `python -m src.eval.jalankan_set
   memproses data pribadi orang sungguhan.
 - Serangan **#2 dan #5 belum teruji** (kuota `gemini-3.6-flash` habis, HTTP 429);
   statusnya `TIDAK TERUJI`, bukan "lulus".
-- Retrieval masih bisa meleset: U07 menolak padahal jawabannya ada di dokumen.
+- Peringkat retrieval dibantu koreksi sederhana: nama dokumen yang disebut pertanyaan
+  dan frasa persis ("pihak ketiga") menaikkan chunk yang cocok. Pertanyaan yang tidak
+  menyebut nama dokumen masih bisa mengambil bagian yang salah.
 - Teks dipotong 20.000 karakter di `/fetch-url`, sehingga dokumen panjang (OVO ±85 ribu
   karakter) hanya teranalisis sebagian.
 - Kuota gratis 20 permintaan/hari per model; evaluasi memakai cache agar tidak mengulang.
@@ -73,7 +76,6 @@ Perintah lain: `python run_agent.py "<tugas>"`, `python -m src.eval.jalankan_set
 
 1. Mengisi 4 lembar peer review (2 UTS + 2 Minggu 12) memakai template di `peer-review/`.
 2. Menguji ulang serangan #2 dan #5 saat kuota tersedia.
-3. Memperbaiki retrieval U07.
 
 Rincian paket bukti dan kekurangannya: `bukti/README.md`. Rencana dan status per minggu:
 `docs/catatan-proses.md`.

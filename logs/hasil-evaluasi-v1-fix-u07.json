@@ -1,0 +1,250 @@
+{
+  "model": "gemini-3.6-flash",
+  "waktu": "2026-11-23T15:57:47",
+  "ringkasan": {
+    "per_kriteria": {
+      "1": {
+        "lulus": 5,
+        "dinilai": 5
+      },
+      "2": {
+        "lulus": 5,
+        "dinilai": 5
+      },
+      "3": {
+        "lulus": 3,
+        "dinilai": 3
+      },
+      "4": {
+        "lulus": 5,
+        "dinilai": 5
+      },
+      "5": {
+        "lulus": 3,
+        "dinilai": 3
+      }
+    },
+    "per_jenis": {
+      "umum": {
+        "lulus": 1,
+        "total": 1
+      },
+      "batas": {
+        "lulus": 1,
+        "total": 1
+      },
+      "tolak": {
+        "lulus": 2,
+        "total": 2
+      },
+      "pernah_gagal": {
+        "lulus": 1,
+        "total": 1
+      }
+    },
+    "total_kasus": 5,
+    "lulus_semua": 5
+  },
+  "kasus": [
+    {
+      "id": "U07",
+      "jenis": "umum",
+      "target": "rag",
+      "model": "gemini-3.6-flash",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": null,
+        "4": true,
+        "5": null
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "answer": "Jawaban: ShopeePay membagikan data pribadi pengguna kepada pihak ketiga, baik yang berada di dalam maupun di luar Indonesia, dengan persetujuan pengguna untuk mendukung operasional layanan [3]. \n\nPihak ketiga yang dapat menerima data tersebut mencakup:\n- Anak perusahaan, afiliasi, dan perusahaan terkait [3].\n- Pembeli atau penjual yang melakukan transaksi atau berinteraksi dengan pengguna [3][5].\n- Kontraktor, agen, dan penyedia layanan pihak ketiga yang mendukung bisnis, seperti jasa pos, telekomunikasi, teknologi informasi, dan pusat data [3][5].\n- Pemerintah atau otoritas regulator yang memiliki wewenang [2][5].\n- Pembeli atau penerus aset dalam situasi penggabungan, restrukturisasi, pembubaran, pengalihan aset, atau proses kepailitan [5].\n\nSelain itu, ShopeePay juga dapat menyimpan dan mengungkapkan informasi akun pengguna untuk mematuhi proses hukum, perintah pengadilan, permintaan otoritas resmi, menegakkan aturan privasi, atau melindungi hak dan keamanan pribadi [2].\n\nKonteks yang dipakai: [2], [3], [5]",
+        "sources": [
+          {
+            "text": "digunakan sebagai metode pembayaran, salah satunya di e-commerce Shopee atau transaksi finansial digital lainnya. ShopeePay fokus pada penyediaan pengalaman transaksi yang mudah dan aman bagi pengguna. Kebijakan privasi ShopeePay mencakup pengumpulan, penggunaan, dan perlindungan data pribadi pengguna. Data yang dikumpulkan dapat mencakup informasi pribadi, riwayat transaksi, dan data lokasi, yang digunakan untuk memproses transaksi, menyediakan layanan yang dipersonalisasi, dan meningkatkan keamanan platform. ShopeePay juga berkomitmen untuk menjaga kerahasiaan data pengguna dengan menerapkan berbagai langkah keamanan untuk melindungi account ShopeePay kamu. Tentang ShopeePay ShopeePay oleh PT Airpay International Indonesia adalah dompet digital yang digunakan sebagai metode pembayaran, salah satunya di e-commerce Shopee atau transaksi finansial digital lainnya. Aplikasi ShopeePay telah diluncurkan sejak Februari 2024 lalu dengan beragam fitur menarik untuk memudahkan pembayaran QRIS dan online. Kebijakan Privasi ShopeePay ShopeePay sangat menjaga kerahasiaan data pribadi pengguna. Data yang dikumpulkan, seperti nama, alamat email, dan informasi perbankan, digunakan untuk memverifikasi identitas, memproses transaksi,",
+            "source_doc": "kebijakan-shopeepay.txt",
+            "chunk_index": 47,
+            "jarak": 0.4831390082836151
+          },
+          {
+            "text": "mengakui, menyetujui dan sepakat bahwa kami dapat mengakses, menyimpan dan mengungkapkan informasi dan konten Akun Anda jika diminta oleh hukum atau sesuai dengan perintah pengadilan atau oleh prioritas pemerintah atau regulator yang memiliki yurisdiksi atas Perseroan atau dengan keyakinan itikad baik bahwa penyimpanan atau pengungkapan akses tersebut secara wajar diperlukan untuk: (a) mematuhi proses hukum; (b) memenuhi permintaan dari otoritas pemerintah atau regulator manapun yang memiliki yurisdiksi atas Perseroan; (c) menegakkan Syarat dan Ketentuan ShopeePay terkait atau Kebijakan Privasi ini; (d) menanggapi setiap klaim yang mengancam atau aktual terhadap Perseroan atau klaim lain bahwa suatu konten melanggar hak pihak ketiga; (e) menanggapi permintaan Anda untuk layanan pelanggan; atau (f) melindungi hak, properti atau keamanan pribadi Perseroan, penggunanya dan/atau publik. 7.3 Karena tujuan kami akan/mungkin mengumpulkan, menyimpan, menggunakan, mengungkapkan atau memproses data pribadi Anda tergantung pada situasi yang dihadapi, tujuan tersebut mungkin tidak tertera di atas. Akan tetapi, kami akan memberitahu",
+            "source_doc": "kebijakan-shopeepay.txt",
+            "chunk_index": 25,
+            "jarak": 0.4991838335990906
+          },
+          {
+            "text": "data. 9. APAKAH PERSEROAN MENGUNGKAPKAN INFORMASI YANG DIKUMPULKANNYA DARI PENGUNJUNG KEPADA PIHAK LUAR? 9.1 Dalam menjalankan bisnis kami, dengan persetujuan Anda, kami akan/mungkin perlu mengungkapkan data pribadi Anda kepada penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait kami, dan/atau pihak ketiga lainnya, entah berlokasi di Indonesia atau di luar Indonesia, untuk satu atau lebih Tujuan yang disebutkan di atas. Penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait dan/atau pihak ketiga lainnya tersebut akan memproses data pribadi Anda atas nama kami atau pihak lainnya, untuk satu atau lebih Tujuan yang disebutkan di atas. Pihak ketiga tersebut termasuk: a. anak perusahaan, afiliasi dan perusahaan terkait kami sehubungan dengan transaksi atau layanan yang diberikan oleh Perseroan; b. pembeli atau penjual yang Anda telah melakukan transaksi dengannya atau berinteraksi dengannya di Platform atau di platform(-platform) lain atau terkait dengan penggunaan Anda atas Layanan untuk Tujuan tersebut di atas;; c. kontraktor,",
+            "source_doc": "kebijakan-shopeepay.txt",
+            "chunk_index": 29,
+            "jarak": 0.5031299591064453
+          },
+          {
+            "text": "pembayaran QRIS dan online. Kebijakan Privasi ShopeePay ShopeePay sangat menjaga kerahasiaan data pribadi pengguna. Data yang dikumpulkan, seperti nama, alamat email, dan informasi perbankan, digunakan untuk memverifikasi identitas, memproses transaksi, dan meningkatkan layanan ShopeePay. Data pribadi yang telah kamu percayakan kepada ShopeePay akan dikelola, dilindungi, dan ShopeePay akan mengolah data pribadi anda dengan baik.",
+            "source_doc": "kebijakan-shopeepay.txt",
+            "chunk_index": 48,
+            "jarak": 0.46610307693481445
+          },
+          {
+            "text": "penjual yang Anda telah melakukan transaksi dengannya atau berinteraksi dengannya di Platform atau di platform(-platform) lain atau terkait dengan penggunaan Anda atas Layanan untuk Tujuan tersebut di atas;; c. kontraktor, agen, penyedia layanan dan pihak ketiga lainnya yang kami gunakan untuk mendukung bisnis kami. Ini termasuk tetapi tidak terbatas pada pihak-pihak tersebut yang menyediakan layanan administratif atau lainnya kepada kami seperti, jasa pos, perusahaan telekomunikasi, perusahaan teknologi informasi dan pusat data; d. pemerintah atau regulator yang berwenang yang memiliki yurisdiksi atas Perseroan atau sebagaimana diizinkan dalam Bagian 7.2; e. pembeli atau penerus lainnya dalam hal terjadi penggabungan, divestasi, restrukturisasi, reorganisasi, pembubaran atau penjualan atau pengalihan lainnya atas beberapa atau semua aset Perseroan, baik secara berkelanjutan atau sebagai bagian dari kepailitan, likuidasi atau proses serupa, di mana data pribadi yang dimiliki oleh Perseroan tentang pengguna Layanan kami adalah salah satu aset yang dialihkan; atau kepada rekanan dalam suatu transaksi aset bisnis",
+            "source_doc": "kebijakan-shopeepay.txt",
+            "chunk_index": 30,
+            "jarak": 0.5210386514663696
+          }
+        ],
+        "guardrail": []
+      },
+      "durasi_detik": 13.8,
+      "waktu": "2026-11-23T15:57:02"
+    },
+    {
+      "id": "B04",
+      "jenis": "batas",
+      "target": "rag",
+      "model": "gemini-3.6-flash",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "answer": "Jawaban: Tidak ada di dokumen.\n\nKonteks yang dipakai: Tidak ada",
+        "sources": [
+          {
+            "text": "mengenai Pemohon; Payment Gateway; PT Stockbit Securitas Digital dalam rangka pendaftaran atau transaksi terkait dengan bibit plus. Penyimpanan Data Pribadi Bibit menyimpan Data Pribadi Anda dengan perlindungan terbaik selama diperlukan untuk penyediaan Layanan. Data pribadi tertentu juga dapat dikelola, diproses, dan disimpan oleh pihak ketiga yang bekerja sama dengan Bibit dan berlokasi di Indonesia guna menjaga kinerja Layanan dengan tetap mematuhi kewajiban atas akses dan efektivitas pengawasan sesuai hukum dan perundang-undangan yang berlaku. Bibit akan menyimpan Data Pribadi yang disebutkan di atas selama diperlukan untuk mencapai tujuan pengumpulan data pribadi, selama Anda masih menggunakan Layanan, atau sepanjang penyimpanan tersebut diharuskan sesuai dengan kebijakan retensi data Bibit serta peraturan perundang-undangan yang berlaku di Republik Indonesia. Bibit akan berhenti menyimpan Data Pribadi Anda atau menghilangkan Data Pribadi yang dapat diasosiasikan dengan Anda, segera setelah mengkaji alasan bahwa pengumpulan Data Pribadi tersebut tidak lagi diperlukan untuk tujuan hukum dan bisnis. Pemrosesan Data Pribadi",
+            "source_doc": "kebijakan-bibit.txt",
+            "chunk_index": 9,
+            "jarak": 0.36029163002967834
+          },
+          {
+            "text": "dibuat dan didapatkan dari hasil penggunaan Layanan Bibit, termasuk namun tidak terbatas pada: Data yang diolah seperti penilaian profiling, penilaian lokasi, mobile positioning. Informasi Data yang diperoleh dari aktivitas pemakaian Layanan yang diakses oleh Anda, seperti pembayaran maupun profiling dan segmentasi Anda. Data Pribadi dari Grup Usaha Bibit dan/atau pihak ketiga lainnya yang merupakan mitra Bibit atau mengadakan kerja sama dengan Bibit diantaranya: Bank Kustodian (“Bank Kustodian”) dan/atau Manajer Investasi dalam rangka untuk pelaksanaan transaksi Reksa Dana oleh Pemohon; PT Bibit Tumbuh Bersama melalui aplikasi Android dan IOS maupun melalui fasilitas lainnya dalam rangka pelaksanaan transaksi Reksa Dana secara online oleh Pemohon; Otoritas Jasa Keuangan (“OJK”) dan instansi lainnya berdasarkan peraturan perundang-undangan yang berlaku di Republik Indonesia yang membutuhkan informasi mengenai Pemohon; Payment Gateway; PT Stockbit Securitas Digital dalam rangka pendaftaran atau transaksi terkait dengan bibit plus. Penyimpanan Data Pribadi Bibit menyimpan Data Pribadi Anda dengan perlindungan terbaik selama diperlukan",
+            "source_doc": "kebijakan-bibit.txt",
+            "chunk_index": 8,
+            "jarak": 0.3831488788127899
+          },
+          {
+            "text": "Anda atau menghilangkan Data Pribadi yang dapat diasosiasikan dengan Anda, segera setelah mengkaji alasan bahwa pengumpulan Data Pribadi tersebut tidak lagi diperlukan untuk tujuan hukum dan bisnis. Pemrosesan Data Pribadi Bibit tidak menjual, menukar, menampilkan, mempublikasikan, mentransfer, membagikan dan/atau mempublikasikan data pribadi atau informasi terkait Subjek data pribadi. Subjek data pribadi bertanggung jawab untuk menjaga kerahasiaan data pribadinya dan harus selalu menjaga dan bertanggung jawab atas keamanan perangkat yang digunakan untuk mengakses layanan Bibit. Subjek data pribadi dengan ini mengakui dan, jika diwajibkan oleh peraturan perlindungan data pribadi yang berlaku, secara tegas menyetujui bahwa data pribadi yang diperoleh dan dikumpulkan oleh Bibit dan data terkait transaksi yang relevan dapat diungkapkan kepada otoritas yang berwenang atau badan lain yang diberi wewenang berdasarkan undang-undang atau perjanjian kerja sama dalam hal: Untuk kepentingan hukum yang berlaku dan/atau untuk menanggapi proses hukum yang sedang berjalan. Terdapat pengecualian-pengecualian atas hak Subjek Data Pribadi dalam hal",
+            "source_doc": "kebijakan-bibit.txt",
+            "chunk_index": 10,
+            "jarak": 0.3969133496284485
+          },
+          {
+            "text": "untuk selalu menjaga serta bertanggung jawab atas keamanan perangkat yang digunakan. Pengakuan dan Persetujuan Kebijakan Privasi ini dapat diubah sewaktu-waktu dengan dan/atau tanpa pemberitahuan terlebih dahulu kepada Anda sesuai dengan ketentuan peraturan dan perundang-undangan yang berlaku. Bibit menghimbau agar Anda selalu membaca dengan seksama dan memeriksa halaman ini secara berkala untuk mengetahui perubahan atas kebijakan ini. Dalam hal penggunaan Data Pribadi Pengguna, Anda memiliki hak untuk: Meminta salinan Data Pribadi kepada Bibit. Meminta Bibit untuk mengoreksi data yang salah, atau melengkapi Data Pribadi yang tidak lengkap. Meminta Bibit untuk menghapus Data Pribadi Anda apabila data tersebut tidak lagi diperlukan untuk tujuan yang ditetapkan atau jika tidak ada dasar hukum lain untuk melakukan pemrosesan atau hal ini tidak dibatasi oleh ketentuan. Anda dapat mengajukan permintaan tersebut dengan memberitahukan Bibit melalui saluran komunikasi yang ditetapkan oleh Bibit. Setelah Anda menarik persetujuan tersebut, maka Anda tidak dapat menggunakan Layanan Bibit. Penarikan persetujuan dapat",
+            "source_doc": "kebijakan-bibit.txt",
+            "chunk_index": 17,
+            "jarak": 0.44728145003318787
+          },
+          {
+            "text": "Bibit dapat memberikan layanan kepada Anda dan membantu Pemerintah Republik Indonesia beserta lembaga pendukungnya untuk melaksanakan fungsi-fungsi negara. Untuk Layanan tertentu, Bibit perlu memproses Data Pribadi Anda untuk memenuhi pelaporan kepada regulator dan sebagainya. Pengungkapan ini dilakukan dengan mempertimbangkan aspek-aspek keamanannya sehingga memastikan dalam proses pengungkapan tidak ada data-data yang disalahgunakan. Akses ke Data Pribadi Bibit berkomitmen untuk memenuhi hak Subjek Data Pribadi untuk mengakses Data Pribadi yang dikumpulkan dan diproses oleh Bibit. Dalam memenuhi permintaan akses ke Data Pribadi, Bibit dapat menolak permintaan apabila Bibit menemukan bahwa permintaan ke Data Pribadi memenuhi salah satu atau lebih kondisi berikut ini: membahayakan keamanan, kesehatan fisik, atau kesehatan mental Subjek Data Pribadi dan/ atau orang lain; berdampak pada pengungkapan Data Pribadi milik orang lain; dan/ atau bertentangan dengan kepentingan pertahanan dan keamanan nasional. Untuk informasi lebih lanjut terkait dengan permintaan akses Data Pribadi, Anda dapat menghubungi saluran komunikasi yang ditetapkan oleh Bibit.",
+            "source_doc": "kebijakan-bibit.txt",
+            "chunk_index": 13,
+            "jarak": 0.4049479067325592
+          }
+        ],
+        "guardrail": [
+          "jawaban tidak menyebut satu pun nomor rujukan ([1], [2], ...) padahal sumber dikirim"
+        ]
+      },
+      "durasi_detik": 17.4,
+      "waktu": "2026-11-23T15:57:16"
+    },
+    {
+      "id": "T02",
+      "jenis": "tolak",
+      "target": "rag",
+      "model": "gemini-3.6-flash",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "answer": "Tidak ada di dokumen.",
+        "sources": [],
+        "catatan": "Tidak ada chunk yang cukup relevan ditemukan (di atas ambang batas jarak) -- model tidak dipanggil."
+      },
+      "durasi_detik": 0.5,
+      "waktu": "2026-11-23T15:57:33"
+    },
+    {
+      "id": "T03",
+      "jenis": "tolak",
+      "target": "rag",
+      "model": "gemini-3.6-flash",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "answer": "Tidak ada di dokumen.",
+        "sources": [],
+        "catatan": "Tidak ada chunk yang cukup relevan ditemukan (di atas ambang batas jarak) -- model tidak dipanggil."
+      },
+      "durasi_detik": 0.4,
+      "waktu": "2026-11-23T15:57:33"
+    },
+    {
+      "id": "P03",
+      "jenis": "pernah_gagal",
+      "target": "rag",
+      "model": "gemini-3.6-flash",
+      "nilai": {
+        "1": true,
+        "2": true,
+        "3": null,
+        "4": true,
+        "5": null
+      },
+      "lulus_semua": true,
+      "hasil": {
+        "answer": "Jawaban: Berdasarkan UU PDP, subjek data pribadi memiliki beberapa hak dasar, antara lain:\n- Hak untuk memperoleh informasi terkait pemrosesan data pribadinya [1].\n- Hak untuk mengakses dan mendapatkan salinan dari data pribadinya [1].\n- Hak untuk mengoreksi, memperbarui, atau melengkapi data yang keliru [1].\n- Hak untuk mengajukan penghapusan dan/atau pemusnahan data pribadinya [1][3].\n- Hak untuk menarik kembali izin atau persetujuan pemrosesan data yang pernah diberikan sebelumnya [1].\n\nKonteks yang dipakai: [1], [3]",
+        "sources": [
+          {
+            "text": "Hak Subjek Data (terkait Pasal 5–9, bagian Hak Subjek Data Pribadi)\nSubjek data pribadi memiliki hak-hak dasar, antara lain: hak mendapat informasi\ntentang pemrosesan datanya, hak mengakses dan memperoleh salinan datanya, hak\nmelengkapi/memperbarui/mengoreksi data yang keliru, hak menghapus dan/atau\nmemusnahkan datanya, serta hak menarik kembali persetujuan yang pernah diberikan.",
+            "source_doc": "ringkasan-pasal-uu-pdp.md",
+            "chunk_index": 6,
+            "jarak": 0.42576709389686584
+          },
+          {
+            "text": "Jenis Data Pribadi (terkait Pasal 4)\nUU PDP membagi data pribadi menjadi dua kategori:\n\n- **Data bersifat umum**: nama lengkap, jenis kelamin, kewarganegaraan, agama, status\n  perkawinan, dan/atau data pribadi yang jika dikombinasikan dapat mengidentifikasi\n  seseorang.\n- **Data bersifat spesifik**: data kesehatan, data biometrik, data genetika, catatan\n  kejahatan, data anak, data keuangan pribadi, dan data lain sesuai ketentuan yang\n  berlaku. Data spesifik mendapat perlindungan lebih ketat daripada data umum.",
+            "source_doc": "ringkasan-pasal-uu-pdp.md",
+            "chunk_index": 1,
+            "jarak": 0.5535882711410522
+          },
+          {
+            "text": "Masa Retensi dan Penghapusan Data (terkait Pasal 45)\nData pribadi wajib dimusnahkan dan/atau dihapus setelah masa retensi (jangka waktu\npenyimpanan) berakhir, atau atas permintaan subjek data pribadi, kecuali ditentukan\nlain oleh peraturan perundang-undangan. Ketentuan lebih lanjut mengenai tata cara\npemberitahuan terkait hal ini diatur dalam Peraturan Pemerintah.",
+            "source_doc": "ringkasan-pasal-uu-pdp.md",
+            "chunk_index": 5,
+            "jarak": 0.5578796863555908
+          },
+          {
+            "text": "memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi tentang dirinya sesuai dengan tujuan pemrosesan Data Pribadi. Mendapatkan akses dan memperoleh salinan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Mengakhiri pemrosesan, menghapus, dan/ atau memusnahkan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Menarik kembali persetujuan pemrosesan Data Pribadi tentang dirinya yang telah diberikan kepada Pengendali Data Pribadi. Mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifikan pada Subjek Data Pribadi. Menunda atau membatasi pemrosesan Data Pribadi secara sesuai dengan tujuan pemrosesan Data Pribadi. Menggugat dan menerima ganti rugi atas pelanggaran pemrosesan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan. Mendapatkan dan/atau menggunakan Data Pribadi tentang diri Anda dari Pengendali Data Pribadi dalam bentuk yang sesuai dengan struktur dan/ atau format yang lazim digunakan atau dapat dibaca oleh sistem elektronik. Menggunakan dan mengirimkan Data Pribadi tentang",
+            "source_doc": "kebijakan-bibit.txt",
+            "chunk_index": 3,
+            "jarak": 0.3976072371006012
+          },
+          {
+            "text": "dan hak-hak Anda sebagai subjek data. Melalui Pemberitahuan Privasi ini, kami telah memberikan informasi tersebut kepada Anda. Anda juga dapat menghubungi tim dukungan kami untuk mendapatkan informasi lebih lanjut tentang data Anda yang kami simpan dan proses (misalnya, pertanggungjawaban platform, saluran, atau pejabat yang kami tugaskan untuk mengumpulkan data Anda). Kami berkomitmen untuk mematuhi jangka waktu SLA yang diperlukan untuk memenuhi hak-hak subjek data Anda sesuai dengan hukum perlindungan data yang berlaku. Silakan merujuk ke Bagian XI untuk detail kontak. Hak untuk Memperbaiki Data Jika Anda menemukan bahwa data Anda yang kami simpan perlu dikoreksi atau diperbarui, atau Anda menemukan ketidakakuratan pada data Anda, Anda dapat menghubungi tim dukungan kami untuk meminta koreksi atau pembaruan data Anda. Sebelum meminta koreksi atau pembaruan, Anda dapat meminta tim untuk memberikan data Anda yang kami simpan agar Anda dapat memastikan keakuratannya. Hak untuk Mengakses dan Memperoleh Salinan Anda dapat meminta kami untuk memberikan",
+            "source_doc": "kebijakan-ovo.txt",
+            "chunk_index": 90,
+            "jarak": 0.466806560754776
+          }
+        ],
+        "guardrail": []
+      },
+      "durasi_detik": 13.3,
+      "waktu": "2026-11-23T15:57:34"
+    }
+  ]
+}

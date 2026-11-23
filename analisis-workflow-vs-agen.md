@@ -99,3 +99,8 @@ Apa yang didapat dari selisih itu: kemampuan mencoba pendekatan lain ketika
 pencarian pertama meleset — terbukti pada kasus ShopeePay, di mana jalur RAG satu
 langkah menolak (U07) sementara agen menemukan jawabannya dalam 4 langkah. Kalau
 tugasnya selalu berbentuk sama, selisih ini murni kerugian.
+
+**Catatan 23 November 2026:** contoh di atas berlaku untuk keadaan saat itu. Setelah
+koreksi peringkat retrieval, jalur RAG satu langkah juga menemukan pasal 9 dan U07
+lulus (`laporan-evaluasi.md` §10), jadi selisih agen–workflow kini harus dibuktikan
+pada tugas yang benar-benar bercabang, bukan pada kasus ini.

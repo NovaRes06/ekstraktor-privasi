@@ -116,7 +116,7 @@ heading. Ambang relevansi 0,65 dipilih dari pengukuran, bukan tebakan
 
 | Bukti | Angka | Berkas |
 |---|---|---|
-| Uji otomatis | 97 lulus | `pytest -q` |
+| Uji otomatis | 103 lulus | `pytest -q` |
 | Set uji (17 kasus, model flash) | 14 lulus seluruh kriteria | `logs/hasil-evaluasi-v1.json` |
 | Kasus agent | selesai dalam 3–4 langkah, menyebut sumber | `logs/agent_trace/` |
 | Serangan | 4 ditolak, 0 tembus, 2 tidak teruji | `logs/uji-serangan.json` |

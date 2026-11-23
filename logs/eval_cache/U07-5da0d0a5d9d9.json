@@ -1,0 +1,52 @@
+{
+  "id": "U07",
+  "jenis": "umum",
+  "target": "rag",
+  "model": "gemini-3.6-flash",
+  "nilai": {
+    "1": true,
+    "2": true,
+    "3": null,
+    "4": true,
+    "5": null
+  },
+  "lulus_semua": true,
+  "hasil": {
+    "answer": "Jawaban: ShopeePay membagikan data pribadi pengguna kepada pihak ketiga, baik yang berada di dalam maupun di luar Indonesia, dengan persetujuan pengguna untuk mendukung operasional layanan [3]. \n\nPihak ketiga yang dapat menerima data tersebut mencakup:\n- Anak perusahaan, afiliasi, dan perusahaan terkait [3].\n- Pembeli atau penjual yang melakukan transaksi atau berinteraksi dengan pengguna [3][5].\n- Kontraktor, agen, dan penyedia layanan pihak ketiga yang mendukung bisnis, seperti jasa pos, telekomunikasi, teknologi informasi, dan pusat data [3][5].\n- Pemerintah atau otoritas regulator yang memiliki wewenang [2][5].\n- Pembeli atau penerus aset dalam situasi penggabungan, restrukturisasi, pembubaran, pengalihan aset, atau proses kepailitan [5].\n\nSelain itu, ShopeePay juga dapat menyimpan dan mengungkapkan informasi akun pengguna untuk mematuhi proses hukum, perintah pengadilan, permintaan otoritas resmi, menegakkan aturan privasi, atau melindungi hak dan keamanan pribadi [2].\n\nKonteks yang dipakai: [2], [3], [5]",
+    "sources": [
+      {
+        "text": "digunakan sebagai metode pembayaran, salah satunya di e-commerce Shopee atau transaksi finansial digital lainnya. ShopeePay fokus pada penyediaan pengalaman transaksi yang mudah dan aman bagi pengguna. Kebijakan privasi ShopeePay mencakup pengumpulan, penggunaan, dan perlindungan data pribadi pengguna. Data yang dikumpulkan dapat mencakup informasi pribadi, riwayat transaksi, dan data lokasi, yang digunakan untuk memproses transaksi, menyediakan layanan yang dipersonalisasi, dan meningkatkan keamanan platform. ShopeePay juga berkomitmen untuk menjaga kerahasiaan data pengguna dengan menerapkan berbagai langkah keamanan untuk melindungi account ShopeePay kamu. Tentang ShopeePay ShopeePay oleh PT Airpay International Indonesia adalah dompet digital yang digunakan sebagai metode pembayaran, salah satunya di e-commerce Shopee atau transaksi finansial digital lainnya. Aplikasi ShopeePay telah diluncurkan sejak Februari 2024 lalu dengan beragam fitur menarik untuk memudahkan pembayaran QRIS dan online. Kebijakan Privasi ShopeePay ShopeePay sangat menjaga kerahasiaan data pribadi pengguna. Data yang dikumpulkan, seperti nama, alamat email, dan informasi perbankan, digunakan untuk memverifikasi identitas, memproses transaksi,",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 47,
+        "jarak": 0.4831390082836151
+      },
+      {
+        "text": "mengakui, menyetujui dan sepakat bahwa kami dapat mengakses, menyimpan dan mengungkapkan informasi dan konten Akun Anda jika diminta oleh hukum atau sesuai dengan perintah pengadilan atau oleh prioritas pemerintah atau regulator yang memiliki yurisdiksi atas Perseroan atau dengan keyakinan itikad baik bahwa penyimpanan atau pengungkapan akses tersebut secara wajar diperlukan untuk: (a) mematuhi proses hukum; (b) memenuhi permintaan dari otoritas pemerintah atau regulator manapun yang memiliki yurisdiksi atas Perseroan; (c) menegakkan Syarat dan Ketentuan ShopeePay terkait atau Kebijakan Privasi ini; (d) menanggapi setiap klaim yang mengancam atau aktual terhadap Perseroan atau klaim lain bahwa suatu konten melanggar hak pihak ketiga; (e) menanggapi permintaan Anda untuk layanan pelanggan; atau (f) melindungi hak, properti atau keamanan pribadi Perseroan, penggunanya dan/atau publik. 7.3 Karena tujuan kami akan/mungkin mengumpulkan, menyimpan, menggunakan, mengungkapkan atau memproses data pribadi Anda tergantung pada situasi yang dihadapi, tujuan tersebut mungkin tidak tertera di atas. Akan tetapi, kami akan memberitahu",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 25,
+        "jarak": 0.4991838335990906
+      },
+      {
+        "text": "data. 9. APAKAH PERSEROAN MENGUNGKAPKAN INFORMASI YANG DIKUMPULKANNYA DARI PENGUNJUNG KEPADA PIHAK LUAR? 9.1 Dalam menjalankan bisnis kami, dengan persetujuan Anda, kami akan/mungkin perlu mengungkapkan data pribadi Anda kepada penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait kami, dan/atau pihak ketiga lainnya, entah berlokasi di Indonesia atau di luar Indonesia, untuk satu atau lebih Tujuan yang disebutkan di atas. Penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait dan/atau pihak ketiga lainnya tersebut akan memproses data pribadi Anda atas nama kami atau pihak lainnya, untuk satu atau lebih Tujuan yang disebutkan di atas. Pihak ketiga tersebut termasuk: a. anak perusahaan, afiliasi dan perusahaan terkait kami sehubungan dengan transaksi atau layanan yang diberikan oleh Perseroan; b. pembeli atau penjual yang Anda telah melakukan transaksi dengannya atau berinteraksi dengannya di Platform atau di platform(-platform) lain atau terkait dengan penggunaan Anda atas Layanan untuk Tujuan tersebut di atas;; c. kontraktor,",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 29,
+        "jarak": 0.5031299591064453
+      },
+      {
+        "text": "pembayaran QRIS dan online. Kebijakan Privasi ShopeePay ShopeePay sangat menjaga kerahasiaan data pribadi pengguna. Data yang dikumpulkan, seperti nama, alamat email, dan informasi perbankan, digunakan untuk memverifikasi identitas, memproses transaksi, dan meningkatkan layanan ShopeePay. Data pribadi yang telah kamu percayakan kepada ShopeePay akan dikelola, dilindungi, dan ShopeePay akan mengolah data pribadi anda dengan baik.",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 48,
+        "jarak": 0.46610307693481445
+      },
+      {
+        "text": "penjual yang Anda telah melakukan transaksi dengannya atau berinteraksi dengannya di Platform atau di platform(-platform) lain atau terkait dengan penggunaan Anda atas Layanan untuk Tujuan tersebut di atas;; c. kontraktor, agen, penyedia layanan dan pihak ketiga lainnya yang kami gunakan untuk mendukung bisnis kami. Ini termasuk tetapi tidak terbatas pada pihak-pihak tersebut yang menyediakan layanan administratif atau lainnya kepada kami seperti, jasa pos, perusahaan telekomunikasi, perusahaan teknologi informasi dan pusat data; d. pemerintah atau regulator yang berwenang yang memiliki yurisdiksi atas Perseroan atau sebagaimana diizinkan dalam Bagian 7.2; e. pembeli atau penerus lainnya dalam hal terjadi penggabungan, divestasi, restrukturisasi, reorganisasi, pembubaran atau penjualan atau pengalihan lainnya atas beberapa atau semua aset Perseroan, baik secara berkelanjutan atau sebagai bagian dari kepailitan, likuidasi atau proses serupa, di mana data pribadi yang dimiliki oleh Perseroan tentang pengguna Layanan kami adalah salah satu aset yang dialihkan; atau kepada rekanan dalam suatu transaksi aset bisnis",
+        "source_doc": "kebijakan-shopeepay.txt",
+        "chunk_index": 30,
+        "jarak": 0.5210386514663696
+      }
+    ],
+    "guardrail": []
+  },
+  "durasi_detik": 13.8,
+  "waktu": "2026-11-23T15:57:02"
+}
