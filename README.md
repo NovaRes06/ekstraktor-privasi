@@ -71,11 +71,3 @@ Perintah lain: `python run_agent.py "<tugas>"`, `python -m src.eval.jalankan_set
 - Teks dipotong 20.000 karakter di `/fetch-url`, sehingga dokumen panjang (OVO ±85 ribu
   karakter) hanya teranalisis sebagian.
 - Kuota gratis 20 permintaan/hari per model; evaluasi memakai cache agar tidak mengulang.
-
-## Berikutnya
-
-1. Mengisi 4 lembar peer review (2 UTS + 2 Minggu 12) memakai template di `peer-review/`.
-2. Menguji ulang serangan #2 dan #5 saat kuota tersedia.
-
-Rincian paket bukti dan kekurangannya: `bukti/README.md`. Rencana dan status per minggu:
-`docs/catatan-proses.md`.
